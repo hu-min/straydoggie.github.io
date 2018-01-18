@@ -1,0 +1,21 @@
+input[type="button"],
+input[type="submit"],
+input[type="reset"] {
+    -webkit-appearance: none;
+}
+
+textarea {
+    -webkit-appearance: none;
+}
+
+.button {
+    border-radius: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, Sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+    text-align: center;
+}

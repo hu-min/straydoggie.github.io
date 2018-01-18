@@ -1,0 +1,366 @@
+*{
+
+}
+
+*:not(input,textarea) {
+    moz-user-select: -moz-none;
+	-moz-user-select: none;
+	-o-user-select:none;
+	-khtml-user-select:none;
+	-webkit-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+}
+
+body {
+	font-family:Helvetica,Arial,Sans-serif;
+	margin: 0px;
+	background-color:#ddd;
+	text-align:center;
+}
+.header{
+	height:50px;
+	background:#dddddd;
+	line-height:65px;
+	align-content:center;
+	border-bottom:#aaa 1px solid;
+	padding:5px 0px;
+
+}
+
+.footer{
+	height:40px;
+	background:#dddddd;
+	line-height:40px;
+	align-content:center;
+	border-top:#aaa 1px solid;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.header-text{
+	
+	height:50px;
+	color:#444;
+	padding:0px 10px 0px 10px;
+	font-size:20px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/ 
+	text-align:center;
+	vertical-align:middle;
+	float:left;
+	border-bottom:#09f 5px solid;
+
+}
+
+.header-text-weak{
+	height:50px;
+	color:#888;
+	padding:0px 10px;
+	font-size:20px;
+	text-shadow:-1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/ 
+	text-align:center;
+	vertical-align:middle;
+	float:left;
+
+}
+.content {
+	align-content:center;
+	text-align:center;
+	}
+
+.blank_space {
+
+
+}
+.inner {
+	padding:10px 10px;
+	align-content:center;
+	text-align:center;
+}
+
+.input-round {
+	-webkit-appearance:none;
+	border-radius: 10px;
+	border:solid 1px #aaa;
+	text-align:center;
+	font-size:16px;
+	background-color:#fff;
+	color:#09f;
+	padding:3px 10px;
+	margin:0px 10px;
+	width:100px;
+	height:40px;
+	float:left;
+}
+
+.input-round-textarea {
+	-webkit-appearance:none;
+	border-radius: 10px;
+	border:solid 1px #aaa;
+	font-size:16px;
+	background-color:#fff;
+	color:#09f;
+	padding:10px;
+	margin:5px;
+}
+
+.input-round-view {
+	-webkit-appearance:none;
+	border-radius: 100px;
+	border:solid 1px #aaaaaa;
+	width:100px;
+	height:100px;
+	margin:10px;
+	overflow:hidden;
+	font-size:16px;
+	background-color:#ddd;
+	color:#444;
+	position:relative;
+	
+}
+
+.input-view-photo {
+	width:100px;
+	align:top;
+	position: relative;
+	top:-20px;
+}
+
+.informtext {
+	font-size:16px;
+	color:#444;
+	margin-left:10px;
+	margin-top:0px;
+	margin-bottom:30px;
+	text-align:left;
+	text-shadow:-1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/
+	
+	
+}
+
+.cmd-line {
+	-webkit-appearance:none;
+	border-radius: 0px;
+	color:#444;
+	margin:0px;
+	padding:0px;
+	margin:10px 5px;
+	padding:0px 5px;
+	height:35px;
+	
+	font-size:18px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/ 
+	text-align:center;
+	border:none;
+	border-bottom:#aaa 5px solid;
+	float:left;
+}
+
+.cmd-line-main {
+	-webkit-appearance:none;
+	border-radius: 0px;
+	color:#444;
+	margin:0px;
+	padding:0px;
+	margin:10px 5px;
+	padding:0px 5px;
+	height:35px;
+	
+	font-size:18px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/  
+	text-align:center;
+	border:none;
+	border-bottom:#09f 5px solid;
+	float:right;
+}
+
+.cmd-line-popup {
+	-webkit-appearance:none;
+	border-radius: 0px;
+	color:#444;
+	margin:10px;
+	padding:0px 10px;
+	margin:10px 5px;
+	padding:0px 5px;
+	height:30px;
+	
+	font-size:18px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/ 
+	text-align:center;
+	border:none;
+	border-bottom:#aaa 5px solid;
+	float:right;
+}
+
+.cmd-line-main-popup {
+	-webkit-appearance:none;
+	border-radius: 0px;
+	color:#444;
+	margin:0px;
+	padding:0px 10px;
+	margin:10px;
+	padding:0px 5px;
+	height:30px;
+	
+	font-size:18px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/  
+	text-align:center;
+	border:none;
+	border-bottom:#09f 5px solid;
+	float:right;
+}
+
+.icon-s {
+	height:20px;
+	vertical-align:middle;
+	margin:2px 2px 3px 3px;
+
+}
+
+.icon-xs {
+	height:14px;
+	vertical-align:middle;
+	margin:0px 2px 3px 3px;
+
+}
+
+.labeltext {
+	color:#444;
+	height:40px;
+	margin:0px;
+	padding:0px;
+	font-size:20px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/ 
+	text-align:center;
+	line-height:46px;
+	float:left;
+}
+
+.labeltext-small {
+	color:#444;
+	height:20px;
+	margin:0px;
+	padding:0px;
+	font-size:16px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/
+	text-align:left;
+
+	float:left;
+}
+
+.labeltext-small-underline {
+	color:#444;
+	height:20px;
+	margin:0px;
+	padding:0px;
+	font-size:16px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/
+	text-align:center;
+
+	border-bottom:#aaa 1px solid;
+	float:left;
+}
+
+.labeltext-text {
+	-webkit-appearance:none;
+	color:#444;
+	background-color:transparent;
+	margin:10px;
+	padding:0px;
+	border:none;
+	font-size:16px;
+	/*font-weight:bold;*/
+	text-shadow:-1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/
+	text-align:left;
+}
+
+.popup-a {
+	display:none;
+	z-index:999;
+	margin:0px;
+	position:absolute;
+	top:40px;
+	left:30px;
+	background:#ddd;
+	border:#444 1px solid;
+	border-radius:10px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.6);
+}
+
+.popup-cover {
+	display:none;
+	z-index:998;
+	margin:0px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	background-color:rgba(0,0,0,0.6);
+	
+	
+}
+
+.popup-title {
+	color:#444;
+	margin:10px 20px 10px 15px;
+	font-size:20px;
+	text-shadow:
+	      -1px 0 0px #ddd,    /*向左阴影*/  
+                0 -1px 1px #bbb,    /*向上阴影*/  
+                1px 0 1px #ddd,     /*向右阴影*/  
+                0 1px 0px #fff;     /*向下阴影*/ 
+	text-align:left;
+}
+
+.popup-text {
+	color:#444;
+	font-size:16px;
+	margin:10px 20px 15px 20px;
+	text-align:left;
+	text-shadow:
+	      -1px 0 1px #eee,    /*向左阴影*/  
+                0 -1px 1px #ccc,    /*向上阴影*/  
+                1px 0 1px #eee,     /*向右阴影*/  
+                0 1px 1px #fff;     /*向下阴影*/
+}

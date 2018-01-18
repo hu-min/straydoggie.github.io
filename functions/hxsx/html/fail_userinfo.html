@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<meta charset="UTF-8" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>申请航线实习</title>
+    <base href="http://straydoggie.cn:81/cdapp/functions/hxsx/html/" /> 
+    <base target="_blank" />
+    <link href="css/normal.css" rel="stylesheet" type="text/css" />
+    <script src="jquery-1.8.0.js"></script>
+</head>
+<body oncontextmenu="return false;" onselectstart="return false">
+    <div class="popup-a" id="pop1">
+    	<p class="popup-title"><img class="icon-s" src="img/icon/ico_0013_about.png">读取个人信息失败</p>
+        <p class="popup-text">未能查找到你的个人信息，可能由于信息未录入或id录入错误，请联系***进行处理。</p>
+        <div class="cmd-line-popup" onClick="closeapp()">退出</div>
+    </div>
+    <div class="popup-cover" id="popcover"></div>
+	<script type="text/javascript">
+    var wd=window.innerWidth;
+    var ht=window.innerHeight;
+    open_popup("pop1");
+	function open_popup(v) {
+		var popdiv=document.getElementById(v);
+		var popcov=document.getElementById("popcover");
+		popdiv.style.display="inline";
+		popdiv.style.width=wd-60+"px";
+		popdiv.style.left=30+"px";
+		popdiv.style.top=(ht-popdiv.offsetHeight)*0.3+"px";
+		popcov.style.display="inline";
+		popcov.style.width=wd+"px";
+		popcov.style.height=ht+"px";
+	}
+	function closeapp() {
+		window.opener=null;
+        window.open('','_self');window.close();
+		WeixinJSBridge.invoke('closeWindow',{},function(res){});
+	}
+    </script>
+	</body>
+</html>

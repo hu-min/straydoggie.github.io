@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<meta charset="UTF-8" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>绩效申报</title>
+    <base href="http://straydoggie.cn:81/cdapp/functions/jxgl/" /> 
+    <base target="_blank" />
+    <link href="css/popup.css" rel="stylesheet" type="text/css" />
+    <link href="css/page.css" rel="stylesheet" type="text/css" />
+    <script src="jquery-1.8.0.js"></script>
+</head>
+<body oncontextmenu="return false;" onselectstart="return false">
+    <div id="container" >
+        <div id="view1">
+            <div class="header" id="header1">
+            <div class="header_text">填写信息</div>
+            <div class="header_text_weak">提交</div>
+            </div>
+            <div class="content" id="content1">
+            	<div class="clear"><br></div>
+            	<div class="label">月份</div>
+            	<div class="clear"></div>
+				<div class="button_round_left">　七月　</div>
+          		<div class="button_round_center_blank">　八月　</div>
+          		<div class="button_round_right_blank">　九月　</div>
+          		<div class="clear"><br></div>
+          		<div class="label">类型</div>
+           		<div class="clear"></div>
+           		<div class="button_round_left">交办事项</div>
+          		<div class="button_round_center_blank">教员工作</div>
+          		<div class="button_round_right_blank">其他类别</div>
+          		<div class="clear"><br></div>
+           		<div class="label">事件</div>
+           		<div class="clear"></div>
+           		<textarea class="input_round_textarea" id="input1" style="float:left;"></textarea>
+           		<div class="clear"></div>
+           		<div id="space1"></div>
+           		<br>
+           		<div class="button_round" style="float: left">下一步</div>
+           		<div class="clear"></div>
+           		<br>
+            </div>
+            <div class="footer" id="footer1" >
+            </div>
+        </div>
+		<div id="view2">
+
+		</div>
+    </div>
+    <div id="popups">
+        <div class="popup_cover" id="popcover"></div>
+    </div>
+	<script type="text/javascript">
+		document.getElementById("input1").style.height=0;
+		var pageWidth=window.innerWidth;
+		var pageHeight=window.innerHeight;
+		var content1=document.getElementById("content1");
+		var header1=document.getElementById("header1");
+		var footer1=document.getElementById("footer1");
+		var input1=document.getElementById("input1");
+		var content1AdjustedHeight=pageHeight-header1.offsetHeight-footer1.offsetHeight;
+		var input1AdjustedHeight=content1AdjustedHeight-content1.offsetHeight;
+		var input1AdjustedWidth=pageWidth-42;
+		//alert("pageWidth="+pageWidth+"\r\n"+"pageWidth="+pageWidth+"\r\n"+"clientWidth="+clientWidth);
+		content1.style.height=content1AdjustedHeight+"px";
+		input1.style.height=input1AdjustedHeight+"px";
+		input1.style.width=input1AdjustedWidth+"px";
+    </script>
+</body>
+</html>

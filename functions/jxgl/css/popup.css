@@ -1,0 +1,87 @@
+*:not(input,textarea) {
+    moz-user-select: -moz-none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.popup_div {
+    display: none;
+    z-index: 999;
+    margin: 0px;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    background: #ddd;
+    border: #444 1px solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+}
+
+.popup_cover {
+    display: none;
+    z-index: 998;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+.popup_title {
+    color: #444;
+    margin: 10px 20px 10px 15px;
+    font-size: 20px;
+    text-shadow: -1px 0 0px #ddd, /*向左阴影*/ 0 -1px 1px #bbb, /*向上阴影*/ 1px 0 1px #ddd, /*向右阴影*/ 0 1px 0px #fff; /*向下阴影*/
+    text-align: left;
+}
+
+.popup_text {
+    color: #444;
+    font-size: 16px;
+    margin: 10px 20px 15px 20px;
+    text-align: left;
+    text-shadow: -1px 0 1px #eee, /*向左阴影*/ 0 -1px 1px #ccc, /*向上阴影*/ 1px 0 1px #eee, /*向右阴影*/ 0 1px 1px #fff; /*向下阴影*/
+}
+
+.popup_button_blue {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    border: solid 1px #aaa;
+    border: none;
+    font-size: 16px;
+    background-color: #08e;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    box-shadow: 0px 1px 6px #666;
+}
+.popup_button_orange {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    border: solid 1px #aaa;
+    border: none;
+    font-size: 16px;
+    background-color: #e60;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    box-shadow: 0px 1px 6px #666;
+}
+
+.popup_button_grey {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    border: solid 1px #aaa;
+    border: none;
+    font-size: 16px;
+    background-color: #444;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    box-shadow: 0px 1px 6px #666;
+}

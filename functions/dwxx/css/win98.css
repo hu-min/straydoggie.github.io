@@ -1,0 +1,52 @@
+
+input{
+    -webkit-appearance: none;
+}
+body{
+    -webkit-appearance: none;
+}
+
+
+.win98 .window { 
+    background: #bfbfbf; 
+    border: 1px solid; 
+    border-top-color: #dfdfdf; 
+    border-left-color: #dfdfdf; 
+    border-right-color: #808080; 
+    border-bottom-color: #808080; 
+    box-shadow: 1px 1px 0 0 #000; 
+    width: 400px; 
+  } 
+  .win98 .window .content { 
+    padding: 7px 10px; 
+  } 
+  .win98 .window .header { 
+    margin: 2px 2px 0; 
+    padding: 1px 2px; 
+    color: #fff; 
+    background: -webkit-linear-gradient(left, #000080, #1084d0); 
+    background: linear-gradient(to right, #000080, #1084d0); 
+    font-weight: bold; 
+    font-size: 11px; 
+    line-height: 16px; 
+    text-align: left;
+  } 
+  .win98 .window .header .icon { 
+    width: 16px; 
+    height: 16px; 
+    float: left; 
+    margin-right: 2px; 
+  } 
+  .win98 .window .header .buttons { 
+    height: 14px; 
+    float: right; 
+  } 
+  .win98 .window .header .buttons button { 
+    vertical-align: text-top; 
+    font-weight: bold; 
+    line-height: 12px; 
+    font-size: 12px;
+    padding: 5px; 
+    height: 14px; 
+    width: 14px; 
+  } 

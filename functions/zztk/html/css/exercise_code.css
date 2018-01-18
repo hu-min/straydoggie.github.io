@@ -1,0 +1,250 @@
+*:not(input,textarea) {
+    moz-user-select: -moz-none;
+    -moz-user-select: none;
+    -o-user-select:none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+
+body {
+    font-family: Helvetica;
+    background-color: #dddddd;
+    margin: 0px;
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.content{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.header{
+    height:50px;
+    background:#dddddd;
+    line-height:65px;
+    border-bottom:#aaa 1px solid;
+    padding:5px 0px;
+
+}
+
+.footer{
+    height:40px;
+    background:#dddddd;
+    line-height:40px;
+    border-top:#aaa 1px solid;
+    padding:0px;
+    margin:0px;
+
+}
+
+.header_text{
+    height:50px;
+    color:#444;
+    padding:0px 10px 0px 10px;
+    font-size:20px;
+    /*font-weight:bold;*/
+    text-shadow:-1px 0 0px #ddd,    /*向左阴影*/
+    0 -1px 1px #bbb,    /*向上阴影*/
+    1px 0 1px #ddd,     /*向右阴影*/
+    0 1px 0px #fff;     /*向下阴影*/
+    text-align:center;
+    vertical-align:middle;
+    float:left;
+    border-bottom:#09f 5px solid;
+
+}
+
+.header_text_weak{
+    height:50px;
+    color:#888;
+    padding:0px 10px;
+    font-size:20px;
+    text-shadow:-1px 0 1px #eee,    /*向左阴影*/
+    0 -1px 1px #ccc,    /*向上阴影*/
+    1px 0 1px #eee,     /*向右阴影*/
+    0 1px 1px #fff;     /*向下阴影*/
+    text-align:center;
+    vertical-align:middle;
+    float:left;
+}
+
+.footer_text{
+    height:50px;
+    color:#888;
+    padding:0px 10px;
+    font-size:10px;
+    text-shadow:-1px 0 1px #eee,    /*向左阴影*/
+    0 -1px 1px #ccc,    /*向上阴影*/
+    1px 0 1px #eee,     /*向右阴影*/
+    0 1px 1px #fff;     /*向下阴影*/
+    text-align:center;
+    vertical-align:middle;
+}
+
+.button_round_grey {
+    -webkit-appearance:none;
+    border-radius: 10px;
+    border:solid 1px #aaa;
+    border:none;
+    font-size:16px;
+    background-color:#444;
+    color:#fff;
+    padding:10px;
+    margin:5px;
+    box-shadow:0px 0px 5px #999;
+}
+
+.button_round_blue {
+    -webkit-appearance:none;
+    border-radius: 10px;
+    border:solid 1px #aaa;
+    border:none;
+    font-size:16px;
+    background-color:#09f;
+    color:#fff;
+    padding:10px;
+    margin:5px;
+    box-shadow:0px 0px 5px #999;
+}
+
+.button_round_left_grey {
+    -webkit-appearance:none;
+    border-radius: 10px 0px 0px 10px;
+    border:solid 1px #444;
+    font-size:16px;
+    background-color:#444;
+    color:#fff;
+    padding:10px;
+    margin:5px 0px 5px 5px;
+    float: left;
+}
+
+.button_round_left_blank {
+    -webkit-appearance:none;
+    border-radius: 10px 0px 0px 10px;
+    border:solid 1px #444;
+    font-size:16px;
+    background-color:#444;
+    color:#fff;
+    padding:10px;
+    margin:5px 0px 5px 5px;
+    float: left;
+}
+
+.button_round_right_grey {
+    -webkit-appearance:none;
+    border-radius: 0px 10px 10px 0px;
+    border:solid 1px #444;
+    border-left:none;
+    font-size:16px;
+    background-color:#444;
+    color:#fff;
+    padding:10px;
+    margin:5px 5px 5px 0px;
+    float: left;
+}
+
+.button_round_right_blank {
+    -webkit-appearance:none;
+    border-radius: 0px 10px 10px 0px;
+    border:solid 1px #444;
+    border-left:none;
+    font-size:16px;
+    background-color: transparent;
+    color:#444;
+    padding:10px;
+    margin:5px 5px 5px 0px;
+    float: left;
+}
+
+.textbox_round {
+    -webkit-appearance:none;
+    border-radius: 10px;
+    border:solid 1px #aaa;
+    border: none;
+    font-size:16px;
+    background-color:#fff;
+    color:#09f;
+    padding:10px;
+    margin:5px;
+    text-align:center;
+    box-shadow:0px 0px 5px #aaa;
+}
+
+.text_standerd {
+    color:#444;
+    padding:0px 10px 0px 10px;
+    font-size:16px;
+    text-shadow:
+        -1px 0 0px #ddd,    /*向左阴影*/
+        0 -1px 1px #bbb,    /*向上阴影*/
+        1px 0 1px #ddd,     /*向右阴影*/
+        0 1px 0px #fff;     /*向下阴影*/
+    text-align:left;
+}
+
+.popup_form {
+    display:none;
+    z-index:999;
+    margin:0px;
+    position:absolute;
+    top:40px;
+    left:30px;
+    background:#ddd;
+    border:#444 1px solid;
+    border-radius:10px;
+    box-shadow:0px 0px 20px rgba(0,0,0,0.6);
+}
+
+.popup_cover {
+    display:none;
+    z-index:998;
+    margin:0px;
+    position:absolute;
+    top:0px;
+    left:0px;
+    background-color:rgba(0,0,0,0.6);
+}
+
+.popup_title {
+    color:#444;
+    margin:10px 20px 10px 15px;
+    font-size:20px;
+    text-shadow:
+            -1px 0 0px #ddd,    /*向左阴影*/
+            0 -1px 1px #bbb,    /*向上阴影*/
+            1px 0 1px #ddd,     /*向右阴影*/
+            0 1px 0px #fff;     /*向下阴影*/
+    text-align:left;
+}
+
+.popup_text {
+    color:#444;
+    font-size:16px;
+    margin:10px 20px 15px 20px;
+    text-align:left;
+    text-shadow:
+            -1px 0 1px #eee,    /*向左阴影*/
+            0 -1px 1px #ccc,    /*向上阴影*/
+            1px 0 1px #eee,     /*向右阴影*/
+            0 1px 1px #fff;     /*向下阴影*/
+}
+.popup_button {
+    -webkit-appearance:none;
+    border-radius: 10px;
+    border:solid 1px #aaa;
+    border:none;
+    font-size:16px;
+    background-color:#09f;
+    color:#fff;
+    padding:10px 30px;
+    margin:15px;
+    box-shadow:0px 0px 5px #999;
+}

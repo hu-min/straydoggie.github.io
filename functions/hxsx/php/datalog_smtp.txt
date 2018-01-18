@@ -1,0 +1,55 @@
+Mar 17 15:29:30 IUSR[3232]: Trying to smtp.163.com:994
+Mar 17 15:29:50 IUSR[3232]: Error: Remote host returned ""
+Mar 17 15:29:50 IUSR[3232]: Error: Cannot connenct to relay host smtp.163.com
+Mar 17 15:29:50 IUSR[3232]: Error:  (0)
+Mar 17 15:29:50 IUSR[3232]: Error: Cannot send email to straydoggie@163.com
+Mar 17 15:30:32 IUSR[3232]: Trying to smtp.163.com:994
+Mar 17 15:30:52 IUSR[3232]: Error: Remote host returned ""
+Mar 17 15:30:52 IUSR[3232]: Error: Cannot connenct to relay host smtp.163.com
+Mar 17 15:30:52 IUSR[3232]: Error:  (0)
+Mar 17 15:30:52 IUSR[3232]: Error: Cannot send email to straydoggie@163.com
+Mar 17 15:31:07 IUSR[3232]: Trying to smtp.163.com:994
+Mar 17 15:31:28 IUSR[3232]: Error: Remote host returned ""
+Mar 17 15:31:28 IUSR[3232]: Error: Cannot connenct to relay host smtp.163.com
+Mar 17 15:31:28 IUSR[3232]: Error:  (0)
+Mar 17 15:31:28 IUSR[3232]: Error: Cannot send email to straydoggie@163.com
+Mar 17 15:33:58 IUSR[3232]: Trying to smtp.sina.com:465
+Mar 17 15:34:32 IUSR[3232]: Trying to smtp.sina.com:465
+Mar 17 15:35:53 IUSR[3232]: Trying to smtp.sina.com:25
+Mar 17 15:35:54 IUSR[3232]: Connected to relay host smtp.sina.com
+Mar 17 15:35:55 IUSR[3232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 15:35:55 IUSR[3232]: Disconnected from remote host
+Mar 17 15:36:32 IUSR[3232]: Trying to smtp.163.com:25
+Mar 17 15:36:34 IUSR[3232]: Connected to relay host smtp.163.com
+Mar 17 15:36:34 IUSR[3232]: Error: Remote host returned "550 User has no permission"
+Mar 17 15:36:34 IUSR[3232]: Error: Error occurred while sending HELO command.
+Mar 17 15:36:34 IUSR[3232]: Error: Cannot send email to <straydoggie@163.com>
+Mar 17 15:36:34 IUSR[3232]: Disconnected from remote host
+Mar 17 15:38:36 IUSR[3232]: Trying to smtp.sina.com:25
+Mar 17 15:38:36 IUSR[3232]: Connected to relay host smtp.sina.com
+Mar 17 15:38:37 IUSR[3232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 15:38:37 IUSR[3232]: Disconnected from remote host
+Mar 17 15:59:02 IUSR[2232]: Trying to smtp.sina.com:25
+Mar 17 15:59:03 IUSR[2232]: Connected to relay host smtp.sina.com
+Mar 17 15:59:04 IUSR[2232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 15:59:04 IUSR[2232]: Disconnected from remote host
+Mar 17 15:59:51 IUSR[2232]: Trying to smtp.sina.com:25
+Mar 17 15:59:51 IUSR[2232]: Connected to relay host smtp.sina.com
+Mar 17 15:59:52 IUSR[2232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 15:59:52 IUSR[2232]: Disconnected from remote host
+Mar 17 16:00:03 IUSR[2232]: Trying to smtp.sina.com:25
+Mar 17 16:00:03 IUSR[2232]: Connected to relay host smtp.sina.com
+Mar 17 16:00:04 IUSR[2232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 16:00:04 IUSR[2232]: Disconnected from remote host
+Mar 17 16:01:13 IUSR[2232]: Trying to smtp.sina.com:25
+Mar 17 16:01:14 IUSR[2232]: Connected to relay host smtp.sina.com
+Mar 17 16:01:15 IUSR[2232]: E-mail has been sent to <straydoggie@163.com>
+Mar 17 16:01:15 IUSR[2232]: Disconnected from remote host
+Mar 20 20:56:50 IUSR[3036]: Trying to smtp.sina.com:25
+Mar 20 20:56:50 IUSR[3036]: Connected to relay host smtp.sina.com
+Mar 20 20:56:51 IUSR[3036]: E-mail has been sent to <straydoggie@163.com>
+Mar 20 20:56:51 IUSR[3036]: Disconnected from remote host
+Mar 20 20:58:03 IUSR[3936]: Trying to smtp.sina.com:25
+Mar 20 20:58:04 IUSR[3936]: Connected to relay host smtp.sina.com
+Mar 20 20:58:05 IUSR[3936]: E-mail has been sent to <straydoggie@163.com>
+Mar 20 20:58:05 IUSR[3936]: Disconnected from remote host

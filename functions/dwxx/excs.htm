@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<meta charset="UTF-8" content="">
+<meta content="width=device-width,user-scalable=no" name="viewport">
+<meta name="x5-fullscreen" content="true">
+<meta name="full-screen" content="yes">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>·政治试题练习·</title>
+    <base href="http://straydoggie.cn:81/cdapp/functions/dwxx/" />
+    <base target="_blank" />
+    <script src="http://lib.sinaapp.com/js/jquery/1.8.1/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>
+    <link href="css/page.css" rel="stylesheet" type="text/css" />
+    <link href="css/views.css" rel="stylesheet" type="text/css" />
+    <link href="css/elements.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div id="view_welcom" style="display: none">
+        <div style="background: #323248; margin: 0px; padding: 30px">
+            <img src="img/logo_cpc.svg" height="90px" align="middle">
+            <img src="img/dash_v.svg" height="110px" width="2px" align="middle" style="margin:0px 10px">
+            <img src="img/logo_atmb.svg" height="90px" align="middle">
+            <p class="text_title">终端二室党务学习</p>
+        </div>
+    </div>
+    <div id="view_select" class="view_selection_scroll" style="display: none">
+        <p class="view_selection_item">1</p>
+        <p class="view_selection_item">2</p>
+        <p class="view_selection_item">~</p>
+    </div>
+    <div id="view_config" class="view_exec_content" style="background: #aaa;margin:0">
+        <br>
+        <br>
+        <br>
+
+        <div class="content">
+            <br>
+            <h2>选择需要练习的内容</h2>
+            <p style="font-size:10px">基于“民航西南空管局纪检监察”公众号“题库”制作</p>
+            <br>
+            <br>
+            <input type="button" onclick="start(104000,61)" value="判断" class="entrance_btn">
+            <input type="button" onclick="start(101000,54)" value="单选" class="entrance_btn">
+            <input type="button" onclick="start(102000,34)" value="多选" class="entrance_btn">
+            <input type="button" onclick="start(103000,30)" value="填空" class="entrance_btn">
+            <p style="font-size:10px;color:#f00">*如遇到页面无内容请连续刷新两次以清空缓存</p>
+            <div id="initview_space"></div>
+            <div style="font-size:9px;color:rgba(0, 0, 0,0.15)">Coded by StrayDoggie 2017, Chengdu.</div>
+        </div>
+    </div>
+    <div id="view_essential" class="view_exec_content" style="display:none">
+        <div id="exec_title" class="content_title">
+            单项选择题
+        </div>
+        <div id="exec_content">
+            <div id="exec_content_unichoice"  style="display:none">
+                <div id="exec_content_unichoice_text" class="content_text">
+                </div>
+                <div id="exec_content_unichoice_option">
+                </div>
+                <div id="option_eg_unichoice" class="content_text" style="display: none">
+                </div>
+            </div>
+            <div id="exec_content_multichoice"  style="display:none">
+                <div id="exec_content_multichoice_text" class="content_text">
+                </div>
+                <div id="exec_content_multichoice_option">
+                </div>
+                <div id="option_eg_multichoice" class="content_text" style="display: none">
+                </div>
+                <input id="multichoice_valid" class="valid_btn" type="button" value="提交" onclick="check_multichoice()">
+            </div>
+            <div id="exec_content_fillblank"  style="display:none">
+                <div id="exec_content_fillblank_text" class="fillblank_text"></div>
+                <input id="input_eg_fillblank" class="fillblank_input" style="display: none" type="text">
+                <input id="fillblank_valid" class="valid_btn" type="button" value="提交" onclick="valid_fillblank()">
+                <br>
+                <input id="fillblank_help" class="help_btn" type="button" value="?" onclick="help_fillblank()">
+            </div>
+            <div id="exec_content_truefalse"  style="display:none">
+                <div id="exec_content_truefalse_text" class="content_text">
+                </div>
+                <div id="exec_content_truefalse_option">
+                    <input id="tfbtn_true" class="valid_btn" type="button" value="True" onclick="check_truefalse('T')">
+                    <br>
+                    <input id="tfbtn_false" class="valid_btn" type="button" value="False" onclick="check_truefalse('F')">
+                </div>
+            </div>
+
+        </div>
+        <div id="exec_command">
+            <div id="blank"></div>
+            <input id="cmd_home" class="control_btn" type="button" value="Back" onclick="location.reload()">
+            <input id="cmd_prev" class="control_btn" type="button" value="Prev" onclick='control_jump("prev")'>
+            <input id="cmd_next" class="control_btn" type="button" value="Next" onclick='control_jump("next")'>
+        </div>
+        <div id="exec_footbar" class="blur_tip">Coded by StrayDoggie 2017, Chengdu.</div>
+    </div>
+
+
+    </div>
+    <div id="view_result">
+    </div>
+    <div id="popup_echo" class="popupview">
+        <div id="echo_content"></div>
+    </div>
+    <div id="popup_error" class="popupview">
+        <div id="caption" class="popupcation">
+
+        </div>
+        <div id="text" class="popuptext">
+
+        </div>
+        <input type="button" id="exitbutton" class="popupbtn" />
+    </div>
+    <div id="popup_cover" class="popupcover">
+
+    </div>
+    <div id="background" class="backgroundview">
+
+    </div>
+    <audio id="audio_err" src="res/wib.wav"></audio>
+    
+    <script src="js/excs_getdata.js"></script>
+    <script src="js/excs_control.js"></script>
+    <script src="js/excs_unichoice.js"></script>
+    <script src="js/excs_multichoice.js"></script>
+    <script src="js/excs_fillblank.js"></script>
+    <script src="js/excs_truefalse.js"></script>
+    <script src="js/excs_popup.js"></script>
+    <script src="js/excs_init.js"></script>
+    <script type="text/javascript">
+        //by Stray Doggie
+    </script>
+</body>
+
+</html>

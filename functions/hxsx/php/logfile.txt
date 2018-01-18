@@ -1,0 +1,462 @@
+[2017-04-06 00:49:04][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:49:06][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:49:06][receive.php][save]failed with sql
+[2017-04-06 00:49:06][receive.php][save]  
+[2017-04-06 00:49:06][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('7655C409-7CDE-91D6-E9FE-34722E0D130C','2017-04-06 00:49:06','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:49:44][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:49:46][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:49:46][receive.php][save]failed with sql
+[2017-04-06 00:49:46][receive.php][save]  
+[2017-04-06 00:49:46][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('96502BF6-15A8-1C7F-00B9-CAFB14EF54BF','2017-04-06 00:49:46','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:50:39][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:50:41][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:50:41][receive.php][save]failed with sql
+[2017-04-06 00:50:41][receive.php][save]  
+[2017-04-06 00:50:41][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('667BD029-41D2-AC5C-8FE9-BC0851F4B2AA','2017-04-06 00:50:41','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:50:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:50:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:50:49][receive.php][save]failed with sql
+[2017-04-06 00:50:49][receive.php][save]  
+[2017-04-06 00:50:49][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('1A3F8B57-919B-55D4-CE5B-4632FBDAC1EB','2017-04-06 00:50:49','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:51:32][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:51:34][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:51:34][receive.php][save]failed with sql
+[2017-04-06 00:51:34][receive.php][save]  
+[2017-04-06 00:51:34][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('7655C409-7CDE-91D6-E9FE-34722E0D130C','2017-04-06 00:49:06','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:53:11][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:53:12][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:53:12][receive.php][save]failed with sql
+[2017-04-06 00:53:12][receive.php][save]  
+[2017-04-06 00:53:12][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('C1596E33-DD97-F5C6-DF3D-627C09318116','2017-04-06 00:53:12','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 00:53:29][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 00:53:31][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 00:53:31][receive.php][save]failed with sql
+[2017-04-06 00:53:32][receive.php][save]  
+[2017-04-06 00:53:32][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('4B8CB667-D21C-14F0-E37A-A045C88FBB9D','2017-04-06 00:53:31','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:09:11][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:09:13][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:09:13][receive.php][save]failed with sql
+[2017-04-06 01:09:13][receive.php][save]  
+[2017-04-06 01:09:13][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('8260E4A8-6B9E-2C22-452A-697E4D0DDD87','2017-04-06 01:09:13','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:12:52][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:12:54][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:12:54][receive.php][save]failed with sql
+[2017-04-06 01:12:54][receive.php][save]  
+[2017-04-06 01:12:54][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('807E351B-A747-9057-F5B3-95C587FDBD78','2017-04-06 01:12:54','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:21:19][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:21:21][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:21:22][receive.php][save]failed with sql
+[2017-04-06 01:21:22][receive.php][save]  
+[2017-04-06 01:21:22][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('DB55C068-D5C5-0133-6D1E-C4DCF6493F7B','2017-04-06 01:21:21','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:26:32][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:26:34][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:26:34][receive.php][save]failed with sql
+[2017-04-06 01:26:34][receive.php][save]  
+[2017-04-06 01:26:34][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('395A2F7B-339C-FDEA-ABC5-7D4351D8D8C5','2017-04-06 01:26:34','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:30:09][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:30:11][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:30:11][receive.php][save]failed with sql
+[2017-04-06 01:30:11][receive.php][save]
+[2017-04-06 01:30:11][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('56E54B1F-B2D5-3C65-320E-8BB297C91A9F','2017-04-06 01:30:11','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:41:31][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:41:33][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:41:33][receive.php][save]failed with sql
+[2017-04-06 01:41:33][receive.php][save]
+[2017-04-06 01:41:33][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('91F9041B-F9D7-2D92-98B8-8D15BF3DAA5F','2017-04-06 01:41:33','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:48:21][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:48:22][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:48:22][receive.php][save]failed with sql
+[2017-04-06 01:48:22][receive.php][save]
+[2017-04-06 01:48:22][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES ('2BB5390C-D581-784B-1B90-E7CB7B90A55E','2017-04-06 01:48:22','straydoggie','王涛','64020219891003009X','2012036','18628205151','2017-11-11','2017-11-17','成都','北京','上海','广州',0,'无',10)
+[2017-04-06 01:51:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:51:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:51:49][receive.php][save]failed with sql
+[2017-04-06 01:51:49][receive.php][save]
+[2017-04-06 01:51:49][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'A1965294-8BBD-09D4-FF20-4B3B8237498E\',\'2017-04-06 01:51:49\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-04-06 01:54:01][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 01:54:03][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 01:54:03][receive.php][save]failed with sql
+[2017-04-06 01:54:03][receive.php][save]
+[2017-04-06 01:54:03][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'84A71B27-BC2A-C6E6-7668-0A009A523797\',\'2017-04-06 01:54:03\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-04-06 02:00:15][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 02:00:17][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 02:00:17][receive.php][save]failed with sql
+[2017-04-06 02:00:17][receive.php][save]
+[2017-04-06 02:00:17][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'3DC37702-8DDC-B0CB-EE76-D8AD13AEFBAB\',\'2017-04-06 02:00:17\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-04-06 02:01:31][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-06 02:01:33][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-04-06 02:01:33][receive.php][save]failed with sql
+[2017-04-06 02:01:33][receive.php][save]
+[2017-04-06 02:01:33][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'237EC9E6-B02A-2BCF-08DE-53E9F4BE5628\',\'2017-04-06 02:01:33\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-04-11 09:21:11][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-04-11 09:21:18][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海方法***广州***0***
+[2017-04-11 09:21:19][receive.php][save]failed with sql
+[2017-04-11 09:21:19][receive.php][save]
+[2017-04-11 09:21:19][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'E2E94AC2-890B-73D4-771E-86B6BC2443F2\',\'2017-04-11 09:21:19\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海方法\',\'广州\',0,\'无\',10)
+[2017-05-05 09:33:18][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 11:50:55][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 11:51:04][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 11:52:14][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***1***因为
+[2017-05-29 11:52:14][receive.php][save]failed with sql
+[2017-05-29 11:52:14][receive.php][save]
+[2017-05-29 11:52:14][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'047E773F-6008-12E4-13A3-0F2BDF76D133\',\'2017-05-29 11:52:14\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',1,\'因为\',10)
+[2017-05-29 11:52:21][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 11:52:23][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 11:52:23][receive.php][save]failed with sql
+[2017-05-29 11:52:23][receive.php][save]
+[2017-05-29 11:52:23][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'F0AFE7FD-7346-42C7-849F-BEBF6CFB5553\',\'2017-05-29 11:52:23\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:03:22][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:03:27][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:03:29][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:03:29][receive.php][save]failed with sql
+[2017-05-29 12:03:29][receive.php][save]
+[2017-05-29 12:03:29][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'61EA70DD-97B9-F0FB-3F33-108959D48ED8\',\'2017-05-29 12:03:29\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:06:49][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:06:51][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:06:51][receive.php][save]failed with sql
+[2017-05-29 12:06:51][receive.php][save]
+[2017-05-29 12:06:51][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'57B2E74C-34ED-012A-26E1-D33A5E18250E\',\'2017-05-29 12:06:51\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:08:24][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:08:26][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:08:26][receive.php][save]failed with sql
+[2017-05-29 12:08:26][receive.php][save]
+[2017-05-29 12:08:26][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'20F53A44-79C5-C355-C283-6A931FC7C2CF\',\'2017-05-29 12:08:26\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:14:05][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:14:09][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:14:09][receive.php][save]failed with sql
+[2017-05-29 12:14:09][receive.php][save]
+[2017-05-29 12:14:09][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'48188428-30E8-285C-5C04-A97637FF23C7\',\'2017-05-29 12:14:09\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:14:38][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:14:40][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:14:40][receive.php][save]failed with sql
+[2017-05-29 12:14:40][receive.php][save]
+[2017-05-29 12:14:40][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'FCB38B84-6877-53CD-C66D-345A874AA3B4\',\'2017-05-29 12:14:40\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:15:29][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:15:32][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:15:32][receive.php][save]failed with sql
+[2017-05-29 12:15:32][receive.php][save]
+[2017-05-29 12:15:32][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (`BB1C8467-08AE-0D36-FC8B-FB410313088E`,`2017-05-29 12:15:32`,`straydoggie`,`王涛`,`64020219891003009X`,`2012036`,`18628205151`,`2017-11-11`,`2017-11-17`,`成都`,`北京`,`上海`,`广州`,0,`无`,10)
+[2017-05-29 12:16:24][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:16:26][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:16:26][receive.php][save]failed with sql
+[2017-05-29 12:16:26][receive.php][save]
+[2017-05-29 12:16:26][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'44A22326-251F-0572-0D0B-499A7E1DED27\',\'2017-05-29 12:16:26\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:24:03][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:24:06][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:24:06][receive.php][save]failed with sql
+[2017-05-29 12:24:07][receive.php][save]
+[2017-05-29 12:24:07][receive.php][save]INSERT INTO hxsx_applications (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'444F6AD3-C3C8-1A49-E7E0-C0677B4F29AD\',\'2017-05-29 12:24:06\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:25:03][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:25:06][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:25:06][receive.php][save]failed with sql
+[2017-05-29 12:25:06][receive.php][save]
+[2017-05-29 12:25:06][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'8952689A-828E-1576-BEDF-37F721130675\',\'2017-05-29 12:25:06\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:28:03][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:28:05][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:28:05][receive.php][save]failed with sql
+[2017-05-29 12:28:05][receive.php][save]
+[2017-05-29 12:28:05][receive.php][save]
+[2017-05-29 12:28:05][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'2D96BD73-F901-E89A-3A88-574083686E4E\',\'2017-05-29 12:28:05\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:30:02][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:30:05][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:30:05][receive.php][save]failed with sql
+[2017-05-29 12:30:05][receive.php][save]
+[2017-05-29 12:30:05][receive.php][save]
+[2017-05-29 12:30:05][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'384E1D3E-6E62-1E85-9081-093319728FE5\',\'2017-05-29 12:30:05\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:33:55][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:33:58][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:34:00][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:34:00][receive.php][save]failed with sql
+[2017-05-29 12:34:00][receive.php][save]
+[2017-05-29 12:34:00][receive.php][save]
+[2017-05-29 12:34:00][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'204EF60F-B051-4D5D-0566-614529CE0053\',\'2017-05-29 12:34:00\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:42:17][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:42:19][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:42:19][receive.php][save]failed with sql
+[2017-05-29 12:42:20][receive.php][save]
+[2017-05-29 12:42:20][receive.php][save]
+[2017-05-29 12:42:20][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'6523A737-10D0-2642-D0F5-5C8DBF0ADB99\',\'2017-05-29 12:42:19\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:44:39][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:44:41][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:44:41][receive.php][save]failed with sql
+[2017-05-29 12:44:41][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'4788939D-9FFF-54F8-8A4F-E043CF8E011D\',\'2017-05-29 12:44:41\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:45:22][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:45:23][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:45:24][receive.php][save]failed with sql
+[2017-05-29 12:45:24][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'15D087C5-A52B-B5E6-BA77-63198FA075E5\',2017-05-29 12:45:23,\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:46:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:46:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:46:49][receive.php][save]failed with sql
+[2017-05-29 12:46:49][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'5FD49481-01D6-4D9F-0E10-042D38F9B1D6\',\'2017-05-29 12:46:49\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:47:36][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:47:38][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:47:38][receive.php][save]linkResource id #9
+[2017-05-29 12:47:38][receive.php][save]failed with sql
+[2017-05-29 12:47:38][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'D1F28BDB-F343-57BD-7980-A185FB05EB93\',\'2017-05-29 12:47:38\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:48:43][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:48:46][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:48:46][receive.php][save]failed with sql
+[2017-05-29 12:48:46][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:50:07][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:50:10][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:50:10][receive.php][save]failed with sql
+[2017-05-29 12:50:10][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:52:37][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:52:41][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:52:41][receive.php][save]failed with sql
+[2017-05-29 12:52:41][receive.php][save]
+[2017-05-29 12:52:41][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:54:19][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:54:21][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:54:21][receive.php][save]failed with sql
+[2017-05-29 12:54:21][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:54:35][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:54:37][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:54:37][receive.php][save]failed with sql
+[2017-05-29 12:54:37][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:57:36][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:57:38][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:57:38][receive.php][save]failed with sql
+[2017-05-29 12:57:38][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 12:58:01][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 12:58:03][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 12:58:03][receive.php][save]failed with sql
+[2017-05-29 12:58:03][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:01:45][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:01:47][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:01:47][receive.php][save]failed with sql
+[2017-05-29 13:01:47][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:02:15][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:02:17][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:02:17][receive.php][save]failed with sql
+[2017-05-29 13:02:17][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:02:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:02:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:03:34][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:03:37][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:06:30][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:06:33][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:06:33][receive.php][save]failed with sql
+[2017-05-29 13:06:33][receive.php][save]Access denied for user ''@'localhost' (using password: NO)
+[2017-05-29 13:06:33][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'0AF0CCDD-B3FF-A993-6334-EA94CE33CE1B\',\'2017-05-29 13:06:33\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:56:59][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:57:01][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:57:01][receive.php][save]failed with sql
+[2017-05-29 13:57:01][receive.php][save]Access denied for user ''@'localhost' (using password: NO)
+[2017-05-29 13:57:01][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'61994C6F-9D8F-1655-3E51-890401702D17\',\'2017-05-29 13:57:01\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:58:34][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:58:44][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:58:44][receive.php][save]failed:
+[2017-05-29 13:58:44][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'2838D1B1-3AD9-4F1F-FADE-C1613F514084\',\'2017-05-29 13:58:44\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 13:59:01][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 13:59:03][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 13:59:03][receive.php][save]failed:
+[2017-05-29 13:59:03][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'CD4B78E9-D7D9-98F3-B45C-4EABE7259C8B\',\'2017-05-29 13:59:03\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:02:21][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:02:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:02:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:02:49][receive.php][save]failed:
+[2017-05-29 14:02:49][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'EB1667F7-7F42-0490-A830-69889BE902A6\',\'2017-05-29 14:02:49\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:03:28][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:03:30][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:03:30][receive.php][save]failed:
+[2017-05-29 14:03:30][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'FDC2A6F7-69C2-7AC2-1AF0-27FA7E37E2F2\',\'2017-05-29 14:03:30\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:03:48][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:03:51][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:03:51][receive.php][save]failed:
+[2017-05-29 14:03:51][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'3F51C45C-520E-7603-1D83-E226BBC6A0CD\',\'2017-05-29 14:03:51\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:04:23][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:04:24][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:04:24][receive.php][save]failed:
+[2017-05-29 14:04:24][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'1774E950-C388-FD2D-0442-C811DA16A343\',\'2017-05-29 14:04:24\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:08:33][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:08:43][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海333***广州***0***
+[2017-05-29 14:08:43][receive.php][save]failed:
+[2017-05-29 14:08:43][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'FFCAC497-A149-326E-9514-533FA49F801C\',\'2017-05-29 14:08:43\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海333\',\'广州\',0,\'无\',10)
+[2017-05-29 14:20:52][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:20:55][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:20:55][receive.php][save]failed:
+[2017-05-29 14:20:55][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'8ACA8842-9FB5-6D67-F15A-E3910EE4795A\',\'2017-05-29 14:20:55\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:23:48][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:23:50][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:23:50][receive.php][save]failed:
+[2017-05-29 14:23:50][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'CDB76B2F-9712-8F84-637F-6588AD969839\',\'2017-05-29 14:23:50\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:24:22][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:24:24][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:24:24][receive.php][save]failed:
+[2017-05-29 14:24:24][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'661677C3-D7DA-6B72-327E-9E682BD19A31\',\'2017-05-29 14:24:24\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:25:23][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:25:25][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:25:25][receive.php][save]failed:
+[2017-05-29 14:25:25][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'8A635E97-3E2C-57B8-82B2-EC092E4E0933\',\'2017-05-29 14:25:25\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:25:57][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:26:01][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:26:01][receive.php][save]failed:
+[2017-05-29 14:26:01][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都xx\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:28:05][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:28:07][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:28:07][receive.php][save]failed:
+[2017-05-29 14:28:07][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都xx\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:29:05][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:29:07][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:29:07][receive.php][get_content]
+[2017-05-29 14:29:08][receive.php][get_content]
+[2017-05-29 14:30:02][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:30:04][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:30:04][receive.php][save]failed:
+[2017-05-29 14:30:04][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ADD26147-BCAE-CE00-4ECE-B6682CE85938\',\'2017-05-29 12:48:46\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都xx\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:30:36][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:30:39][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:30:39][receive.php][get_content]
+[2017-05-29 14:30:40][receive.php][get_content]
+[2017-05-29 14:32:38][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:32:40][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:32:40][receive.php][get_content]2017-05-29 14:32:40,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:32:41][receive.php][get_content]2017-05-29 14:32:40,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:32:52][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:32:55][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:32:55][receive.php][save]failed:
+[2017-05-29 14:32:55][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'74BE9152-85DA-FC54-A3E3-7F76F9698057\',\'2017-05-29 14:32:55\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:34:19][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:34:21][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:34:21][receive.php][save]failed:
+[2017-05-29 14:34:21][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'31833905-6603-FD65-5B7F-FE9E382AD621\',\'2017-05-29 14:34:21\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',1)
+[2017-05-29 14:36:34][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:36:36][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:36:36][receive.php][save]status:1
+[2017-05-29 14:36:36][receive.php][save]failed:
+[2017-05-29 14:36:36][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'075E10D7-56CE-FA2A-9FF2-96F716A444D1\',\'2017-05-29 14:36:36\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',1)
+[2017-05-29 14:37:09][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:37:11][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:37:11][receive.php][save]status:10
+[2017-05-29 14:37:11][receive.php][save]failed:
+[2017-05-29 14:37:11][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'9CC4F643-4674-B69B-0BE4-01DC0C289ACD\',\'2017-05-29 14:37:11\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:37:35][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:37:37][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:37:37][receive.php][save]status:10x
+[2017-05-29 14:37:37][receive.php][save]failed:
+[2017-05-29 14:37:37][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'6A4A6F2E-2571-DAB8-3C7A-BABA96E3C253\',\'2017-05-29 14:37:37\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:39:02][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:39:04][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:39:04][receive.php][save]status:10x
+[2017-05-29 14:39:04][receive.php][save]failed:
+[2017-05-29 14:39:04][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'CD552CCC-92B8-AA36-4B5D-DF900EFBBA96\',\'2017-05-29 14:39:04\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:41:16][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:41:18][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:41:18][receive.php][save]status:10x
+[2017-05-29 14:41:18][receive.php][save]failed:
+[2017-05-29 14:41:18][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'3F53DADD-6028-47FA-35AB-DB33469D407B\',\'2017-05-29 14:41:18\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:42:42][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:42:45][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:42:45][receive.php][save]status:10x
+[2017-05-29 14:42:45][receive.php][save]failed:
+[2017-05-29 14:42:45][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'B3889C3A-A0E2-289B-252D-3ACC29FDE1F9\',\'2017-05-29 14:42:45\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:43:02][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:43:04][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:43:04][receive.php][save]status:10x
+[2017-05-29 14:43:04][receive.php][save]failed:
+[2017-05-29 14:43:04][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'52DFB0A8-0E90-CAAA-0417-7C5C82276AD7\',\'2017-05-29 14:43:04\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:43:47][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:43:49][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:43:49][receive.php][save]status:10x
+[2017-05-29 14:43:49][receive.php][save]failed:
+[2017-05-29 14:43:49][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'341C14B3-7C72-D795-F8E4-15BE56066D31\',\'2017-05-29 14:43:49\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:44:07][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:44:08][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:44:08][receive.php][save]status:10x
+[2017-05-29 14:44:08][receive.php][save]failed:
+[2017-05-29 14:44:09][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'ACC9BC24-3FB5-DE42-4C05-0F0B8382120A\',\'2017-05-29 14:44:08\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:45:18][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:45:20][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:45:20][receive.php][save]status:x
+[2017-05-29 14:45:20][receive.php][save]failed:
+[2017-05-29 14:45:20][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'1F287232-97B7-7808-7BB7-B7B612F88B3D\',\'2017-05-29 14:45:20\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',1)
+[2017-05-29 14:46:30][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:46:32][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:46:32][receive.php][save]status:x
+[2017-05-29 14:46:32][receive.php][save]failed:
+[2017-05-29 14:46:32][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'7C21ECAC-48BF-AB11-3B42-5D03F28BF1F0\',\'2017-05-29 14:46:32\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:46:39][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:46:41][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:46:41][receive.php][save]status:x
+[2017-05-29 14:46:41][receive.php][save]failed:
+[2017-05-29 14:46:41][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'891995BD-E82C-F894-EABF-001314722893\',\'2017-05-29 14:46:41\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:47:03][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:47:05][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:47:05][receive.php][save]state:10x
+[2017-05-29 14:47:05][receive.php][save]failed:
+[2017-05-29 14:47:05][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'14D49A68-A71A-BCD6-9A31-3156C60883CE\',\'2017-05-29 14:47:05\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:47:34][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:47:37][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:47:37][receive.php][get_content]2017-05-29 14:47:37,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:47:38][receive.php][get_content]2017-05-29 14:47:37,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:47:58][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:48:00][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:48:00][receive.php][save]failed:
+[2017-05-29 14:48:00][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'1EAEB80F-3C8D-21C1-8009-64F345EC8593\',\'2017-05-29 14:48:00\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',0)
+[2017-05-29 14:48:38][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:48:40][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:48:40][receive.php][save]failed:
+[2017-05-29 14:48:40][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'0D70504A-1D8D-A889-2FB2-BB3CA532AB7E\',\'2017-05-29 14:48:40\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',0)
+[2017-05-29 14:49:08][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:49:10][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:49:10][receive.php][save]state:10x
+[2017-05-29 14:49:10][receive.php][save]failed:
+[2017-05-29 14:49:10][receive.php][save]INSERT INTO `hxsx_applications` (`guid`,`time`,`user`,`name`,`id_cert`,`id_crop`,`tel`,`date1`,`date2`,`dest1`,`dest2`,`dest3`,`dest4`,`type`,`text`,`status`) VALUES (\'3DF0727D-28E7-5F48-511E-CFDF71C329A3\',\'2017-05-29 14:49:10\',\'straydoggie\',\'王涛\',\'64020219891003009X\',\'2012036\',\'18628205151\',\'2017-11-11\',\'2017-11-17\',\'成都\',\'北京\',\'上海\',\'广州\',0,\'无\',10)
+[2017-05-29 14:49:18][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:49:19][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:49:19][receive.php][get_content]2017-05-29 14:49:19,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:49:23][receive.php][get_content]2017-05-29 14:49:19,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 14:49:39][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:49:41][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:49:41][receive.php][get_content]2017-05-29 14:49:41,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:49:42][receive.php][get_content]2017-05-29 14:49:41,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:50:38][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:50:40][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:50:40][receive.php][save]state:0x
+[2017-05-29 14:50:40][receive.php][get_content]2017-05-29 14:50:40,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:50:41][receive.php][get_content]2017-05-29 14:50:40,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:52:01][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:52:03][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:52:03][receive.php][save]state:0x
+[2017-05-29 14:52:03][receive.php][get_content]2017-05-29 14:52:03,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:52:04][receive.php][get_content]2017-05-29 14:52:03,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:53:41][receive.php][modify]success<FFCAC497-A149-326E-9514-533FA49F801C***1000***无>
+[2017-05-29 14:53:43][receive.php][modify]success<297F4958-D421-A2C9-FD76-60BE5B491040***1000***无>
+[2017-05-29 14:53:45][receive.php][modify]success<ADD26147-BCAE-CE00-4ECE-B6682CE85938***1000***无>
+[2017-05-29 14:53:48][receive.php][modify]success<64EA68FF-6754-488F-CAFE-C406B1DBF07A***1000***无>
+[2017-05-29 14:53:50][receive.php][modify]success<D13FEF66-918A-B477-E88E-C53EDD4DD9CC***1000***无>
+[2017-05-29 14:56:45][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:56:47][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:56:47][receive.php][save]state:0x
+[2017-05-29 14:56:47][receive.php][get_content]2017-05-29 14:56:47,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:56:48][receive.php][get_content]2017-05-29 14:56:47,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:57:19][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:57:21][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:57:21][receive.php][save]state:0x
+[2017-05-29 14:57:21][receive.php][get_content]2017-05-29 14:57:21,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:57:21][receive.php][get_content]2017-05-29 14:57:21,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:58:38][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 14:58:44][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 14:58:44][receive.php][get_content]2017-05-29 14:58:44,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 14:58:48][receive.php][get_content]2017-05-29 14:58:44,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,0
+[2017-05-29 15:00:07][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-05-29 15:00:09][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-05-29 15:00:09][receive.php][get_content]2017-05-29 15:00:09,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-05-29 15:00:10][receive.php][get_content]2017-05-29 15:00:09,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-06-01 20:52:19][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-06-01 20:52:37][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京哈***上海啊***广州嗯***1***娃娃
+[2017-06-01 20:52:37][receive.php][get_content]2017-06-01 20:52:37,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京哈,上海啊,广州嗯,1,娃娃,10
+[2017-06-01 20:52:37][receive.php][get_content]2017-06-01 20:52:37,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京哈,上海啊,广州嗯,1,娃娃,10
+[2017-06-02 14:41:17][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-06-28 23:08:55][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-06-28 23:09:18][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-06-28 23:09:59][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海把***广州***0***
+[2017-06-28 23:09:59][receive.php][get_content]2017-06-28 23:09:59,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海把,广州,0,无,10
+[2017-06-28 23:10:02][receive.php][get_content]2017-06-28 23:09:59,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海把,广州,0,无,10
+[2017-07-03 19:48:59][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-07-06 01:57:15][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151
+[2017-07-06 01:57:20][receive.php][save]straydoggie***王涛***64020219891003009X***2012036***18628205151***2017-11-11***2017-11-17***成都***北京***上海***广州***0***
+[2017-07-06 01:57:20][receive.php][get_content]2017-07-06 01:57:20,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-07-06 01:57:22][receive.php][get_content]2017-07-06 01:57:20,straydoggie,王涛,64020219891003009X,2012036,18628205151,2017-11-11,2017-11-17,成都,北京,上海,广州,0,无,10
+[2017-07-08 17:32:33][receive.php][get_user_info]straydoggie,王涛,64020219891003009X,2012036,18628205151

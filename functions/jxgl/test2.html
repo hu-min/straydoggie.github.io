@@ -1,0 +1,322 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<meta charset="UTF-8" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>绩效管理（二室）</title>
+  <base href="http://straydoggie.cn:81/cdapp/functions/jxgl/" />
+  <base target="_blank" />
+  <link href="css/popup.css" rel="stylesheet" type="text/css" />
+  <link href="css/page.css" rel="stylesheet" type="text/css" />
+  <script src="jquery-1.8.0.js"></script>
+</head>
+<body oncontextmenu="return false;" onselectstart="return false">
+  <div id="container" >
+    <div id="view1">
+      <div class="header" id="header1">
+        <div class="text_light" style="font-size:20px; margin:11px 7px; float:left">项目申报</div>
+        <div id="submit" class="text_light" style="font-size:20px; margin:11px 7px; float:right" onclick="submit()">
+          <img src="img/a.png" height="20" style="float:right;margin:5px 3px" alt="" />
+          <div style="float:right;margin:0px" >提交</div>
+
+        </div>
+      </div>
+      <div class="content" id="content1">
+        <div class="clear"><br>
+        </div>
+        <div class="label">人员/时间</div>
+        <div class="clear"></div>
+        <select id ="select_group" name="select_group" class="button_round_left_blank">
+        </select>
+        <select id ="select_member" name="select_member" class="button_round_center_blank">
+        </select>
+        <select id ="select_month" name="select_month" class="button_round_right">
+        </select>
+        <div class="clear"><br>
+        </div>
+        <div class="label">事件说明</div>
+        <div class="clear"></div>
+        <textarea class="input_round_textarea" id="input_raw_content" style="float:left;"></textarea>
+        <div class="clear"><br>
+        </div>
+        <div class="label">项目/评分</div>
+        <div class="clear"></div>
+        <select id ="select1" name="select1" class="button_round_left_blank">
+        </select>
+        <select id ="select2" name="select2" class="button_round_center_blank">
+        </select>
+        <select id ="select3" name="select3" class="button_round_center_blank">
+        </select>
+        <select id ="select4" name="select4" class="button_round_right">
+        </select>
+        <div class="clear"></div>
+      </div>
+      <div class="footer" id="footer1" >
+        <br>
+        <div id="showout" class="label_logo"></div>
+
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  var pageWidth=window.innerWidth;
+  var pageHeight=window.innerHeight;
+  view1_Layput();
+  //parama vars
+  var current_item_index=0;
+  var current_item_grade=0;
+  var current_member="";
+  var current_group=0;
+  var current_month=0;
+  var current_describe="";
+  var month_base=10;
+  var month_list=new Array(
+    parseInt(month_base)+0+"月",
+    parseInt(month_base)+1+"月",
+    parseInt(month_base)+2+"月");
+
+  //initial json data
+  $.ajaxSettings.async=false;
+  var json2=null;
+  $.getJSON("member.json",function(data){json2=data;});
+  $("#select_group").change(function() { select_group_Change(); });
+  $("#select_member").change(function() { select_member_Change(); });
+
+  function select_group_Change(){
+
+    select_member_Init();
+    showout();
+  }
+
+  function select_member_Change(){
+    current_member=$("#select_member option:selected").text();
+
+    showout();
+  }
+
+  function select_group_Init(){
+    //alert(json2);
+    $("#select_group").empty();
+    $.each(json2.members,function(i,group){
+      $("#select_group").append("<option value="+i+">"+group.name+"</option>");
+    });
+    current_group=parseInt($("#select_group").val())+1;
+  }
+  select_group_Init();
+
+  function select_member_Init(){
+    $("#select_member").empty();
+
+    $.each(json2.members[$("#select_group").val()].list,function(i,member){
+      $("#select_member").append("<option value="+i+">"+member+"</option>");
+    });
+    select_member_Change();
+    current_group=parseInt($("#select_group").val())+1;
+  }
+  select_member_Init();
+
+  var json=null;
+  $.getJSON("items.json",function(data){json=data;});
+  $("#select1").change(function() { select1_Change(); });
+  $("#select2").change(function() { select2_Change(); });
+  $("#select3").change(function() { select3_Change(); });
+  $("#select4").change(function() { select4_Change(); });
+  select1_Init();
+  function select1_Init(){
+    $("#select1").empty();
+    $.each(json.categories,function(i,category){
+      $("#select1").append("<option value="+category.index+">"+category.name+"</option>");
+    });
+
+    select1_Change();
+  }
+  function select2_Init(){
+    $("#select2").empty();
+    $.each(json.categories,function(i,category){
+      if(category.index==$("#select1").val()){
+        $.each(category.subcategories,function(si,subcategory){
+          $("#select2").append("<option value="+subcategory.index+">"+subcategory.name+"</option>");
+        });
+      }
+    });
+    select2_Change();
+  }
+  function select3_Init(){
+    $("#select3").empty();
+    $.each(json.categories,function(i,category){
+      if(category.index==$("#select1").val()){
+        $.each(category.subcategories,function(si,subcategory){
+          if(subcategory.index==$("#select2").val()){
+            $.each(subcategory.items,function(it,item){
+              $("#select3").append("<option value="+item.index+">"+item.name+"</option>");
+            });
+          }
+        });
+      }
+    });
+    select3_Change();
+  }
+  function select4_Init(){
+    $("#select4").empty();
+    $.each(json.categories,function(i,category){
+      if(category.index==$("#select1").val()){
+        $.each(category.subcategories,function(si,subcategory){
+          if(subcategory.index==$("#select2").val()){
+            $.each(subcategory.items,function(it,item){
+              if(item.index==$("#select3").val()){
+                $.each(item.grades,function(ig,grade){
+                  $("#select4").append("<option value="+grade+">"+grade+"</option>");
+                });
+              }
+            });
+          }
+        });
+      }
+    });
+
+    select4_Change();
+  }
+  function select1_Change(){
+    select2_Init();
+  }
+  function select2_Change(){
+    select3_Init();
+  }
+  function select3_Change(){
+    current_item_index = $("#select3").val();
+    showout();
+    select4_Init();
+  }
+  function select4_Change(){
+    current_item_grade = $("#select4").val();
+    showout();
+  }
+  function select_month_Init(){
+    $.each(month_list,function(i,str){
+      var m=month_base+i;
+      $("#select_month").append("<option value="+m+">"+str+"</option>");
+    });
+    select_month_Change();
+    /*
+    $("#select_month").append("<option value=0>Jul.</option>");
+    $("#select_month").append("<option value=1>Aug.</option>");
+    $("#select_month").append("<option value=2>Sep.</option>");
+    */
+  }
+  select_month_Init();
+
+  function select_month_Change(){
+    current_month=$("#select_month").val();
+    showout();
+  }
+  $("#select_month").change(function() { select_month_Change(); });
+
+  function showout(){
+    $("#showout").html(current_member+"/"+ current_month+"/"+current_item_index+"/"+current_item_grade+"/"+current_describe);
+  }
+
+  function textbox_Change(){
+    current_describe=$("#input_raw_content").val();
+    showout();
+  }
+  $("#input_raw_content").bind('input propertychange','textarea',function() { textbox_Change(); });
+
+
+  function view1_Layput(){
+
+    //base vars
+    var page_bordersize=22;
+    var selectHeight=40;
+    //base element
+    var content=document.getElementById("content1");
+    var header=document.getElementById("header1");
+    var footer=document.getElementById("footer1");
+    //adjust select1-4
+    var select1=document.getElementById("select1");
+    var select2=document.getElementById("select2");
+    var select3=document.getElementById("select3");
+    var select4=document.getElementById("select4");
+    /*
+    var selectWidth1=90;
+    var selectWidth2=100;
+    var selectWidth4=50;
+    var selectWidth3=pageWidth-selectWidth1-selectWidth2-selectWidth4-page_bordersize;
+    select1.style.width=selectWidth1+"px";
+    select2.style.width=selectWidth2+"px";
+    select3.style.width=selectWidth3+"px";
+    select4.style.width=selectWidth4+"px";
+    */
+    select1.style.height=selectHeight+"px";
+    select2.style.height=selectHeight+"px";
+    select3.style.height=selectHeight+"px";
+    select4.style.height=selectHeight+"px";
+    var selectWidth=(pageWidth-page_bordersize);
+    select1.style.width=selectWidth*0.23+"px";
+    select2.style.width=selectWidth*0.23+"px";
+    select3.style.width=selectWidth*0.4+"px";
+    select4.style.width=selectWidth*0.14+"px";
+
+    //adjust member
+    var select_month=document.getElementById("select_month");
+    var select_group=document.getElementById("select_group");
+    var select_member=document.getElementById("select_member");
+    var monthAdjustWidth=100;
+    /*
+    var memberAdjustWidth=(pageWidth-page_bordersize-monthAdjustWidth)/2;
+
+    select_month.style.width=monthAdjustWidth+"px";
+    select_group.style.width=memberAdjustWidth+"px";
+    select_member.style.width=memberAdjustWidth+"px";
+    */
+    select_group.style.height=selectHeight+"px";
+    select_member.style.height=selectHeight+"px";
+    select_month.style.height=selectHeight+"px";
+    var memberAdjustWidth=(pageWidth-page_bordersize);
+    select_month.style.width=memberAdjustWidth*0.2+"px";
+    select_group.style.width=memberAdjustWidth*0.4+"px";
+    select_member.style.width=memberAdjustWidth*0.4+"px";
+
+    //adjust inputbox
+    var inputbox=document.getElementById("input_raw_content");
+    var contentAdjustedHeight=pageHeight-header.offsetHeight-footer.offsetHeight;
+    var inputboxAdjustedHeight=contentAdjustedHeight-content.offsetHeight;
+    var inputboxAdjustedWidth=pageWidth-page_bordersize-20;
+    inputbox.style.height=inputboxAdjustedHeight+"px";
+    inputbox.style.width=inputboxAdjustedWidth+"px";
+    content.style.height=contentAdjustedHeight+"px";
+
+  }
+
+  function view_switch(viwe_name){
+    document.getElementById("view1").style.display="none";
+    document.getElementById("view2").style.display="none";
+    document.getElementById(viwe_name).style.display="";
+  }
+
+  function submit(){
+    //var url='http://straydoggie.cn:81/cdapp/functions/jxgl/apply.php';
+    $.post("apply.php",{
+      member:current_member,
+      month:current_month,
+      item:current_item_index,
+      grade:current_item_grade,
+      describe:current_describe,
+      status:current_group,
+      admin:"test",
+      action:"apply"
+    },
+    function(data){
+      //alert(data);
+      if(data=="yes"){
+        alert("Finished");
+      }else{
+        alert("Failed");
+      }
+  });
+  }
+
+  </script>
+</body>
+</html>

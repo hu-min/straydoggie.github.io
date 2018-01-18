@@ -1,0 +1,3017 @@
+[2017-03-25 23:59:55][index.php][][UserName: straydoggie]
+[2017-03-25 23:59:55][index.php][][Message: A]
+[2017-03-25 23:59:55][index.php][][msg_name]A
+[2017-03-25 23:59:55][index.php][][msg_date]A
+[2017-03-25 23:59:55][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'A--' AND task LIKE '%'
+[2017-03-25 23:59:55][index.php][][msg_today]A
+[2017-03-25 23:59:55][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-25' AND task LIKE 'A%'
+[2017-03-25 23:59:55][index.php][][msg_today]
+[2017-03-25 23:59:55][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-25 23:59:55][index.php][][<xml>
+<Encrypt><![CDATA[kp/HNCPmkMDrV91K6l+OFzwcEmK7N6IzAKuQbm1CbjDe1cqPf9C0ngGp60I2KF7047Bm7lt4d6p8K60eOQVL77pfnKrxooqW9JlLAf5PBp+rbmHfVMEX7OYMIiNl4esrE3f7N2plHFLsXvhZBuPKfZ/cNRBOesmUZ9eu0kpo/LKPUi3a49/stij+/bIu76KShqrX1/hyHCAAcCiP+M0ollnAvM3LLLHRTwfq2g3Tmw1aP1F4G6fJqLg1dZPsTRqsF+HduU8Y1olqiJgwSvcYmEATRclWHQP0vYJAR6bzNSBeY77UBBar7fW6IPIvU200PSajAbSxKsNoN7p9V8b87bnE2s5SOzHVwG73zUDjXNkx6ZdfKq0cHcfT/MeWkh5+a8Y/ThRZCcngzDlauRoSm8utmGHOVA8QiwJOuIgiC7ghIHbqQBKC6gT37DhzBP0ZKpNQmyHKQdtCXSOP2KNWVbmUuBqCkSlB5p0unF2+/EIpi2Nv639EfUCQuq4fotZM]]></Encrypt>
+<MsgSignature><![CDATA[2efa7b4f61f57dead85732a095443c7bfc022cea]]></MsgSignature>
+<TimeStamp>1490457596</TimeStamp>
+<Nonce><![CDATA[1606490111]]></Nonce>
+</xml>]
+[2017-03-26 00:02:23][index.php][][UserName: straydoggie]
+[2017-03-26 00:02:23][index.php][][Message: A]
+[2017-03-26 00:02:23][index.php][][msg_name]A
+[2017-03-26 00:02:23][index.php][][msg_date]A
+[2017-03-26 00:02:23][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'A--' AND task LIKE '%'
+[2017-03-26 00:02:23][index.php][][msg_today]A
+[2017-03-26 00:02:23][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 00:02:23][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 00:02:23][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 00:02:23][index.php][][<xml>
+<Encrypt><![CDATA[g2+JmUvr3KX0j/cc4OCaldkG8zYwyanGP3tAVwgQIjThzmhyk744rUs8vKkvAZ/fsK+qYY3k6g30gvREpOztM5nNi3FM6cDbAEo9/YIKJd3ObunIPLvxFhDJ1NbEF6056ha6zNjQQsnT2P/PL613Yr6T//1x3boiQSoPGBHEBug58/Vq3RaCK1wfN/t6/DkQFaOV/OD1aUfMfTzcYG6SYm/biyU8j8P2I3zMn7kdfH4w1ZWC4bIhJG1O3jfckUNi1xM5Tb9kGMKqF0a7DOGSKiE/p1loNmxKJd0af9F8TYBUWyZg51k/3AMbzZGM/m9wpww6y2xm7/SlpZ2ccH0unVBxmxJuJfKD0FfSLcgJFnlHPJR12Z004eNInTzi9xSsL8/55QiToroDYvZSsVQosrHZoX7S8k/wuIhya6H72q9ZwxuDp6+c/YV7AmG8NthVB6ao7vkTPw8RVI5UcKFgQia7hRfOYt9JUKTvmT/B4q1Eas1sNXrRX1VOdNKN0w3S]]></Encrypt>
+<MsgSignature><![CDATA[435e5c1f3fd1f561613ad4e25d924047cc16de5d]]></MsgSignature>
+<TimeStamp>1490457745</TimeStamp>
+<Nonce><![CDATA[691877817]]></Nonce>
+</xml>]
+[2017-03-26 00:05:03][index.php][][UserName: straydoggie]
+[2017-03-26 00:05:03][index.php][][Message: A]
+[2017-03-26 00:05:03][index.php][][msg_name]A
+[2017-03-26 00:05:03][index.php][][msg_date]A
+[2017-03-26 00:05:03][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'A--' AND task LIKE '%'
+[2017-03-26 00:05:03][index.php][][msg_today]A
+[2017-03-26 00:05:03][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 00:05:03][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 00:05:03][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 00:05:03][index.php][][<xml>
+<Encrypt><![CDATA[UhUTpzz2V8ZW0w2j8aIZUlHfIG8Lttu5LkAOf8fvEwBvBRTms44cA0DSl0jNToo34H/j19dzqZ5FWyakgCvzidmB7LvyHkghFZHWYpY146qFFfw8HiephnCBL1lS8W1cxCx/HUrIvHAniZGE2wJPRuOWwYz8ijzT5jhg4RTlc/FaFklU6FyZZubjbjY9uxrv83tDig84BmxIIX8/EqAauoDVlIqMQ41a1GsN6HoMQZsZghNM4gBtk6QM3uO239NZHvF1/vfMsEaqp02DIpD9JOVM5eMd+u2F2Cfebb0E8hYoqk6amKQVU/wHUknWiOUT3DZMGlKyLjlzn2a3UUvXvptcUsENAVdWZCjssZSo8fHaXFMdOCmoRVYYm+QkRBv4rGpf1ER0qjsP3k1p7G5JBlbS2ozm76WDT8ARTE/d1WnE6iK/X0uSudfMTcAweYHE5n735lxdeGSUc3CPIs0lCXkZf32lj5LGI6ZtV831rUL6OX82Xm4ZQ9sCP48bEnFY]]></Encrypt>
+<MsgSignature><![CDATA[c6838fc6e7250f5ab803513fdb792bf4c50fc3ce]]></MsgSignature>
+<TimeStamp>1490457905</TimeStamp>
+<Nonce><![CDATA[715218260]]></Nonce>
+</xml>]
+[2017-03-26 01:46:04][index.php][][UserName: straydoggie]
+[2017-03-26 01:46:04][index.php][][Message: A]
+[2017-03-26 01:46:04][index.php][][msg_name]A
+[2017-03-26 01:46:04][index.php][][msg_date]A
+[2017-03-26 01:46:04][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'A--' AND task LIKE '%'
+[2017-03-26 01:46:04][index.php][][msg_today]A
+[2017-03-26 01:46:04][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 01:46:04][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 01:46:05][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 01:46:05][index.php][][<xml>
+<Encrypt><![CDATA[acPXiszW2Xut/iYyWEOTDofwnwxiNohornW0mhIC3kkQRIaZElTjzAZuHPpcHg1ygiiWE8zUT2WedKnOU/2z8lP6P70slWt5xVvVdXLHxJiIjdXT1ASfpPEJFg66jefupYcA7Yd6u3o352p03dZ9l/CXHRYjVrfF5Hw9RXcU2HjNPA7g/PsalsCC7dtMoHpjGEA8yga406yFm0QuxSdpjcJpvJttITMunEO5Wq8eok5InrArMsB840JQd7+d+DqvBlzqJ2O5gZx64SVjVkarQDLf60+nVwzgFPoMAAGsHEd4U4WrZBFuVrl8DSdgQH9OhtjaUnv0NN1NkEdSGDQaMGhUadsCAFi4tOp55ZDyt2MpqcO7dMnYQYlSGShpz+e0uWlxfVk+40Oo72L9RmkRxEG/UdfhNG1tEv/xZqf9aks7Pzi+s6JJr3W5O8BfUZudQLZYrHg0Fapf0+pIfydHhA+2qm1udU+22kBkVv23hMcBB5Ddii1QZm6fRbdnfGlX]]></Encrypt>
+<MsgSignature><![CDATA[8d0a5b8db5a70d62738038a9110e263de89863bc]]></MsgSignature>
+<TimeStamp>1490463964</TimeStamp>
+<Nonce><![CDATA[839475909]]></Nonce>
+</xml>]
+[2017-03-26 01:53:40][index.php][][UserName: inctu]
+[2017-03-26 01:53:40][index.php][][Message: ]
+[2017-03-26 01:53:40][index.php][][【使用说明】
+
+1、输入姓名：
+可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～E、调休、备份）：
+可查询今日执该时段的人员；
+
+3、输入八位日期+时段（例如20160101A）：
+可查询2016年1月1日执A时段的人员。]
+[2017-03-26 01:53:40][index.php][][<xml>
+<Encrypt><![CDATA[/tJBUouUDR0sn9bcUXzFI+7/WY+5mLGQjSM4BCW52TltkB45P2PcgvTnDnQda4SZEy4UKZf+QA63wOTF5ihq5Gyu4Wxc7Q22eKsCpnzpzBDiSJ2/a1z71YfDUs0ZHdtI7Ly/ZzzDP1pyY0oTNX9AKUgVOMMPVvvaSFYHt4ZEKLPlJFzRYUCqvTOcm1f8KEDmZl/X6xr2+ZckranSR/6VEw4Wp8TNLfFNG4uAXhWxuQkUyiVo7ZUYB7BLoAWf2dsJGd9l2ZpoHybqjBwSqJa0TQFKhgAyUW/fw51AU2o+P3dVvM85nzEBdi7hLlsDMKMcIjTBIw/vaDViI4sbZ8Q1+bTfM98JB6rd4qagYu18LKp3pM4dS2EICwYVEaoj/hTOrIzHFy0yGS/YUFONvPcuS0fh9P6s419g2x4m4h4V7atjdEI997gr13HmThtQoxWerwGqPMcRZwyQ4dyi5uzVLuGThQVVv8hO58kY+R/WeU25ghGmsP3DxgT426gvDnhP6yVr5x+naBZb38TlZLdWDH5hsCHDmk9/DOyw32EMfVlV9Owc5YWoHbbGrYNRYYEHCRrDOogRezd1zz2RFkrZ1GoFaatsGHIO8HnXvrPA+LruVlL7VSaPatFI4gA4BmpPcJqL/c7GqXq2Ee2BJzBvcLewBcYbQpOPsbVASh1NjqH91aAu2VpKZyZQ6Ms57cw+F3GrJ0mgbbU9t7T9dW4mvEwFvAOtM/6taTQbhNPCJJKcYpkfs5JIbMUGCxpXZlSC6JQjoRwC916MInI7BzOIGHvz8JO3P26dHxp0xHAU8nA=]]></Encrypt>
+<MsgSignature><![CDATA[a20e1fb6d5c6f746fa2087636d23d63188e46dfd]]></MsgSignature>
+<TimeStamp>1490464419</TimeStamp>
+<Nonce><![CDATA[833429715]]></Nonce>
+</xml>]
+[2017-03-26 01:53:45][index.php][][UserName: inctu]
+[2017-03-26 01:53:45][index.php][][Message: a]
+[2017-03-26 01:53:45][index.php][][msg_name]a
+[2017-03-26 01:53:45][index.php][][msg_date]a
+[2017-03-26 01:53:45][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 01:53:45][index.php][][msg_today]a
+[2017-03-26 01:53:45][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 01:53:45][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 01:53:45][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 01:53:45][index.php][][<xml>
+<Encrypt><![CDATA[27KBDI+MPOAoPkTAQ4Q8jTGm9MgX7mhQF2jyxAncTGAnk2QtlwxA33FcCSlt4rOdadA2F2ApYVHZ09seD+sXZdvQx6/hX5z3qlbISqPzOvxeo8QpExHBv+DnMG3M+kdvvM5DPBPO+vBQRBWimzZJdPBwSTWkoIFARRhGF6Y8MRYbGLH/EMFRIl//X+JuKdTadk0JQ+ybJjJReD5RDJF5+EwreQrrPYsHzEYWPPeR01ZF3Bo0FJpaDCCLf+U9pGKsHY4vcHp2aTUJvsqPmSqulBmvK8OuFESa8e3zYVS7yyUANs1DHMHT796ipOquRLw5rsNlu3PyQ2AVZpjPcRsNBbNF0SRKshxbDsDq/aLGEpGPsOUvqaWQumj67DBewxby+Fj6HoJJqrLfSCtWwajAWiScRvgBN7MUi4yk+HsPTsTA6/Ybf/izGPxynjgYaTEddRj+mBpo/M9mTnxovLWo2Q==]]></Encrypt>
+<MsgSignature><![CDATA[062dd0d2fd75d358de4d16ebcf62b3eb0c3a7d1f]]></MsgSignature>
+<TimeStamp>1490464425</TimeStamp>
+<Nonce><![CDATA[782155158]]></Nonce>
+</xml>]
+[2017-03-26 01:53:49][index.php][][UserName: inctu]
+[2017-03-26 01:53:49][index.php][][Message: 王涛]
+[2017-03-26 01:53:50][index.php][][msg_name]王涛
+[2017-03-26 01:53:50][index.php][][msg_date]王涛
+[2017-03-26 01:53:50][index.php][][msg_date]SELECT * FROM pbcx WHERE date = '王�-��-' AND task LIKE '%'
+[2017-03-26 01:53:50][index.php][][msg_today]王涛
+[2017-03-26 01:53:50][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE '王涛%'
+[2017-03-26 01:53:50][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 01:53:50][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 01:53:50][index.php][][<xml>
+<Encrypt><![CDATA[oPMQBQKyRTVR9Cfm0iJBk7BhZ+tOmiqId55auA4+RFjugbAT9s8vcbj0ObpGV+vcu1kOH6VKVTj10MeYnmasXihaOi3YxVVuzY84X7TNCw1hm29keYoXPlhIDf/edtVHyPyw6Jamr357MuQiddVNHZ8UsFm06bD6r2m+EVysrYw161+mXGP8jjUc3Df0KowMC9ypGSO9tOjvPK+v1fvgI0CsjaQI+YMBbrH2bWJPnCJIGMlQ1YhTz20k0m1UFaer4MdbSiZZ+FbPbfE6SZSaLyEKadpKhujwIG7AMSmCQViTtdUqLV6eqffGWo6PLEY2usB3vxHPgnlmhacjHV+qyIP3UjlcFpW0OLN3DqgoLGjD7QtW40U9bOVOw0bg2zwTqCa5vumIms35QOuvvp4P8FqBW1hNVRHJQiO/NlAF/FhGx7uPJl0XOVGVSZxxv0QZ2cEZkf2+a/ANtNYkGaClcA==]]></Encrypt>
+<MsgSignature><![CDATA[e884c66a9dac4a6d7fbd1d4fc25d2f71aa73ef48]]></MsgSignature>
+<TimeStamp>1490464429</TimeStamp>
+<Nonce><![CDATA[216780237]]></Nonce>
+</xml>]
+[2017-03-26 01:58:29][index.php][][UserName: inctu]
+[2017-03-26 01:58:29][index.php][][Message: a]
+[2017-03-26 01:58:29][index.php][][msg_name]a
+[2017-03-26 01:58:29][index.php][][msg_date]a
+[2017-03-26 01:58:29][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 01:58:29][index.php][][msg_today]a
+[2017-03-26 01:58:29][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 01:58:29][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 01:58:29][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 01:58:29][index.php][][<xml>
+<Encrypt><![CDATA[VOesAIrhk2ZHXIShSsWOLBiBe+51wxlE48wUqrwTlCNpVLgsIB4M9dFuLY+MNiJtaW8/BNX+Nl1vkraZ7mIFIc5tUlhRFR4/IdWMaeM1Y+k2t309Tl5DF+238/PBVA9k769evgDu5JQL2RnrNOr933ya2Mgvie7EsfIS9IuhmND6Lnhqf2HepdVi6CtuBGVpBAHwP1jo50goWrSqfnkDj5IMnkLHKGlpUfDUUxLbwZt+W8KySYNEhT8vJ6YXa+S6ShoqUUXhBL2JrYlgpc9PIUr0JSNEEgwEbf4dRx0iG+RBbsvm/1tcrI54OgdegeI2IWUZtH5OZ96SS+opDNKvznqHyj3RFfsOvGkwnz6emaZk3UUFmh4wtQg/OD/3kaP9YeYrhq3ync6tCSwuFA160RFTJVffsE49TWgjHYVyfeDB1GsPgtAkNXQ1pq+u6WLxS5myuHWhc5QrA8UPJpAbeg==]]></Encrypt>
+<MsgSignature><![CDATA[31102dab08ee9d9669bc82a734e035f3f401b49b]]></MsgSignature>
+<TimeStamp>1490464708</TimeStamp>
+<Nonce><![CDATA[957494224]]></Nonce>
+</xml>]
+[2017-03-26 02:07:58][index.php][][UserName: inctu]
+[2017-03-26 02:07:58][index.php][][Message: ]
+[2017-03-26 02:07:58][index.php][][【使用说明】
+
+1、输入姓名：
+可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～E、调休、备份）：
+可查询今日执该时段的人员；
+
+3、输入八位日期+时段（例如20160101A）：
+可查询2016年1月1日执A时段的人员。]
+[2017-03-26 02:07:58][index.php][][<xml>
+<Encrypt><![CDATA[geb5YhyeasHD0GdUfv7THJwIHHsxxaEPf0iUJUE2th/1+r48fgW8c+l1mwVQu1tDr9DpLQrq4Uh8YjJJCYZbsGyVPPlGDkujdFPKOUp01XJYEfeWNVdgBihgUPKmKwCjvSKV3uVGcr8JlAMReOuZdVaKGwaVAJ2cdT9n13Qrwre43zRO9pIPo6WmJ3cXy8jOKWYJHHdvqR3gheoiTXtSoQgYa8xRRt2aHxgudBEHYgxfHh4lQrseItCiloMf8BoGhxgYyVyJz7TWiAzNld46Ij3KU7DQXKgWSGr77HfJtmR8kycHk/tMMYW+SjHpoSfl+JXvgK968L8luF5s5470V8Jfm9x3ElHIEc0Vd+msL1dzQeLCnHGNjHr4JqCnmnbtJ+VT8mKFPY4ZZ1ep7nXAWht/XoA3zZIMnNWMJ/LxJdC9H6OiD89No3Av8cmFtc4ZmZIHK5u/AThMOJAs8W5c29F76k/ppbVT7fTDPg+kW6Ax+ejREkowfZk5CBoGhfIN5r00Nbe400TaARRaPBXRLEV1gQT9klZgr2r5hn5+RJn7osd7YasQLVeMnaK8jG5rm4AN1n3P632xvHPVI+5lyYtu4XiM4QEy3Mv3ldg1ZRdGx0wh04tDjtWUlyO8BEOCwJC/3dOdr2465d5n//J2o4GEZPKvz/5BdFhToxyMlb0mE5s2zrVmh+h0voLSqgHUDaewix0G1JUhsOBZhg9+Ijyc0hIM6ohxMOtyF1ha7TkoM+c4EVZfAaq0nDqRSx5LKWIaJWp10J8HNQSSLKREk04iVmVXNlyPVFd4G65qp3U=]]></Encrypt>
+<MsgSignature><![CDATA[0823959d457b9bcdb5673ac1d1394acfa6e04c1c]]></MsgSignature>
+<TimeStamp>1490465278</TimeStamp>
+<Nonce><![CDATA[577260828]]></Nonce>
+</xml>]
+[2017-03-26 02:08:01][index.php][][UserName: inctu]
+[2017-03-26 02:08:01][index.php][][Message: ]
+[2017-03-26 02:08:01][index.php][][生效中的排班表：
+]
+[2017-03-26 02:08:01][index.php][][<xml>
+<Encrypt><![CDATA[BO7P268/6BVwn8hE5rwQtifNt6chSWCERFSSxl32z5QacHeaIWHGKuKwYJ4VMzjUdYsCdPq5T6ISpbeSJ/dAIi4ijcDK0tUlnGcU3vrn6txRRFPEbvgu4CpPVSlc52vDIfoB3hEI7KZljedUSfCyaZOeRoquzzW8JRXHF3rmYFsQu/ZKW+VwJnoWFxaVqfpPvp/AWh4qh8cAVk4qXV4lbQfk29qfen+cY+eo+nZoa7M2ZIEjjjvpBRYETVUZJC+ZtXstEzaXBfeJl6CEhaSkAECu2NoCf+oJVVRrUbEc6zcyrkZaSqkxb28ni+WVrst3VIuHFhqpDekWYnLSnYbtS7rIduOtCiwpmhXeZEklZBol3fhAFm0FZrKnRHcyj2Fm2LJtfKjMMIkVtycLttOR0efUFpUqCviL6ilV9pcInoPM3nnVg3cImnhjy4LVN07A06ICo9W5blzDoO4G2f2fJg==]]></Encrypt>
+<MsgSignature><![CDATA[73d944f7500b4783683616ecedac6f0a8d13041c]]></MsgSignature>
+<TimeStamp>1490465281</TimeStamp>
+<Nonce><![CDATA[1328305006]]></Nonce>
+</xml>]
+[2017-03-26 02:10:30][index.php][][UserName: inctu]
+[2017-03-26 02:10:30][index.php][][Message: 王涛]
+[2017-03-26 02:10:30][index.php][][msg_name]王涛
+[2017-03-26 02:10:30][index.php][][msg_date]王涛
+[2017-03-26 02:10:30][index.php][][msg_date]SELECT * FROM pbcx WHERE date = '王�-��-' AND task LIKE '%'
+[2017-03-26 02:10:30][index.php][][msg_today]王涛
+[2017-03-26 02:10:30][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE '王涛%'
+[2017-03-26 02:10:30][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 02:10:30][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 02:10:30][index.php][][<xml>
+<Encrypt><![CDATA[s5z6rowu+azrvlm57WCW9VbdkvPYhumggojuWmH5UGsxFItjQhtfvKCHutD93n0hVWNpO0iBiTazD8uJtyYBNIWsRQOeq6ePN6IZK8vQZO5LAazMLeLd4yh8qM86IZjGU2Tvjnnj0JIDBdKjgwk3Cz5Slz9Qv/C8UJuerGiBgNQrVZkPi71IyD+x2xjxt+3AR/0HxLBipYOryZ7Q5tRCLLQE6T+NFA6BoaAACLyUahmoOJDBZilpSUbc8662SVJ81YpFo5sIZcqDUe6gJetl9exJysS4ziZAuVC7rLV4nihVTrFn08ajrHRX0xo6CGqa6dqKa7Wh6pt7mgClm8jgWqNn7jl8/Rag8MCUamKvE5zcfw/udg8BB6iCnlOErCt9Dw22fvOiq+1aKjtbTLBPiX6mWv22rtUm2yDTkYjI35sqR27hkvf4SxL7QcNSYmIA7jfm1CbXu5C1VKWIa7ZtDQ==]]></Encrypt>
+<MsgSignature><![CDATA[f85a829f4c2e7ab37a14d12188bebb19aa018817]]></MsgSignature>
+<TimeStamp>1490465430</TimeStamp>
+<Nonce><![CDATA[1733637606]]></Nonce>
+</xml>]
+[2017-03-26 02:12:06][index.php][][UserName: inctu]
+[2017-03-26 02:12:06][index.php][][Message: xxx]
+[2017-03-26 02:12:06][index.php][][msg_name]xxx
+[2017-03-26 02:12:06][index.php][][msg_date]xxx
+[2017-03-26 02:12:06][index.php][][search_free]xxx--
+[2017-03-26 02:12:06][index.php][][周阳俊,李睿杰,肖芳静,黄中,费涛,苟翔,胡鹏,郑皓天,邝从举,黄建明,郭爱华,吕腾,宋源,陈华宽,邹子君,周杨,熊谭龙,张霁炜,赖鹏,杨乐,周海伦,徐文,钟华超,高曼宇,钱坤,楚捷骢,蒲滔,邹凯,何飞,王振翮,蔡成果,廉宇澄,郭霖,贺茂硕,李竞博,靳荆,王怡然,李卓然,吴量,殷茂鑫,李智楠,李阳,李富海,贾子峰,刘锐,张添伦,陈欣然,吴昊,陈航,彭涛,李剑,刘畅,刘子可,赵英男,吴继柯,薛宏伟,许湛,张丽丹,王子龙,刘振宇,周游,蒋毅,骆彦铭,茆以乐,王绍楠,胡超,周行远,刘丹,杨涛,袁福栋,蒲翔宇,王涛,许扬,蒋垄,姚昕,袁柯,林桦,田原,刘超,林彦州,王铁良,周佳凝,]
+[2017-03-26 02:12:06][index.php][][<xml>
+<Encrypt><![CDATA[/7I/ZVSQ3UVEUTaT1z1fW6elXTNqVqklOcyFkpt4S6Dr1dGwuAgrS9CmvboSJ05vj2daBUtdlT4qrc0/NSPb0ZBItfW+u0I8+GAglsbSTzYwxJr7ThjOnnGWgzvMt/qWuA4LiAV360FXsBs6dsBdqJ1eKVfCKQPO01FtC16R+8B3KKe4beajyz3pbV0iN5F+AYOQwP4zwr24Aox0p9a/E65rzWdhYl3IyadK4lplJompyX8VOSLEufmwTVu9caCGHv0i6WECFeZOUy2Pu0OjlThWUyblDg0tgB93FLrnb0JksjWWTjo3r4vF2QTC0sV0nZA/JeqwjTSBvuJbJGE2dhLplTFkrZhTtdnqdDho/MV6esB55P0owCE5esq9Z0MyvKx4F/BwJUBmYpu3jVMM9XigYF1cAx5eYm3orO1zfOVFuljNizRUwlmBIV8pQnylTgKLMoC6MNNJJfslg1t0BxTpo39HN44ihED+zWJsZCLMV5QH9zOhQexTbJzzPYLZhXWDeT4jEa0b4iQRdvF5T9nW5W8wJCP/NMzPHNxDU1ykEV70dC1RK4phsSsk9Y0l28S+QRZ02+OG0GdfHa3xo0RQ0FBBYcZWRufapM7CTPzWSPnQyrP14TBpBOmPmkahZRDHKVaUTkcUJ90PVOejPb1qdnfSI1C8jIEA8ot9bnZwKRFxZOSWDbS4B5WOGZG3OUjoqAp1OPZFlRjH/c41znMec/lM5RLFJbNUuYghrsAkUbAFymtO4j4ptWgiFSMoEgLIp413J+hsJEWK3wN8P6tRVwIKhFQC2608eH7ZPyysrLbFtSF1m/nGmhen6e0w3GsxW9dqhbxO/vuht6XE6fsbi/RRpLYqWgfz26hDzFiHdvl4ng77B8bzXW68BVMGlPJNwfmGK1CCQqIBWrcMFe4SuGk18POAmyfmi44f/xlAQYlK9pxXr9sY9IRqm++RdYD8xEOV1/U3ZJXbZbro8+xgTilw0795sXVrEFWH+hrrZ/X8nBIcGP9z9Tx5qj7alt4rKCX/XShCmz/ijyB33X2vQQ/Dgw0K+7algSEouY/cwxCXITdZaHBOIxgt1o8IH+r4PTIXJlAwa/orE+F6OObDHlZ55ROa720IXahbHFx3PczOMCT3IEASTn4pf4B3d5QXKN/JMsFfpRBhsLqfFFDOlN9OPDYK9EV4UevNGi0i2TkwIrcGuKzM3I+hEHlzHJvk+3Z+DEtC8wB8CS7dzMXXawktGz/JHyCP4VFz5j4x+ndH3EXrWfbHBYO3yQfUmQl7BdbTxjhjWbLm/2dBTaCz0ntx1+XmU/PkljyaacurEf4AKbAP7AfCVbshl6WRXyx3Een76Ysgh5qRgGM4Nw==]]></Encrypt>
+<MsgSignature><![CDATA[8370da76c1b2bac8093da6fd5104c3a4334b4a2f]]></MsgSignature>
+<TimeStamp>1490465526</TimeStamp>
+<Nonce><![CDATA[1915003782]]></Nonce>
+</xml>]
+[2017-03-26 02:12:12][index.php][][UserName: inctu]
+[2017-03-26 02:12:12][index.php][][Message: xxx]
+[2017-03-26 02:12:12][index.php][][msg_name]xxx
+[2017-03-26 02:12:12][index.php][][msg_date]xxx
+[2017-03-26 02:12:12][index.php][][search_free]xxx--
+[2017-03-26 02:12:12][index.php][][周阳俊,李睿杰,肖芳静,黄中,费涛,苟翔,胡鹏,郑皓天,邝从举,黄建明,郭爱华,吕腾,宋源,陈华宽,邹子君,周杨,熊谭龙,张霁炜,赖鹏,杨乐,周海伦,徐文,钟华超,高曼宇,钱坤,楚捷骢,蒲滔,邹凯,何飞,王振翮,蔡成果,廉宇澄,郭霖,贺茂硕,李竞博,靳荆,王怡然,李卓然,吴量,殷茂鑫,李智楠,李阳,李富海,贾子峰,刘锐,张添伦,陈欣然,吴昊,陈航,彭涛,李剑,刘畅,刘子可,赵英男,吴继柯,薛宏伟,许湛,张丽丹,王子龙,刘振宇,周游,蒋毅,骆彦铭,茆以乐,王绍楠,胡超,周行远,刘丹,杨涛,袁福栋,蒲翔宇,王涛,许扬,蒋垄,姚昕,袁柯,林桦,田原,刘超,林彦州,王铁良,周佳凝,]
+[2017-03-26 02:12:12][index.php][][<xml>
+<Encrypt><![CDATA[3cZKIT7Dwb+IcBWk6TWZk4yM9WVlspp5FGRKoBXYoBK0fBbBZaIUBitN3p/dPQauVmLxEaC2gDmNAdWq7Sv16TFzLbOgwlYIT42bOKTJauQHkMaVrn+4g8VlkYanQYQepgteAHBORAMNwsb764yTALzHQ/Ru4jg0YZRHF7kCO4au9ZnV/zvMm8DDXzBbVs92zfDvs8qiE0W+uDpiM6YFCkICcKrjsBJy9zATYuleQHKyqplPRTwmwKN+uuc5VtrwIHZb98liHklXbAmOC89kEc82cWg9O1RVzHCotAi/P/5yrZeI5c6IcbTDaht/z1EpnEKfmW46I3dlLH4AJts/Zw97j2+A0hpxXm9P2M1XR70x0iaKOfBBYYf3idp6WGFs3OVHL+dYhxtY0sy9k6k17CDd4Q+OK280It4HfU9GilLopUHFjOU/izw0Twf5YvhyUG56GMG+ADTDEAgJW7Yvz4ytv2W3gga3ISQoXfTQ9JLHNtFGwlr0wOOKnYFMHPI7yYR57CHdGMSJnVIqR+OFcfT0nCyXI3f26/Z7fh0pbg5xsGcelQP85qpA+LLb6c61gZK9BrK7718DaJn3PYcyMKcSx0w0TkIwIazYvHey9z9DQkp7RTxOCAHN+DjD/pWftkeu2jjZrKvAec5G8DpxnUpSz1AkmnKVNY1UWTlVm+waw4dODJ1Ev2StziHZgVrXWccHaD3+AkcdIYo+1lLsUI3aE1WMDKkjt+83tRCD2VtGstEJtvqr1Xa2hQ/ZInHeJiaGt+YkjKUHXGrheLM6R0pDss8V5hiftqbG9exWqRmQCxC0avfwtzyAAfMIDB6NvpvIqm1TAAFJiJXEuWOtOUzfEfPYuOtIfEcShb3o/Bdu0i/8sAXq5Rack8v5nfYsq7KhMcC/g7YkV/iuX5YXeyuReZHyko0NHa96Pku67I+D5pvLJsSaOY2WlPUCed0yJL4LlDHdZoqzpYF7I+Ta4rN8hH+eASVEpA8C/g7lVCxgewacUc2CLBHSjnUqUzkzLfXT2bvmUrINDw/RzY3DV1L5z384M6RfhZd5XbE94TujIjq7+VR9/O0/ZkfupCtCHLoP5NOxrlvMXG7gu+FqXPMn/kRpXovRNNJWV2ZoLSNhY/5n+4zQfah8D0eEL3qcKFFmlOsCCZVRRWzsws+ufvc2x7gFwcQi67GwyawDMgt2RhKpdOQDgHIsG2iTLHDhoKwUan1okcTAE3t3habDAEX6xm8182y3n77MY+u/nJvZkFk+Qi6QfrEP/n12iVHICET2enimr8mVS2cvRxDf8Yh849TiissUbKwcd80b6pbUSkapKgJKCuydbUb6CnUrvXvA+/4KHmeViJ4AlYnJ0g==]]></Encrypt>
+<MsgSignature><![CDATA[e9e45a37e615b7e93372794dc968682956570e00]]></MsgSignature>
+<TimeStamp>1490465532</TimeStamp>
+<Nonce><![CDATA[1264033745]]></Nonce>
+</xml>]
+[2017-03-26 02:25:19][index.php][][UserName: inctu]
+[2017-03-26 02:25:19][index.php][][Message: a]
+[2017-03-26 02:25:19][index.php][][msg_name]a
+[2017-03-26 02:25:19][index.php][][msg_date]a
+[2017-03-26 02:25:19][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:25:19][index.php][][msg_today]a
+[2017-03-26 02:25:19][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 02:25:19][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 02:25:19][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 02:25:19][index.php][][<xml>
+<Encrypt><![CDATA[Hh8B+P1D3CHaaD+wPIiCDA5fdlwX96u9jtOgZhhOfewOL8qTypJV545M1UWYJZ+XRi69ZSe4SvbVVYHZCw2vBShBjjyT3Ed4mrqNoeng8mmGaXrAxsVg1J85FPNB79BRHo/mPECZvuQ8wuR+c9Ss95acyvbl3GZEVUooW+QC0xblTj69WY8dDGdLknWJ1/L0pI4lPimvV5lN90Axq/AzJNuSvjHUvpBg3Khbufdq8Y+5z4fZqQSbuWbUmQlc3wQ7fotWdO8UDDfAi/dQK3dfRgwdmmpVrkWj0BJxBNJ5aNZ5l7XmCdzCwDN6RrmejjTQI74OXh9CWZ5+Aa+udhAZxLyLz0pkGm+munSZyJY+R8l2wwrovRaM5qI/Vsk0m8vFUhrO+kB2hbRnnEpBeeXb0ezBeU791idYMzmUcgHKeI08GgyDrmTl4eb4zjf9kHI2v1r/A4tzynfjI/lqTpQLsw==]]></Encrypt>
+<MsgSignature><![CDATA[6393317de16f48ae28230ce63c44b71b6af1a08f]]></MsgSignature>
+<TimeStamp>1490466318</TimeStamp>
+<Nonce><![CDATA[1898525424]]></Nonce>
+</xml>]
+[2017-03-26 02:25:32][index.php][][UserName: inctu]
+[2017-03-26 02:25:32][index.php][][Message: a]
+[2017-03-26 02:25:32][index.php][][msg_name]a
+[2017-03-26 02:25:32][index.php][][msg_date]a
+[2017-03-26 02:25:32][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:25:32][index.php][][msg_today]a
+[2017-03-26 02:25:32][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 02:25:32][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 02:25:32][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 02:25:32][index.php][][<xml>
+<Encrypt><![CDATA[65gzonCgj3O2V15qXyTanHSOhk3Ala9t/UDGylj1nVhyIVgOeYaXxspHvFBZ4zc4OVyLzF1KM1Eei83q50XT1955hOAgt9g1t+t5J+DxRCxhUXtpxdSMl0X6PQHtNRxdtQlzF3naCo3mFbPCa2666is7oZZJnlNhG2CC3KaZhxhXP8yj6qubfmWW8zNDQtZc0wLXz/bVuUgiBe77JwfcS0+rE6VAtLb6DvD7CQQnAM4Ps0wUaX43WyHA96AKWhH880o3XgA0RLlbNdHhwWH3qZk1bV/kgBXjtMycGQVJj14U2rexF/yCcsBhuxOznmKQwFB4fHsHamJ+YdDjIiIrw5F6VKGBB6I94zwSZXpI8IHRqbDSCmaTEc4+BMLO0BNOTVp32XFvydezog7+MVXdUo6RJL3LAL+UuumEai7rZMPexgcna5cfOLySZwDMgmTsHTP8Xn+DCG3aa9u18Qxm9g==]]></Encrypt>
+<MsgSignature><![CDATA[10227575a974203e9d31070fd1878d892e700bde]]></MsgSignature>
+<TimeStamp>1490466332</TimeStamp>
+<Nonce><![CDATA[1392395990]]></Nonce>
+</xml>]
+[2017-03-26 02:25:51][index.php][][UserName: inctu]
+[2017-03-26 02:25:51][index.php][][Message: a]
+[2017-03-26 02:25:51][index.php][][msg_name]a
+[2017-03-26 02:25:51][index.php][][msg_date]a
+[2017-03-26 02:25:51][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:25:51][index.php][][msg_today]a
+[2017-03-26 02:25:51][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 02:25:51][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 02:25:51][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 02:25:51][index.php][][<xml>
+<Encrypt><![CDATA[nlj3CPrlwM0VftsIFaaH0pnd0jsHM682UEP4TxGh+u/bo93qgh2u33fb5vzsVeq8sgnNcB0/puxyjuI0PNmp+oPUOZD6NKmDKdbhDQ3aMYoVKJ+GoVk11mCkXJkJRuc7B96TRzCvVOm0DgfMAfNkmdWcyK/tNtwrR29QQSOkFwOYHUko7hToN0DWekbNhbRWPiUiLkSaNeIGQIb/USHNn54YpWkjxrhV6g23aN6DKIU9AViM3t+5uHfzRq/hETx6zfO8o6xh5RPqfNJhfutwJRcT1Pv8iKaGsQlziBkFw/zmpR/oZBGts92upLucF7YprGk7OV4GxMhdginNqZlOxMmc8r0MsbfmlPwtTGsC4X+oiQ3tpd98o6Ftjf4RkEdLn7h9ygMcjpCg1Nlg9XUFcQhN8CVrxTjGWbioX2LVIfEqaxr9Iria9JM/LbxvNeOK+lALoaH0mZtXSbf1FZ2w6Q==]]></Encrypt>
+<MsgSignature><![CDATA[81eb2276f4cad9500b1fdb4534d69f401b0bca88]]></MsgSignature>
+<TimeStamp>1490466351</TimeStamp>
+<Nonce><![CDATA[1656482814]]></Nonce>
+</xml>]
+[2017-03-26 02:26:39][index.php][][UserName: inctu]
+[2017-03-26 02:26:39][index.php][][Message: a]
+[2017-03-26 02:26:39][index.php][][msg_name]a
+[2017-03-26 02:26:39][index.php][][msg_date]a
+[2017-03-26 02:26:39][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:26:39][index.php][][msg_today]a
+[2017-03-26 02:26:39][index.php][][msg_today]SELECT * FROM pbcx WHERE date = '2017-03-26' AND task LIKE 'A%'
+[2017-03-26 02:26:39][index.php][][msg_today]mysql_num_rows:
+[2017-03-26 02:26:39][index.php][][查询到今日排A的人员：]
+[2017-03-26 02:26:39][index.php][][<xml>
+<Encrypt><![CDATA[PY2mIKOp/dpEtbVgW1mn1yjLyjsmaV9pDWtXDEE49paUclQb8YJCBfgk4CNl0d0l9WtbWLaY4ROkrsNXjK1j8aWXeN+SYYAFk9Youlajy6dUvzYUnuJNC+59h3B3+1anBJA9mdkgA96W5LU0w7p+MkChLYklG+L47jFyCjaeJarDW2uuZZ/fHRRM9PT0r37Dwp9Z4G9Fia00NE+sUR2fCo5+xPnSr/4RdGIlfh33UqY0o2l3oHGZGDS6jIqJF1sefVTMdG37aEpnGhZAlF0phuYX82T7jfB6GHIogyjx2oZCe7on2YB0KMy3XzK58YQmjUFmueLZc46EQIi668Qxw3pCPmAKNpwVdSv3rifpvPrPLbGoheTdZSIjmy+ZffBTUqCa5XyS20O4Q6Wz1J9KPBVAiazJ/WkUv9UTmjNymhM7tAJCt19NVNFUfpApKsj9j4kx5MAHWyaHMRTk3HQRAg==]]></Encrypt>
+<MsgSignature><![CDATA[a7a358cb621b48a8bd38732895cccf7d5b40c689]]></MsgSignature>
+<TimeStamp>1490466399</TimeStamp>
+<Nonce><![CDATA[1280661896]]></Nonce>
+</xml>]
+[2017-03-26 02:27:00][index.php][][UserName: inctu]
+[2017-03-26 02:27:00][index.php][][Message: a]
+[2017-03-26 02:27:00][index.php][][msg_name]a
+[2017-03-26 02:27:00][index.php][][msg_date]a
+[2017-03-26 02:27:00][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:27:00][index.php][][msg_today]a
+[2017-03-26 02:27:00][index.php][][查询到今日排A的人员：]
+[2017-03-26 02:27:00][index.php][][<xml>
+<Encrypt><![CDATA[tBTjm5/cBGNRpJWUGDW8Vxm31SGhxNkIt9ySKyNjFOkn5FTuSXkSdrfi744yLGzAsn87mZ0xKLpxmnjIjNR4D0DBUYtasS7LiUVMbUwDAJ0VbMWg65FepUsGDMMTY/rsRWOCiRAmU8O0861YisYlPmzltBcW+E20Jw/pCqIEr96SeevFnuysJjX6/tDYtWwskS1IC1DJC/+FfJnUHnW+BLN1LtCZKnAcUF69UQyXZvkYGC/6d60rl8BwDVshOJAuZcbWJIJIXopASIwsGZEOmU4zyWPhrhjlhkf7A7U+Bc6t0kGaiInwCJb/OdfHbLXh+keYgvrUX2yreyvKj9s6EpJ5hOOKHVQNz7sQqhLwv887dSwS6OYkR3mWYHUVQkwrJS/XmwBHOd/lDndX4NxkW9elraAEn0jsZfDkMMvuxrUKPQy0V5+bbJAHjIR6BT5HwFbmyYFH0tO5gREcM2g1yA==]]></Encrypt>
+<MsgSignature><![CDATA[f126b4e6ef3c97547d6bfb7b207048a888a880b8]]></MsgSignature>
+<TimeStamp>1490466420</TimeStamp>
+<Nonce><![CDATA[1977144026]]></Nonce>
+</xml>]
+[2017-03-26 02:28:03][index.php][][UserName: inctu]
+[2017-03-26 02:28:03][index.php][][Message: a]
+[2017-03-26 02:28:03][index.php][][msg_name]a
+[2017-03-26 02:28:03][index.php][][msg_date]a
+[2017-03-26 02:28:03][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:28:03][index.php][][msg_today]a
+[2017-03-26 02:28:03][index.php][][查询到今日排A的人员：]
+[2017-03-26 02:28:04][index.php][][<xml>
+<Encrypt><![CDATA[RXqElQJxBxy7Hsdk1Q3bvRcM17o5udTweqXWZMbnMJvcW88RrT5nLmkbgDN23xp4Y387x/8egahyGGSLvq1iJFY0n7VH4FDuRLfUBSs6UtvhqAMFTmmwxvV3hicwtjcfW7gZjMYTwIzbGMiTLvvlOFmM95/TFbIXfLGdbjahSQOn9rYuOXemQXk4lj8ORxm9waSlt6M6/aJn52N5y17e4hKf7qNk+nKZppvvO3zhG3RgKoIjrNlO1HeTsaU1n3ofWp2WNMRcA5g8Bdqc5IBBmhYXL9ZUIAQflaWivyA2XTDvovEcXZAwLyymbAHljp0h1Bjs3DoQ/ucpTVhPVtCjbjLXICF7iqb9aVwkJ9TaG8Y/816z2HsKTE0w4UnX89MB+62YX6QtUP/26GdmxbJ1K2Bc9AlTKMPNhGF0bGdPScky/luFneVojqu3wc3KqhYKKjIuwD2YmIioICcJbnVhaQ==]]></Encrypt>
+<MsgSignature><![CDATA[535a953567ac01a2de494556250fb6d3cf350bd8]]></MsgSignature>
+<TimeStamp>1490466483</TimeStamp>
+<Nonce><![CDATA[1303566268]]></Nonce>
+</xml>]
+[2017-03-26 02:28:53][index.php][][UserName: inctu]
+[2017-03-26 02:28:53][index.php][][Message: a]
+[2017-03-26 02:28:53][index.php][][msg_name]a
+[2017-03-26 02:28:53][index.php][][msg_date]a
+[2017-03-26 02:28:53][index.php][][msg_date]SELECT * FROM pbcx WHERE date = 'a--' AND task LIKE '%'
+[2017-03-26 02:28:53][index.php][][msg_today]a
+[2017-03-26 02:28:53][index.php][][神马也木有查到~~~
+输入问号可查看说明]
+[2017-03-26 02:28:53][index.php][][<xml>
+<Encrypt><![CDATA[qu3M++tp0Nhib6Zyee2dwcbOTvLoYusH/UQ8qVRxD904ilOrAdGtzcZOEwVWARa9iEurI2u+/odAuSgFIKkSwOubJV2KijDiAD+9fvZbmFovl/+8BfVhuFDbI0O+hK9z2tFO0tqF3z9aK0tuolP+HWgqfckrwnX8gSJvDRu9uwAf1YbEfu3QBIb6bFFqbZIi28IslSx4JaYHCI3nO0GoC8HZEIfFEUisHHrfxJFjPxhriEoOyzdZLoCtCHmledvYPU2DqNMU1HobNu9NMw4+El9tdmLYKsIem4O9hKiqLTJxxiYZlQezxHpojAdrvcxXmCQNAy2li4oaRq0ms/WbT3G6jlBBJOWg+bx8yCLluEQPRO/rClsKr/uCsMuzwQMfRithjOKM/0dQk3Y7irYa774pWqOAYA5Z2TVlT3QfLdrnTvpcaKxHcBr6nSodOXvNDFQj8X707qQ/Q1rbj3I2Ew==]]></Encrypt>
+<MsgSignature><![CDATA[15a26893efd3c7bcfa780d442a9d8d96b79f0534]]></MsgSignature>
+<TimeStamp>1490466533</TimeStamp>
+<Nonce><![CDATA[154624058]]></Nonce>
+</xml>]
+[2017-03-26 02:29:32][index.php][][UserName: inctu]
+[2017-03-26 02:29:32][index.php][][Message: a]
+[2017-03-26 02:29:32][index.php][][msg_today]a
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][msg_today]mysql_fetch_array:8
+[2017-03-26 02:29:32][index.php][][
+薛宏伟
+许湛
+王子龙
+王涛
+周游
+蒲翔宇]
+[2017-03-26 02:29:32][index.php][][<xml>
+<Encrypt><![CDATA[/ZEnVpM2wo6HexG+z/tqeyXLQCaF1/VyXRrao8N4tduQoCXpXh8bwHIWxN6ZcDq+1vDt5dWqXe9UWMPi9J3M/e3rXmRffybIqx4qJoNMEfVDrAcw8SXy1uA4i/yvEPot2kCyE+oF0f4rpkA7zCse4LPjbed3ouHgdy75lCAVkivO5PRWyWZ/WrljornDuICXNSgUAISNCCrRqqmdRFRZBBZ5LVp7RzpFTSqDJkVWg1tgXqBjAadv74Pv1iLVLUDYHYq8vJpfvqX0VuQ0XN/ADPceaAtKOwl55PLGNUr489GPsIAMkULE9i7Mwn6ZVKUpeGRieaqLDVuZ473uFePNAhDQ7U/NwTsK8UAQCK8QLuHqWeVu4/Axo0/4S/ayUHnFuhsjh7iiv8kAjui04nrdst87ndR2gSiIYmZDX4fLY8ObzFtzbdsgZ5WhKMWJFtkIu7cEtTiXjslxCpsYbbmS7A==]]></Encrypt>
+<MsgSignature><![CDATA[37e45fd1cd01f39a2fe49ab656b3f56e0b56d82a]]></MsgSignature>
+<TimeStamp>1490466572</TimeStamp>
+<Nonce><![CDATA[1263893809]]></Nonce>
+</xml>]
+[2017-03-26 02:32:33][index.php][][UserName: inctu]
+[2017-03-26 02:32:33][index.php][][Message: a]
+[2017-03-26 02:32:33][index.php][][msg_today]a
+[2017-03-26 02:32:33][index.php][][<xml>
+<Encrypt><![CDATA[rYAJwLSsKRf8i3wXXWSD0oTEFIuKx7mSGgANJPEUnlGRZ7aosDr3WcAD6hLJsvDNNebuFzHW0Bnuu2SnStm9Y1wWlJwSH3NE7oOC0+OCfCRDBFO6PqtUqnNHDsJy3kWPogAkiD5mRLmMV/gfgtSje+WhAsqUL5p4Vw1Pe+WecrW91mQPsko+AKhGCSemQuDZ3CrDoF9D4ZkPrqmZuCWRvMOKFypdfii7c86OBTG2e9wHLMcmOnUOaM3KeUWUj/+ChDmdivQj7ngXAHmeGUspfK3kuHc7R58czjVF0SNQnJyxR+YPJd9StfEB7xXjuHJmLwdjPNsXPvsnYoyH/zglk90F3zJLjObdyzt0uCfEoS2ZVxD1/2b4y/65kRJ3DXaF2OpIURw23fliQd0cOKsZf26wEAnboz76pvamFll6+zE70Wycv0iffFxPGItqqcVsotJR5T9bqeC4TTzhVlLxKg==]]></Encrypt>
+<MsgSignature><![CDATA[d69fefa69232f5550c614ee20e739f5eafb16f08]]></MsgSignature>
+<TimeStamp>1490466753</TimeStamp>
+<Nonce><![CDATA[2016415471]]></Nonce>
+</xml>]
+[2017-03-26 02:32:53][index.php][][UserName: inctu]
+[2017-03-26 02:32:53][index.php][][Message: a]
+[2017-03-26 02:32:53][index.php][][msg_today]a
+[2017-03-26 02:32:53][index.php][][<xml>
+<Encrypt><![CDATA[9IJOn8xJSI9NnkRJQsKtqaTbLYqTTVv3GCSCd1/Injj/NzZUdBcM5/xtqoiIJ9Savvnv5upmTUCimgKvyHLBBoCrEnvU2d1iEz5PQ3EUX6kWp6k3CjSyFKAjSUAOq2G9t1ms57JRI8l+jgsclEKiO0oIjNeAJWWY2kEVroPd7xjbvQbb6d8tUOt79ftOSKaMAjOpCXGcO+7uAbuswbut+FjJTzwrQYtyHjZNWAh7IVLrld/IOLd8D4Q2DobbULv7BKDgkHpBPS0YTVQ/MvcycG4NaU65NPPVub8bWVQeuhtDYtjALM4wFIBbqB7rWUOjEMpmvzEvJOLC4BT6AecAyUNUjrQgBf9kcYqmECfi1Clcq2ZCn0rMlH4I15gI0YfwoBhGD9dH7LNzhomfnIbpUyy7KMYwiAgeJBXrUNcUxwJxkt9ZddKhvYGmbfza/vaMNqetOQJiybvjUTEaW9VTng==]]></Encrypt>
+<MsgSignature><![CDATA[c4727fa8e33763a4b7ae6673298bf8b5ba810c0b]]></MsgSignature>
+<TimeStamp>1490466773</TimeStamp>
+<Nonce><![CDATA[1764582776]]></Nonce>
+</xml>]
+[2017-03-26 02:34:04][index.php][][UserName: inctu]
+[2017-03-26 02:34:04][index.php][][Message: a]
+[2017-03-26 02:34:04][index.php][][msg_today]a
+[2017-03-26 02:34:04][index.php][][<xml>
+<Encrypt><![CDATA[izYorsvK2ndoR58NlOQd3AanYpzYdjIuLTciJUfdUi45ttGqfYmpB6K6H2KBNbd6dZcRWYN5LXJ25QRzkl9EE9OTVIyUteaywU2CtIxSKf60sD3GCkGqdtqfkwcB7E5tHx5kMC3ZdKOkyRSLH9P3k68rdzkPz1h4Ud1n6HOhhq0ZAhfKxI6SOQ5NVOQe+cqxaHEq6YeVPOmEO5nTDuWWCxZdVsyKMgpsDC+Qv/nFi0/1Na9oVYmCXnUnXyscXQe1Q8b0ITNtUnrMgCEF1lA1p9fl8SLVrCzzK5CAa6vd9O1b6hE8dmZMj0uXTjScO2svopIcXvTI5X1CmcV9MKAy0bPW20b7sVCp/5Rt2yX7GzHc1T93VqYdVXblIP/J/xER6h3eDgH7eX5DQC1RX87vtr/Ta9DGXJxfx5laWObfnLAR1hq722g0xyza0Rjtt+rCALM51cpcfULIl0TxLN/m0Q==]]></Encrypt>
+<MsgSignature><![CDATA[183cfcab91791329a98d0aa7899b8f8759f3259d]]></MsgSignature>
+<TimeStamp>1490466844</TimeStamp>
+<Nonce><![CDATA[468995725]]></Nonce>
+</xml>]
+[2017-03-26 02:34:26][index.php][][UserName: inctu]
+[2017-03-26 02:34:26][index.php][][Message: a]
+[2017-03-26 02:34:26][index.php][][msg_today]a
+[2017-03-26 02:34:27][index.php][][<xml>
+<Encrypt><![CDATA[metgI5Bv1MEVv4+lfcUab3k2RDtq9DQfhArNDaNlAhkiUifNXLvNkK3/oTSzofjyAVMTlggZ9nLjNX3kkqPvEms2HReV85Lox4urj/y/bWJbFfJadFCIRJZHeL/JDBBMJlrTQD1ioNjLy0oeHrcofliC9nWPOcRMt4d4af4KG1bnYPHqHFovWz2JrX31A5AoSqZXTRaJkX/RjoklH+py4kueFxAuT7NuWCxizg6UalNQDzjNtuuL0pUVwPJiRmJeeVrRWzU0BsGmNJ7HZo9uGr9hgiRgqOqtv4ixG8NYORdLpQHHnqZhbwylHnpD+PFLw8V0GNwKhOBk34/85ZvaojbOKzQIPLOU+BLC6u7Z09GteuJ9UeNvbTzSJsmRL9S/7ecvgf42mcdEq8S9XWBABCUihVMBB8kqamwY7Jxm4aHnB/b8JXhyvlmZAnUwRtg5W+af3hKX4Q1WjaqKZInDX9IZaOPaRd3rPJ+T9Odrq5uEJGtQx2xCT6KptyldzX+9]]></Encrypt>
+<MsgSignature><![CDATA[6bbaf450bcdee14ffd14feb21f3c8b3ca7541d57]]></MsgSignature>
+<TimeStamp>1490466866</TimeStamp>
+<Nonce><![CDATA[79861496]]></Nonce>
+</xml>]
+[2017-03-26 02:35:16][index.php][][UserName: inctu]
+[2017-03-26 02:35:16][index.php][][Message: a]
+[2017-03-26 02:35:16][index.php][][msg_today]a
+[2017-03-26 02:35:16][index.php][][<xml>
+<Encrypt><![CDATA[UjarGa1TU5ezu23hicNARlbkKek5jW5ZrSpqE7cnKeN2R6OPFxg9uulFZKUJ2YfhtFLEaLuqjjPNQo08VKq5PBP6dZg/ORuIyOKy3ybM4Qism+LI4/6bxu1p5OqIkCwFq7ljvLGCLz54w0kvCuru+bHWOZ4WwDWRAkT/xNuIwRbwh+hLQCiy58MtToYoOC54wQlRblEqGTX2jDKfSHmJte4OzE9pcN2Jb8I1lVSVm/vnyL2adhAlCwbG3tJUZTAScq0TRD/Aa9hKmQc1o+vq2b+revL+8TyQZAtFY1si0pU+ownrdioYx+ZUGME7chCXNXmhM/HuQ+4kRGrb7Xse0nCG+UgMInLvUWGfk5WwRvtmO5U2+TqTEGgQIV/DqBUoYSu+yrrG1zejc5IgYshb4ca2rKonXGzYiz9sB/iqNkhBKfDUDlngRhzmM8A4MpzaPSaL65Cv7YeHK7F+80nEvBoT5ArSF2hwUJcjxarrNY1poAPkEbXH1BbFp4lNr9Kq]]></Encrypt>
+<MsgSignature><![CDATA[de13c7a09aac40e3aa133cf3061522f904e1603a]]></MsgSignature>
+<TimeStamp>1490466916</TimeStamp>
+<Nonce><![CDATA[1605920666]]></Nonce>
+</xml>]
+[2017-03-26 02:35:32][index.php][][UserName: inctu]
+[2017-03-26 02:35:32][index.php][][Message: a]
+[2017-03-26 02:35:32][index.php][][msg_today]a
+[2017-03-26 02:35:32][index.php][][<xml>
+<Encrypt><![CDATA[GwwD6tx0fXChzFFc6MHPPfwCEbKIP9au9snwwcUiiqKqBE6nKW2n2BCkURGTrLZPnRlABhr+FdGlWDhHbUH8fQW7j2luioSHfYfTfswFD35yfj0JVD67r1tURNANIl0mz7yBsrt8S9HekbzBCdsKngHZJvm7WNeQCb+TWMmDk3UDWFaivTbWwkdrIOev0/tubdDW/PiwyKeDBLqFQYMv/Mmzc2CoSr0G8nWgFM1mu7gjoC1xSjcUs7zmXbi00UTus1LA4RlqBaTourHBSCuVYeTqu2XMEpWlyJusX94UCc5faFfM1hB8FZRkuE2sEkE7fk5EVrW/jIQsXKk9LgV8bHa6isjlfi4TjtQc4e3bWQy24EBR+k1aBi7JM4zF1zQW9DzTvfDmY/wwpzG9+i2+Bz3z9fxgYst+Q4MiMECQGlzWMCTdC2AkyeqIIgUfL8UPg+RYGoAJDYmcpJoFmfZVa3MVRrj3vBcPwuOig4c/XTXggh32pt6nN+ZJ3pwsvpOlLl1BYsCEl5RL595rA/3QOAxGTio2IriF34QtZg3D8qw=]]></Encrypt>
+<MsgSignature><![CDATA[5ae0be90a04185f352e17a76ff109687e737c689]]></MsgSignature>
+<TimeStamp>1490466932</TimeStamp>
+<Nonce><![CDATA[1368777800]]></Nonce>
+</xml>]
+[2017-03-26 02:37:12][index.php][][UserName: inctu]
+[2017-03-26 02:37:12][index.php][][Message: a]
+[2017-03-26 02:37:12][index.php][][msg_today]a
+[2017-03-26 02:37:12][index.php][][<xml>
+<Encrypt><![CDATA[0pWQH+6i/quahT/VOhdWKVTsfwCg55AwSlph1RWdf7vfFlVqDl5Uw8DvtX/SvvLFcCFYq0ex8EdLuUZR8lAmpJ3/6ECZpduDkijxG3qLmr1kPKtCqrlf9nQ8sJMuibsOiwSkzLDRPRI8jiiOCUwHjpGYnmgAO7ITt2ExbSogRRoGF1mAzMlDWng6qcekK4GdAf89X67nCYemGfGd10o46Z76X4aTJlSQn3tNUv/Ij1aCCLs1U8McmNPLlEHXKGyplkGkFUZxC5o/eODqGXs0Hwr0bC8Vu0uWUcoxJFiOblM+dKIPKPjrBZaWwiHmGqQ1xHhxbYqUj5D9Lof4sHeYh6vxUEQaLjckfVTpvMtIANWQj6vI9y8U65YXXxjSDC+PR+TaHDGoIQHao10REzjmnSxykl2rD3P7GaSQLkUr5JCgI0jDHGpvuL5Ge+E4+aFKB0PtTopXueJ8yyIlD8hBVA8+90MGuxLAKzLPudCUm0NQp2d6qlQn/v7Iw0mL+1kV+RJypHadPSx2Q7Q54utndn4O80wrEsslq1WowkggaHo=]]></Encrypt>
+<MsgSignature><![CDATA[63185276fb831d2d964072b47bdcfc32d7cc714e]]></MsgSignature>
+<TimeStamp>1490467032</TimeStamp>
+<Nonce><![CDATA[1677090505]]></Nonce>
+</xml>]
+[2017-03-26 02:37:27][index.php][][UserName: inctu]
+[2017-03-26 02:37:27][index.php][][Message: a]
+[2017-03-26 02:37:27][index.php][][msg_today]a
+[2017-03-26 02:37:27][index.php][][<xml>
+<Encrypt><![CDATA[qOeDFu/ZDKxXMT1XYZdDmA5VeIAi7bSLy84XawXPFhqEI7UztUp9IbS+7FbwneCHspHh4y0lN8/Gbme06RT9qwuTYtBjyIPYO2tr6au72SthWCl2gYDQfRc+XNXl95dlIdL6MVkIKBZl86oXIjY1ngv23T3Wg0VDBzjDdo19hAy615BbnrG1XUNEy0bDHsExOI37k5zKTbWEK2jVF9MlqHxI+VLpK2R3kcKXz5f5j17zXicrecGfhLoVDlKqA47hV3voZYF1cy7xYbe4dQ10uWq88oB+xZOtpW6P+bkOVXJBdbuH+VD0KsUj0BmEHsa6L+olyXH/3gwu2Q2hBOHHLdPRjliZ1abKG5M9nVeIAfrUgm7WgeYEkGGHzFzrgoRzbh0J9qhxK+gNqk0qyi1ebyEjgjUkCm690gsbu0r+8VVHR7GuiqkmjUsYsfi8RUvjmIxP2ilnNaSnXMBHOMWBT97EA3zR4nP96kWboaA9OrkYBwG/lcPLcFzFr3AJckptD+5asE4TDWkuGIQd9xKh6Ox6AbUI4dyyb8NFIiiiLlo=]]></Encrypt>
+<MsgSignature><![CDATA[00bce26e16215cde599dde71e2a406bd1a350328]]></MsgSignature>
+<TimeStamp>1490467047</TimeStamp>
+<Nonce><![CDATA[2027628894]]></Nonce>
+</xml>]
+[2017-03-26 02:37:56][index.php][][UserName: inctu]
+[2017-03-26 02:37:56][index.php][][Message: a]
+[2017-03-26 02:37:56][index.php][][msg_today]a
+[2017-03-26 02:37:56][index.php][][<xml>
+<Encrypt><![CDATA[1pbZH/7tiPzT+fXn2cSrrICXkzutE2OlF1XfloSU9/0VVR8y5gWwtx2kPDw1O+mU7ssTEkVNWxtnEpF+Oc7luZzaSqOU/u4vxf5loGSng3M24gXwem8HCr6VFqlANx/wDbVk7SZ1UL4/5uTtg7U/5GM6vHBkGNHb6OJqB/Z1bMh5w2V+AoWo99W63y30ESQ3IoMGO9jcfT1s6e6N7MaI3W8OxlbjZGCGJt5jEXnkC8S94M/GDiHuTL4lw4vC2n+WaDxsKgLdG6giy4ojyMi7pg0nMh/+6YKFJb5YgrZw9MGcVWWV//CIcjozUFwFZUJGvr+8zswE3BnaS2EBv3HlMCnPJ3kAMWbf2S4DwEVslVoXvUbJf5/EPZR41gYoY5XUkTIdZ6/du5qgyMhTJgrjq05Hwhk7W0xIB1EyQAfVbVAJ8SqSu6YL+bMZ9KOBeWQTFR8J+q6JC7inckS9yHRf6Hw7ySo+vK5kkcEjkcCl8evfRYbcD+VaQYPEdOiqOglaRD+VwPZIsa+OTsgcHGVYt8s7jkIRX1son6QOv3ONe3w=]]></Encrypt>
+<MsgSignature><![CDATA[da2487cd12e9ad5d3f39783c988feb9fe0b32e48]]></MsgSignature>
+<TimeStamp>1490467076</TimeStamp>
+<Nonce><![CDATA[574010622]]></Nonce>
+</xml>]
+[2017-03-26 02:38:04][index.php][][UserName: inctu]
+[2017-03-26 02:38:04][index.php][][Message: a]
+[2017-03-26 02:38:04][index.php][][msg_today]a
+[2017-03-26 02:38:04][index.php][][<xml>
+<Encrypt><![CDATA[Pt3uVBsHargU3Sjp8d0sQv9QxODSrmcEG1riGsBKl8R2dtAb3XTSLDUsk8vTl0WzRVdTkUbH7qEUVDOXkUqxvTsH23Ww6LdF4wnMvUwYohYs1ROxOXGLuq+7/4koQCxnooTmHEToiH3RohlFDRRMNL60/1MgkCJvA9mhNcR0s80nmmKJ9NK6cL0Tzo1eLSuxxJY1PY6/0wHwBw8PA/kNqyNO+qkpAP2MfkeoNvmv4WvyRNSsAVe/kHPsmfh7Skesl2fkd72Ab37gi2v+K+xAowjbyR86sfSFc/CRXXnBousdlm6Zkkpjbg6eSZUyKYriFaxvV7ziXQkKWypR6OeQKFp1QJ477EJuS0BRqgQTFHKz1pjWb2CR6D/p4QdrAgUAn5dlcKe6Bn1NkM4xdgHuVZNvi/LVS8E04lvaWSS4q830oEd96XrwvcXXihO7PRLR37Sz7yy1s5Som9ISv5RY1zSCJdhCMeCYaRMOFufBbAOOje1GGyunbI7/FO12kPznM9g3MmvfPzLICmpCaPD6ugHn5QTnE1B1CniOd/o5npE=]]></Encrypt>
+<MsgSignature><![CDATA[fc78589ff2d396812afc5f0e93aa5f9eb4d17b0d]]></MsgSignature>
+<TimeStamp>1490467084</TimeStamp>
+<Nonce><![CDATA[562932500]]></Nonce>
+</xml>]
+[2017-03-26 02:38:08][index.php][][UserName: inctu]
+[2017-03-26 02:38:08][index.php][][Message: a]
+[2017-03-26 02:38:08][index.php][][msg_today]a
+[2017-03-26 02:38:08][index.php][][<xml>
+<Encrypt><![CDATA[JfsCsJHydxE017/t8LKr9mc2jw1eaQibL6x892BEkNdG1LYNLg6eccL4Vg4hx6R0jkqZ9qjdxxQ1CrmINXfwgM/h80S4XiyRw9WILKoh8yXM1ChoW3Co4L680V7dWOPEcX16L/8/5v4JKE1yBM8wVLdnbeYjo7+ih5Gc0hqRAinBGfAu0yk+t0fCKAr3ry8H8E5HISjHnd/s1W7lHhphQdAzFGwOOz4GK9T94wUEBdC6naOsFAKsHG+/o0OZQW1LB+zTEnPx7873Z8abjKE0CkzZ+NSSFTD3PKSPWc0MfXP9GjpGc/qQ25jMiimStHi7aRZWG8UKfcaF67Y7JtMzRdNH17uf8SeUP5feQsAU3Wf68Fscwu3tA6Byj5foo/TKITjCb80zEPRzo1SNOjRCDD1c8igeKDRuwghNTx2gevgWlJIOWakwl+e1rA39Nmpwxwwfy3XNO/qwqyF3S9vPyZ5nlKu9tb3BkMIKN9TLvwuDdlV0I/6Whorj5HLis5QjYgm4932eND+ABnfWR/OIqNSRjJYr4QOHIi6G2ssediA=]]></Encrypt>
+<MsgSignature><![CDATA[6040ff0455f4cd608dad8aa7ec3e3ecb04efa385]]></MsgSignature>
+<TimeStamp>1490467087</TimeStamp>
+<Nonce><![CDATA[1724201456]]></Nonce>
+</xml>]
+[2017-03-26 02:38:09][index.php][][UserName: inctu]
+[2017-03-26 02:38:09][index.php][][Message: p]
+[2017-03-26 02:38:09][index.php][][msg_today]p
+[2017-03-26 02:38:09][index.php][][<xml>
+<Encrypt><![CDATA[NwUfJtw4W2vhK+V1haKqPczaFZuqgBvZ3CQMki6HB2nVa0X96VvSdJTVxE4cZnJLSnMSflSyIWAA876oz7PS0vTd91h5heIluGcB6aIFBSGsJaT6WlaF2pLatnL8y26VC51l3tU/83vNYBSS0PjNOwdr3noRH6ktE6XPjD3DEtUd4VvuRvLC1I+fXBCRCOpPO3CZil+hEmD9yFy9J2hd4FnQyA2fF7dzSsRDsLTLcfngxtxmQgH/llCqr/yPWnjQnzQ9rWX8pwjk9vH2nYH1XU6Dn3y1nTW8MVC3a0tsLdpSS9CngX3gNBwdAbZpxjtW50taLfqK548CKyl49kbfUHiHoRM248gFCZwF1wPfpFCAuN2d2huNsJFqYwxqlaC/Rrwi3ePZWNJENnGhdCw/KJWgMRPvuAqr+Zkie2W4HpN9ENtWphY65DKwl10/6ya9OkWBPYqno8KC0zOLcxAfvJSGmA2aYNotEdlJMjkkmm0h6D8JITpppmTstxPnQ26ooa7yWP0/Lee1oLeoX2q62ZKoBfvRQbfiMr92KxSlrJk=]]></Encrypt>
+<MsgSignature><![CDATA[d0c43ea7e511bc746ec4c6b4507262fc4880d680]]></MsgSignature>
+<TimeStamp>1490467089</TimeStamp>
+<Nonce><![CDATA[1287154626]]></Nonce>
+</xml>]
+[2017-03-26 02:38:11][index.php][][UserName: inctu]
+[2017-03-26 02:38:11][index.php][][Message: a]
+[2017-03-26 02:38:11][index.php][][msg_today]a
+[2017-03-26 02:38:11][index.php][][<xml>
+<Encrypt><![CDATA[4LcBKTKfkyA4xCJNzRfEHpvDnGCfxGudaFRfmN2O1JSbdR41vDZuqHH5yI6PdXvvx67a/agJmULaf/CrR6l28zJ13FS1tm7J8qdlcvZYwqcdQu7vGPr6YBOYD2oV3h5ZwSlhg+AAg9HERn2mJl7ssIWN5bg7rJrle84adAjFmFcSQfKl7NVLh0SCQkp7YsJ6r4H4S+9ficy2oeM0YclYhwikPD8JuiqkuSNb26uMGLwUnNDcO85jR9E/1adgqnVnFMJNbg8mHarF7qFJtc2uPODvhl5LvYsPlNze5FqjG6TE+VSdtIzIy9D68VI+zENWdoIR3LIGH0BuhvYobm+su/LqL9rqFigfDbnb8cuGPy+pgDlewZTMLTfuvcgUPMNlfp2XjxzuxbthGrr4VOgwpKJCgxMFHt1DY3P7eakGE+JOryamA3MuEY0QLsBoFI5S2uzf+NChny5+qxrEIzcdBMotBnW6hHRu4owTLoyKrDaEZDUp6O/DE35Wh8CVkM5cvXC8Jumk0rHoSNtI+w2E8dcJ5SgY27rvFhCbsZP+I+Y=]]></Encrypt>
+<MsgSignature><![CDATA[ad47c2f60d6c5e7acadf09922d4777f7b8fef14d]]></MsgSignature>
+<TimeStamp>1490467091</TimeStamp>
+<Nonce><![CDATA[53903993]]></Nonce>
+</xml>]
+[2017-03-26 02:40:31][index.php][UserName: inctu]
+[2017-03-26 02:40:31][index.php][Message: a]
+[2017-03-26 02:40:31][index.php][msg_today]a
+[2017-03-26 02:40:31][index.php][<xml>
+<Encrypt><![CDATA[awF7BSG73KQQx5fAubM+QL12X7cgGLeJr4QyQpqtwKZQOVn60ROwQdOAllhoGj9ko0oa5XwX0Biir+bnZpcf3zaw8USbS56i0DBUwUPHDDo+20rdAMgosC0FQlIyv0R+2XJwj+VqKfbPLnk7Hsnp7bSM8b3QuQZOeGBkNDshRFsW9s3YA4gKSTv8DToEoPnf7g0KHC1EJ/vcUP3LixE/pW8h0BGsrg8m4LcnT+o8CsSXD3a/SU1iA/47vj6AjdG894pnMsge7QkxLG08W5Azfy8uQBjvQZCBhUJ2YoLLz12fFb4lYo99Ec3/L0oAmcRsGmIM9/5qD9UEfrzEeCuVhyTRtpiDeI3pwmGplsFoxO/R0T6dMS7gcp3C+IjgKouelTLVnLP5SafK6GQvBzRK+G6UchsjYt5JuranBi3GkGtl4scFnbZJJIZ9Q/VPv90+JkaW51AFi1feLsWysd/4HZgB8FkMmpfetOieFUcWGCrG3+PQaTF3sgr+kZJTFcv+HP9blLV25KUXtWLPQFfMwo8WDpAXpf4pWbpzed8zPCU=]]></Encrypt>
+<MsgSignature><![CDATA[f1a81e49c71ca41fccb1744c615c577bf2f53fa0]]></MsgSignature>
+<TimeStamp>1490467231</TimeStamp>
+<Nonce><![CDATA[511654864]]></Nonce>
+</xml>]
+[2017-03-26 02:40:32][index.php][UserName: inctu]
+[2017-03-26 02:40:32][index.php][Message: a]
+[2017-03-26 02:40:32][index.php][msg_today]a
+[2017-03-26 02:40:32][index.php][<xml>
+<Encrypt><![CDATA[A6A0af9zrQ1LKtl0UoLmlMcgQ6XSYy5MZpUbV1mHJkzc4vLEVXn+F/xi8Z1ByuIXItzOdetrkgmf1DQuDoWzSc3PKfPJU1A6WTWLh2n7ABgCL/qAe8M18Vz0+oQIXSQ/DUsdRi/wlcknKFpbejtQXlqiTNgJA61EVQU17XjkKWuXv3visWQIzcYXUeFWqHmtE6e15HHBBNEElvcDxyqdkmpIcBDRKKA/v05tZC8xuLSK9ja91XJF8aDuM0VuuNieTwDp0If1Oj75s7jmjFPgJeetv3sJkYf7fvKWgNrYRWOY6ZpQ7X73/rYcXJ4uSJFXU6rtj2N8l68TaJuQQh9W8tbu+lx7Rb26win8Wh6kkCtK8CPD0MBbtJFOVoMavAAAAI9a+pClvDPrT6Uwy4+MwawsFOqCf/EqmiZ9SDZfFdaEegSIW5ubkGUlKBgc65QJSjTjEkdAg7cdztrYWJOmpxVGL/Xmrv206577HY348ltjyoru2ADV3faZBbhqlvl8EnH2SyhcVzCssH/bEplTaqpmhH0z4tS6aeayxfcsLvk=]]></Encrypt>
+<MsgSignature><![CDATA[bf3c7c7f1c185e62a6d2d7db659056eb233446c7]]></MsgSignature>
+<TimeStamp>1490467232</TimeStamp>
+<Nonce><![CDATA[1327555086]]></Nonce>
+</xml>]
+[2017-03-26 02:40:33][index.php][UserName: inctu]
+[2017-03-26 02:40:33][index.php][Message: a]
+[2017-03-26 02:40:33][index.php][msg_today]a
+[2017-03-26 02:40:33][index.php][<xml>
+<Encrypt><![CDATA[DpiH9lGKOH08Jatf0/F/wWaReg6FI9n2wvVbv64OHgxzldY0ehdCrakqoQMsrRS/C7ait4a3aSd2r6xrK66ld6GO9BxHK8J2gUEh4G1Qb43ucye60xZ7SDX5waJNwbnYMOQEBrRgONSHVJCLBQxQAlCWO8oB+at2Iy+H7bBu6Z9qLmySEFSU2DGx1g+df4UmW8bWOOqggv/bO+5tidPESMk7vcE3VoMPOzlxfGk72kBbnObol+U65B6/AW1swf+KXAVDCwpoZBTUIZM6FtiaTALfLtroqVtQ0lFtHrxIcpADrgff1GE3fmOViEJbObApjtP3vyCZLt7FVAAtHFzqWvYcUHofFLSrJ5KiMQSmcpZykfzPj0jwhUAnb7LYADeoKOShLlsvxzzeynTLhKNg37tEdWYUcxmFti0pzMDksjA7doHTjxjiFuiwsOVMuKdQKcugWuAhvcLeHMR9zBETUTA4w3spJrO9rrxULMQm3xAH0vs1Uqf/CkGCrQ4ZgguNKiNVVl3mKT/IPvoYwRUSqZFwtKLSnx35YgSvgMQFHY0=]]></Encrypt>
+<MsgSignature><![CDATA[bf193cfb4d310503e50aeb50b04a82fd8229aa7e]]></MsgSignature>
+<TimeStamp>1490467233</TimeStamp>
+<Nonce><![CDATA[498236960]]></Nonce>
+</xml>]
+[2017-03-26 02:40:33][index.php][UserName: inctu]
+[2017-03-26 02:40:33][index.php][Message: a]
+[2017-03-26 02:40:33][index.php][msg_today]a
+[2017-03-26 02:40:33][index.php][<xml>
+<Encrypt><![CDATA[gfA06AAqgqREe/h8xbwM/K4rZyT3++s4BeXT7NnFRZk+GwWqJeRG7ew7cd+IySVUBfnBg4/Y25GGcvVhR5TPGpYEeyBYGwYEa7Z8wgwhKMkyTrnV7To3bttScaibZtDLWa7EngOktCySsTuuf6UQY1aSLEBXJCTiberucDcvB2vPqziThciYHkYfjOMnRrBDbB1/spoCqvbOUelxrpocKe+X0MUU1CHpMki+pkDsDvwpjiVQdCYC317eOboWDqoyBmRmOPkk4TkTfvUqVaNMAXGRtMDC+zDuy4cpNJfqpqVw70KgSI4JYeCt9Sz8i3h+7Bp+Ulhwy1YOjZFlS6SveCs4eDrAthTWkfdUjslSx/TOQqOc7pKXq5YnH+IlK2j2iWH/nE0efSp7DYPMse1VpvaK+vZWZptdzp1jxu6aQ85ZEivtWXGFYRUsnWpjSRrXAqX38njXT5m0WmWjyocIukM0lBngpAgTixikzdEhHXRpQjnzrSaXg/grgY1gMq/ZQ93CHfu88ljYIOepSy5AgHR41k1XqQKbngYG7EOZE9M=]]></Encrypt>
+<MsgSignature><![CDATA[9b71cb3217677d57fb6b28b0e72d24307fdbb501]]></MsgSignature>
+<TimeStamp>1490467233</TimeStamp>
+<Nonce><![CDATA[500068356]]></Nonce>
+</xml>]
+[2017-03-26 02:40:34][index.php][UserName: inctu]
+[2017-03-26 02:40:34][index.php][Message: a]
+[2017-03-26 02:40:34][index.php][msg_today]a
+[2017-03-26 02:40:34][index.php][<xml>
+<Encrypt><![CDATA[E6ydOCPL38urXIVRxmRbv1Tp3aEEUuarC/gynGA4Z16eCypeE1R7dGNHMr7luFfzzRjDrvQRDHArfs0q7hTuDHqEgxGwRw7vw2/Cbv6Ch2axT8XlI+4iCsxAGzohCoLM/ZYDKb75GKJ73bTf+J+/bFw2VktANTiSMfCrORSrv+w2hhCituL46c8cX2QiY/qeGJls2iLjgJfd/mGQQF41f6aJY+iAZkMsrdzcAZr2/4LdfSjDqV8bDuFCcn/L99RyS/RoE0o9qJIvmi4YdLZKpmh5rokB1AxZU2Id31AQE1io956eKvX7wYjo6sO8Lszizc76KcTFY9dMA8PBxOA0GRL8mYR8x29bdvANxF2dcjLMIT71wehmhrAawuVhftVjFFyIGm6JzVqzkJS6JrkQXNpofyWHmUAv+qmgtJpRAWSf+Df9E+281dgyodVCPRS4vk8saTH4vbCxGv6f/2lmm6UjZinYRpAwyeCmlGvtC2i96lPPNbuGIcwxTb8KgD7YdGs6J4VUPB339hnBN1kGlkj/Q8tIubBvHXLurb5J7AI=]]></Encrypt>
+<MsgSignature><![CDATA[4295a841f9fd89392b62f5d7cde7d88f21c3736b]]></MsgSignature>
+<TimeStamp>1490467234</TimeStamp>
+<Nonce><![CDATA[1562153638]]></Nonce>
+</xml>]
+[2017-03-26 02:40:35][index.php][UserName: inctu]
+[2017-03-26 02:40:35][index.php][Message: a]
+[2017-03-26 02:40:35][index.php][msg_today]a
+[2017-03-26 02:40:35][index.php][<xml>
+<Encrypt><![CDATA[2EZWXmExCqUb3sAnnnaC5BvtkFB108rmpkiMg5i1VjwRM6s31/e/xrgg1xz4VxKcdrYA5Ppxe2m5RCpIx7YmFAZ85gjFlvJrESbCLiavFyG0w9atJoXgEh1/e3YMDrCG2FU9v1IgwJE93GtGnKt+SlmYLcuqIpL3IkYozxwgmt2qjtWnerncBWOTN0II3M3pEqV4+f7/oPHHm6d2y1DceGe6CfdGRZaPTE3qVM/fPgNSx8i9Rh6QimhvkLunh9XAzmUT0f7utHLD+xVKx5Hovsphapnw0/hipQCaxZ+tQorPQ9s/QKDxgI4ZK/8Ckk/YftX4ZV8kJPrsyfvlsNILtEmTVth9MUn4zraS7QrJA3ottTvfi7LCUaafBrhjvyPc0t4ysmZAECjzKT5vSFe2x2I+fbPpGym4luUJDSTAzgfLrqP37MgBNsUDKn0IV+qKk8cox87WoUFYjU7IxD6FGdO6LR55X/Uq9IOUoluc06J9GwvJ041GmPx+HFoUEYoXdtp2fLh84X17A7Bg8owT0NTLpeKBkCtpWne1KbjdIRk=]]></Encrypt>
+<MsgSignature><![CDATA[b48e0963279d2a8ba2ce2e3f3443fd3cbdd4e453]]></MsgSignature>
+<TimeStamp>1490467235</TimeStamp>
+<Nonce><![CDATA[872359304]]></Nonce>
+</xml>]
+[2017-03-26 02:40:35][index.php][UserName: inctu]
+[2017-03-26 02:40:35][index.php][Message: a]
+[2017-03-26 02:40:35][index.php][msg_today]a
+[2017-03-26 02:40:35][index.php][<xml>
+<Encrypt><![CDATA[2NrjPR1L/xbbdYK/PRLkyTqDrFcmZlONr/uxDeE7LzApIBbqwekbAJ5NflMiCqD78X1LZTCeIT83pFAeF+Fm4cNZJrzhni+k/i9yA2aR8BjeaIeIzSkbEI6KlKKsoLzgKruoMUkhqxX9Ki8/ZL4/X7uKrXz942L680EfCQQ0qn2e94Wa5lJ2u4DKWJfMvHelKlLN5/lRbT7FLs9aPZd1a9nAGcH0wsVqENXUmUFsV246vx+aYVKN3v8OdmGLuQSIwWwewe+DspDctJsFb2HHFc4FhSNlnK+oA1lFC+Os9R+vOqvhhaCVDNIsmP2r5JX66n7dY2w8y2YeOTlBF7X7NXTOjlE+UySLbuL6C0/v7hQ21Wm01AbnOOkbPy11BWn/dfCcZwxUCvAN8/jMJSijtzIST7+yKNlSul9y/cn6/GXHJNhO5ShFaw5HBm/udIYlscj0vOqzgiQAkydAauoUHjcE94cr511cNTAu63gM5j2VyUFtUevM9kLT2mzIuusE4NjkGo+1inhZ8PSDYbD3aYXIo/+YTsnIHzXZ56GRs08=]]></Encrypt>
+<MsgSignature><![CDATA[bcb43352d7469d94dd70bbc3e0a213867461dfa7]]></MsgSignature>
+<TimeStamp>1490467235</TimeStamp>
+<Nonce><![CDATA[1447701136]]></Nonce>
+</xml>]
+[2017-03-26 02:40:36][index.php][UserName: inctu]
+[2017-03-26 02:40:36][index.php][Message: a]
+[2017-03-26 02:40:36][index.php][msg_today]a
+[2017-03-26 02:40:36][index.php][<xml>
+<Encrypt><![CDATA[7fkFjXHH983NkH/q5dpW/hOYqTR2pI+tcat2DrY21km7n0NAe4pbL+PNyI+mhlBKpVKVu6nqK+TMxrmWuCvQGK237VqWVRNRCZfE1KAyqYmXk2WqNU7LSobqjN6ITiwhBiDkuJAXG5yB88yQj3rjXkVugThvo4Zx4y++BDWNUdnqp65ycmoFnAgIA0dSYRrk7zx3M7yGVI/+OjEbOCeetsU3t/ixOyfjbh+Ss7vNrMtwnBW0CFHbUpmV2dsoa3S0m6cO4b/cHldilgUrbmGBA7Ku30I/MRImOCmEfIXSORE+4ryIatfEhb64tZ8wEaWP6caY+i2hEqv7T/aqtwTdNXQx3gBChGqyDKYz5s5p/neJJ4kp2UgUqMUTUagXG917zWNH3TSkC75u2FHDojxJaTYz1q3g81ktVKW0Ler6wh0/xlefce1yug4XaNDPCPBuemsktkygoEZQ960L2R9mXLCzs4yNvhQNn05BKxCymlGvdHbGB3IkWc0y3JRtA5FNsCRQSU9aK/6WaECRjkpLN+oSZFWgzn3JuVffahkNKFE=]]></Encrypt>
+<MsgSignature><![CDATA[3f94f43cc54299f44b0e7615a7fbc1e20e15cf3f]]></MsgSignature>
+<TimeStamp>1490467236</TimeStamp>
+<Nonce><![CDATA[1961111420]]></Nonce>
+</xml>]
+[2017-03-26 02:40:37][index.php][UserName: inctu]
+[2017-03-26 02:40:37][index.php][Message: a]
+[2017-03-26 02:40:37][index.php][msg_today]a
+[2017-03-26 02:40:37][index.php][<xml>
+<Encrypt><![CDATA[8O6vXYCHYdXV8bazOfgeBVDK5vR2A2l3L2SYZQukuWGMuvXOoKQ9tCXkyB3BOtJWrh0BPjnLO1I+6tRVmJp8zd72uMSnMMxx9742A1DlLIofD82bOKzpXAjxWGBPMOMXCUM/7hALdDfD8l5VFf2jymK7oW1T2TnP8scABwXapdez1FCSIU2blIpBzhnldeCQpsrBqsIgWH2bIFbihkmdf+mI7KlanWOI/+NicEQO2dVvMX4G1REHBMlLvZGiZUqIIdx+lrw9u1hfNpygCISfaxRPu3cNSrZb9ebqcZnNgowhtjO8/s3EGT/e8t2028SHgrQASVZMFtsEvuLjPAFNKEwXDqmlatJLBcAX1pPMVR6yGu1CEty8QdB4BBCWK++Zq2zchxSiIb8Jfb3+YHjl35DhJK8Bm6gu8IhmHqGjBKY4LO6TTyjoOW2W5RI46ENKah542D/p6L6IVSh7tk6kw7meIqeCR6Q8jA+cW0j06lFuivfrjtz6zFsHHlRGE2jo6z1Cq45WUttbcCzuFcB3PqtWGdPOz3jEuw7QL2+O6DM=]]></Encrypt>
+<MsgSignature><![CDATA[a595379cff4617f190bcf1b681bfb99c790eebe1]]></MsgSignature>
+<TimeStamp>1490467237</TimeStamp>
+<Nonce><![CDATA[415564778]]></Nonce>
+</xml>]
+[2017-03-26 02:40:37][index.php][UserName: inctu]
+[2017-03-26 02:40:37][index.php][Message: q]
+[2017-03-26 02:40:37][index.php][msg_today]q
+[2017-03-26 02:40:37][index.php][<xml>
+<Encrypt><![CDATA[3AmeXwt9edaPka8hAinD1J25yPGUQMnWEY6SCH4B5y6LcsjT+jyRu0YDDIRlcQV1dZKeg+IXXBKqnaFAjL8ecGXJuqCdhUjfUEgBzy7xgsau6xfCTMf1KFp3q2HOazgNRZeagp/xr1/sIF4rn7qgpsNSWP4rSQ28GfsX/JtkA8wtfAHM/F9L8+raMSK0m206BAtrmVhZgXo7OWCb4v9H/rBfRHV2KQVxaRfRlxqZqXxpH9F94SQck1VH9ggX8yRGY8H243vOUIFpvuCodXwwQUscd7yf4vJWqdN5JSDH2m9mDhQkcEXa0C2PuaIrJtme2f0oUVzTd6ge6UZt1gIHcHh3kJ5XeomtEUNDxfNRgqnrY12HTAqaUBRRrmiz9xzeJH3LpIDQay7yqMNq/rkDFD4c9Xh+NAP28PjupE95ynafYjk7WXJtGUfNo5Ln/9W6HjmIXB89cWBFrYZdbz2kUXT2HSvkSLA8Npu5LKVGyoBjDn/AQRuWxoF93fNzOdgCsoH+ObeWvP/RBGCUk1BKaNrEs0hWSUof5Gk7ZpfG65c=]]></Encrypt>
+<MsgSignature><![CDATA[4dfe97fa5e1d23376e82c47a54fac0aa5752732e]]></MsgSignature>
+<TimeStamp>1490467237</TimeStamp>
+<Nonce><![CDATA[626497660]]></Nonce>
+</xml>]
+[2017-03-26 02:40:38][index.php][UserName: inctu]
+[2017-03-26 02:40:38][index.php][Message: q]
+[2017-03-26 02:40:38][index.php][msg_today]q
+[2017-03-26 02:40:38][index.php][<xml>
+<Encrypt><![CDATA[i5ZgojzUxmhafuar9LNSMN6LieQgKZe+D8VgFw/h90p7QbMjF33CXXMS75GkYf4EA94K6iuHRRb94xZD3jaOYTF6spYU3xdXIgLBmXO6D8XN3yxZG8qIAxArTTClWah3GrjRcZxcL9TegmwDv1JKFZLimS8bhK88W9fBLiM6zZiocoJ4T6K5HhKIj+cp+4EjzOMUrIYBrJ5AdBq1bjDZiayF/pKQrIt3obk8hZqhjzLLvmjnMfH2LqBgxjQI+bxbTCcYnxRKjnHHSswgznZnpS4hnjpZnX/NJ0j76dFtXL5+YYzwYm8CJQdXtkz+JpZqvryil9cnfAn9T4v1HrBq5tbUogDSywAl221tANPYpzasregTz6MIy4odE/FHs0mCUc2M6Vdl1SqsKy3vAK1nexoV6kwPIYDJwUVfSL7u0K7S+1sKV2myN5YYTAIMRZssPaxiMfL55JdU3v48CcFHcEJWJd5fo/ZkRE2W1FCIHuGOvlv2GMqnAmSbfvr/laAV0cbaoI/XOr2yPemD3GrbVE6CDTWn+BbB5/HaosTQ61c=]]></Encrypt>
+<MsgSignature><![CDATA[c969aa1b197109ddf0bef190f9d32575be925a44]]></MsgSignature>
+<TimeStamp>1490467238</TimeStamp>
+<Nonce><![CDATA[1976639890]]></Nonce>
+</xml>]
+[2017-03-26 02:40:39][index.php][UserName: inctu]
+[2017-03-26 02:40:39][index.php][Message: q]
+[2017-03-26 02:40:39][index.php][msg_today]q
+[2017-03-26 02:40:39][index.php][<xml>
+<Encrypt><![CDATA[0jmE4rPVBdbAITBzldfhD0CAVBRPD3A1lYw8mDCD/waPSmD0z9r92axdN2OY4iTP14uNMjnDE5Klm5HOVcsF1vWHmVqeGG+uGVaoFuHm338FdijCNax4XAukYIQBax3RKz3skJrIQ+RMFA8b5/0qLe4vyEXWa3aWziMIS3RhHKza6iI6DIFA1HtUxh0XX4z6S9f8fVALwd6rjT1Je3cDHV0IQbLExv6gjQ1FurAGK00cSbt/Q6ENICzGBKofM151WuSKG6YrHGhlZ5Qe9D8VdEpytp+r9voUg95qNjtxyBbwuTLJDoekPeWdttPTcbl+/2xGxo873Yjp7UpKEdWEjvPFXRFJA+kPO2jW4iv5TeIxd51vZ/czUXGcrPHLoETerIkmuM6m0GY90DdTrrWoRVcWwqBqstFSFj3m2cdKim3/um2UAvBfrH06iGwrm6xMiJ6wljtuadj59L7vCRcNHpp+eN2vJxJMDnwe/62LZrT47MtWuKj108K8ecMgAk7qJZWJnPzGs1cDEscbo9TdlJqcj6PPRNAbxj6PrduX4qg=]]></Encrypt>
+<MsgSignature><![CDATA[5e55fc0d94b6d5049a1597a55b7329f1f3a10ee2]]></MsgSignature>
+<TimeStamp>1490467239</TimeStamp>
+<Nonce><![CDATA[1727990868]]></Nonce>
+</xml>]
+[2017-03-26 02:40:39][index.php][UserName: inctu]
+[2017-03-26 02:40:39][index.php][Message: q]
+[2017-03-26 02:40:39][index.php][msg_today]q
+[2017-03-26 02:40:39][index.php][<xml>
+<Encrypt><![CDATA[79oWpDHKAf2cZNiQO5plfDG9Rn08V2ugf0l+/JgmxpHtodYdf9SbCUGnXV9HQNSCt+WwYhIsZvEcOLRShfmQt6ySfaD2HjtxkXrow1cn09tdWSRuU5973GBik0pOcGPAo401Q1j6Xo3olTH4mwrFAjaZN000GhtrWXPyKvN3IyAm8ErOVnsRW1MsKPHwoqB6Q98LVSwdc+ZxBIfCNnLplMV2gdP3WVrLCOg4wh+76hyxe5wtGxA9w01HLKtAxw0ea2xVZFnp5QY94iIcD0O6Wl0HJxS7xKl+ISSBV90dipVLBPAHPVe/KQRrfzFl5nAXKwggJEa147hiDetsXDMP+FMXBpEd0AS2oHANWVQYjcfEF/ECjIqvmX5rQZq/2hij2k7nGQne1V4CACpUA+sTfD3urMJ74lAuhLpC2QhLipkcx+NVu7oCfc31kpUJCdNBKwqWAUn5S/za4I+P+NKDz++E7DUkv40JUqifSCmzYKYq2FRUC1NG8Hcv2D9gpjntgGyLmaNvc9Y4y44fotWeM5soxDus3HYgW62gnIIEgOQ=]]></Encrypt>
+<MsgSignature><![CDATA[36de44313ac54f04144139ccb44b6cc3c0c1b05b]]></MsgSignature>
+<TimeStamp>1490467239</TimeStamp>
+<Nonce><![CDATA[1209611159]]></Nonce>
+</xml>]
+[2017-03-26 02:40:39][index.php][UserName: inctu]
+[2017-03-26 02:40:39][index.php][Message: a]
+[2017-03-26 02:40:39][index.php][msg_today]a
+[2017-03-26 02:40:39][index.php][<xml>
+<Encrypt><![CDATA[9tQtOQk1Y4ii+OP+i1j729plORDgYAxWz67v0/sJ5D5Q367MwXDnNHpZp3zBHlblMfd7xLJBA4JwxJUiR5kw1F6+BdIGSyqvRNOjCoG/LJOS6Eo1sXPPuK6INT4j+nxjLjPHQhDz/otiZhOvq7QmtjbXe0SBfV4sPhOQ0K9edooUvAYha1MIi1tnXz5Z4u6aCfbz6u7CXiO7b5mOlsIr9tVDE7cCcopR4uZttGrBZJHesAainsJj3ZhfLsfjHhCfXTV3ues7krayqembQhoDLfcIYbtoXtyLnAWSnayEqXjr5ngG0owHu6iL6Jhs+DDCu/xcaP2Sh8+qfxzap8pOvjQYyJJlINIApJsWOVIsv3NeEfYmtMRKJsq61B+pX1J+d1Y9oxnR6fcf2T7+khfppG5eg84KnO5lnHkFa1n0KXZ6QYFS9BHR+KxF8qbXrix8XsQF3O/I2Ui4W7JNgEjjl942MaVhrOIat6nC9rPXcrBGgR6wafrQebK5xnzGq/58DAZnIedw4+4DceLebmjm2Fh0eKB+jZrdQYmHFbUBfgk=]]></Encrypt>
+<MsgSignature><![CDATA[666485ebe11084e68f9e84e6d647fb68ca40dbd8]]></MsgSignature>
+<TimeStamp>1490467239</TimeStamp>
+<Nonce><![CDATA[1375270640]]></Nonce>
+</xml>]
+[2017-03-26 02:40:40][index.php][UserName: inctu]
+[2017-03-26 02:40:40][index.php][Message: a]
+[2017-03-26 02:40:40][index.php][msg_today]a
+[2017-03-26 02:40:40][index.php][<xml>
+<Encrypt><![CDATA[cj+vZOAZL3cjrbLDsVI590lzzcfQCSl0CNi/L6MQC4JPpnBSztAoOT7MkrgJZVocGLM+AKKWqQGsDfhAIi8jIHQSfbZD+PCMOyWBHRYUZavXUz5SF6kVhSJmvbwnIW+hMYIag4k9NPlzYTLNObXuem1r1vJ2DkIAi4q/DdSCqxqspDRxRda3wgW4hoF7LdpWELM/T5ny0ZREqCCfi83b3khZ+j2yizZv1p6UNJw9WK0x1smpu5BPJoeAOi7IK8EaVsbnTSO84GADvmQ0ttRmVLMB+efwibMIwV30xGM49rzeDstqVRfEAM8RBUZrLduHXZLcGb6NNsBoFmbByP+A//EVf+P1KFTo+MoUUsCIgvAmvLVaFz3feVI7H9HNYNfIqmq/5DM3e2J1hjfcrIVsX2+C5jvCzSSh7nlATo7mKgxFpukf5PB3jvkyv0gbl4MD/WKpR1w9udyCKZjzggoMmNonmErxj3v8Cmg9qHo93DADVu2NNQcCVFHxy6orHTROFKZZ6L2Ljpux+EPiTJik3rneJOe/2wAHDwtO22GPOi8=]]></Encrypt>
+<MsgSignature><![CDATA[038af3bb141e67553578cbb9f997f2b85b682526]]></MsgSignature>
+<TimeStamp>1490467240</TimeStamp>
+<Nonce><![CDATA[627709799]]></Nonce>
+</xml>]
+[2017-03-26 02:40:40][index.php][UserName: inctu]
+[2017-03-26 02:40:40][index.php][Message: a]
+[2017-03-26 02:40:40][index.php][msg_today]a
+[2017-03-26 02:40:40][index.php][<xml>
+<Encrypt><![CDATA[hsxEvGb5oE/aM9rMg0OfmVxDmT52BJWtRxSlBVDsZn3fA6GtOhQqrqV+HdaVDzO7PnBRQQajM6baV8qxcQH0nQk06GnNPpQ8LRKib35Ao/ziAqK+rdlmdMAK+wSGkhg7d+anmiAoF8SIvlw9cyo23QZiowcFp3+UN3rnvFLGe99rLL3eRUVwVSJG0AlG188y5mDQyzS4G8ej5q5U32sk96lGGWh1wr+2gcJ9mnsj9uoG3ab1KsP94sq+RaUvPttRWn1oa2zud3Bz2LHc4HDLpnE38RXoHZSZ5CdxbxZzKiSfLXiGr40iPA8+BRYxBnK8ZQSYx3GAq+ITglRVKlOuYiQdcHsVAVDcGD1Ns8rOjTH+uFOD8qBB8LgWFRGuTCDitSTEYUYD3O6DZv98kpO2po+wO88A06oUhJCbwGvU4JqhFzVD/HiBKwZl9zWFjtbqx3+44y1TF2Sd3VjuLONYKm4zftHjuLUi/m2Dusr7s3fY3rtaWFWezz8Q3Y18Ej6NPbihnwLlpF9gVBNQqeMHaBkuuguFMPqJyEgh1Nh1Lys=]]></Encrypt>
+<MsgSignature><![CDATA[d2a6fdb8cbdc90aee573c04b8d6e6b4b2fb56e8a]]></MsgSignature>
+<TimeStamp>1490467240</TimeStamp>
+<Nonce><![CDATA[1931379822]]></Nonce>
+</xml>]
+[2017-03-26 02:40:40][index.php][UserName: inctu]
+[2017-03-26 02:40:40][index.php][Message: a]
+[2017-03-26 02:40:40][index.php][msg_today]a
+[2017-03-26 02:40:40][index.php][<xml>
+<Encrypt><![CDATA[9/ZyqvXILe5JCGlPr1uvFeIA2ceTQkLyBk1a7W44pA7IgKLbP9Si3UscdSC8wB696qjybmcpIDIbfWGtdbhNa2EmmSBhNNtAU8AZv0ZfoyjjvmPcYju+QWKv3ZpuMs8hZAClpTzGGRpnZi5xSZOCC9DK17nLwRe2P/eSyys3PnWSVXdwc9DIJuT1ZM/MFyzdMKFw+PaQFyycRHvLCaaxLSXr3ApP6KA7nP+oqMJUeVs+IlB9dt0CZa4XkGj+dxDnH8/soo5bnoZH8Vq4BiY//N9E9u1kzDc2oFjtPIFlAEXfeNMCN0herw4nNP2O2CAGEompr5LhXhkkWlnVa8BBvFt6NvGrpY87LSVxRB2yL3YRidSw/pjKWCsLIOMOG82+ScnTq/t2m7+2Jpyl0qP8uN/e5BCM4K5cSvPCTIQiWhCi74TUKA3pUw7nYpMacrzgMRV4BQ++xqTMy/WlWPshJOhbin6S+rubQKtPsduPzzulCIkFKc3LDNvcVIH5rdCVxmA94cib11ezzaKDEpxaKFidNXuT8DUv01xgUKSsvPo=]]></Encrypt>
+<MsgSignature><![CDATA[d2c34a3d66b22fad801bf722196bc9cd95775bde]]></MsgSignature>
+<TimeStamp>1490467240</TimeStamp>
+<Nonce><![CDATA[1029766163]]></Nonce>
+</xml>]
+[2017-03-26 02:40:41][index.php][UserName: inctu]
+[2017-03-26 02:40:41][index.php][Message: a]
+[2017-03-26 02:40:41][index.php][msg_today]a
+[2017-03-26 02:40:41][index.php][<xml>
+<Encrypt><![CDATA[woT8Az4VMmDdRXGT9mH+c4qRewZ7RoqHeN2g1PkB9/q0bwSvwYMYfsbX7w4DFd3iNIX9wAB4ya1/vRuN3W9UwXde+cHjp8JzsGSSf+QINViqSo014GH+WxPq8/RHLJXyCnqPDSuZwlYeiZh9CYkC+KQ60O0sLazYox/2iiaD4hVXrax37KDJDTV7X7OrPRI3vfxk5M87pg85Qg/PRREgqndopSkI0xbhRFx+L2E9MEbQCDS//CnYZPMqO1Wq536LfD15tpeKf9d6C9ziKvuDeC/hglo5iK9aXTXfPXrI+wPn3vDZsEc0+GElo3NzEPY0GrLD7cpdzg0m2KNvCnknxTNSr7WjK/JH5K+YBqKe+Z8Za3nQC4KEMId6ddIrYG0mry8LtSJzz509kGwehRtOtruHZD3bjRh+Mrku588Ylgq6T90WUr+bTLfoRBkJOM+QLQ58MZPo13DYAAHMyQ7U0suLmcip+cGv1kuWNYQ7SvKTjphCRrWfK1Lwg2OhLwVZV1OfAXLIOGUtUd5tBbZ6x+60Mn/GKg1/s9DMcoN7QEQ=]]></Encrypt>
+<MsgSignature><![CDATA[63fd8a14f9119be580c2c1818206b5550ea4151c]]></MsgSignature>
+<TimeStamp>1490467240</TimeStamp>
+<Nonce><![CDATA[2058720090]]></Nonce>
+</xml>]
+[2017-03-26 02:40:41][index.php][UserName: inctu]
+[2017-03-26 02:40:41][index.php][Message: a]
+[2017-03-26 02:40:41][index.php][msg_today]a
+[2017-03-26 02:40:41][index.php][<xml>
+<Encrypt><![CDATA[45GUc7zezM7mGqTlEoyq1a0a2ZbtCbj9mUV107VvH3at/J/omtiyb8FvZi2rFQvv7EAiJ0YGM6hw/XomRrEtMqhTMgT+10fFEN3bO8SjNvzgsH/S8VSEQKyVeueQdnfqqVNugfY9WGgJgEgck6I+lhWg7WoegULhCyyWgpR2PC1V/ADeb5lYjWC7kOzj6DyQRtX1lKEgvOhdwG5uswG1UiHhARiYrngaHgavdYTnyat80u+XNV3ThXvFoQ1a4I0ma/XdQnNtSW2MqJ7qH/PhokNQi3m75l5DUYhuxnBYdAJYOVlWBOsAqDNpxxO63eeSvkOQkm32Xmbcy9t2HnSVPMUvB5Gu1+E59WfbXlEiLCnCziqTZ/QgYOoQlk8MOCiCgMqxUmx6264iwpaXP5f5SLpCZvYuhuA7OMu2SXYBrm99az96FSt6LVJ7WIFvf25xYOZyS6Q2zWHXJCxcEGEkdJed9o79OBjnbyNHI0/F/Z45GeJbO+PzIcZjXfqBqoOT/6zH/xHIIf0xxNWx4L7HmgktDnd9B44AQ5tR+LItl2I=]]></Encrypt>
+<MsgSignature><![CDATA[e1215db67d9dccd5228b4d10a29dfd99a01ccdab]]></MsgSignature>
+<TimeStamp>1490467241</TimeStamp>
+<Nonce><![CDATA[653210282]]></Nonce>
+</xml>]
+[2017-03-26 02:40:41][index.php][UserName: inctu]
+[2017-03-26 02:40:41][index.php][Message: a]
+[2017-03-26 02:40:41][index.php][msg_today]a
+[2017-03-26 02:40:41][index.php][<xml>
+<Encrypt><![CDATA[e8NJB7RtVjKn3EWRmMV70XXdNGeegtrjbYlXH7af8F1RqiADdLRPJW/gVMEYCU0EilwMmDEFkj6FblhmoVwYcCzrqQHKzT7z+B6/sVN5R1tVrLmoUKyb+fhY/oacU2xq0zBkPVtye0TuuAp+WTYz2kXWjm0XGZi38xVC6IDcKnXT7lKg5+ynPqC4EZkw19+mhggGL2r6nAtwP18LwBUJcm6ja56QIwB7x2s3swYvSA3/NkrRaOThUk2MD72u/jEpvePyWBBeFHZ+ehzHIB+K9fKVA6rqHkkMcIe+WLJTih2ZWEM3I097hdriTGczH7dbYEBYiVRW8Qb//Mg/9YJakQgVWd4hkqB/0FSe5ugOoO9aqtlNPEMjnU338TukgPkQjatumn2VjlFuMGysP0WCSDvYUyWoXJenokQZsQY36coDQqUN2VuakxOm/hy4gr/shU2b2hXMtC1DhbXo0xUIAx++zt5JPKoOxJ4GFU+CGFiUpQC4gzq/sE6SkGyUYNegXJGvMcTGLp7L8I+wN+tMFbar+DDxeksNAK5/+DPx8kg=]]></Encrypt>
+<MsgSignature><![CDATA[b4ac9c8efa7aaf607160ce9d91efc671d9660715]]></MsgSignature>
+<TimeStamp>1490467241</TimeStamp>
+<Nonce><![CDATA[361994044]]></Nonce>
+</xml>]
+[2017-03-26 02:41:06][index.php][UserName: inctu]
+[2017-03-26 02:41:06][index.php][Message: aa
+]
+[2017-03-26 02:41:06][index.php][msg_today]aa
+
+[2017-03-26 02:41:06][index.php][<xml>
+<Encrypt><![CDATA[nt3Ewjbu90sYqyE7EJZQCNveUlwzxqbI2kSav7f7Gny/USXGtNvgLRL+Eyj6XIiaMHpXMj1t+1BhV60rAnR0h9FqBZ7Xv9hSe5zghBPIlHuXBnytHcQ3cxh7qc9qYX6wr1pRlwhiv4eqEXP8s+kU3TOIasIDakWfdD8owpAL13g18em0zGC6+NPO7pI3v2sqJ7vPFfGGuSV27RaASU+CO8zhP7fB087ojQcLkp0z2+QTOSNpJtIW9QkCMiB9LdOfJCM0LBtuewuCXNWsfgRQeq1O5a3n0C4J5j1Cxa10d4dKoX2REYqx64nr0FKKvecDNw+LHCV/LaKCKqoy85/oK0zWW+3yNgjufmkNY0MkCFesgM3VCp4c0gR7ZBRUGbpq0ZWWGKgHxBJFziTMGy7Cosret/PvfNkQ0Q5PnJ812tjdH6kcEdkAGRZUrxOkX/XS/Y7+46JBih32b8AeEVMR7Pdt62vU4cdoVN2nRSuRjamwgehAdenE0OcPnHFJsI3bQx7S6Z+yLRwWjp7G4Rk9JJdYd+Vc6zXnUgnbbzN+16s=]]></Encrypt>
+<MsgSignature><![CDATA[423baa5f112030cc311c12181f7e46dd60111f60]]></MsgSignature>
+<TimeStamp>1490467266</TimeStamp>
+<Nonce><![CDATA[1293384723]]></Nonce>
+</xml>]
+[2017-03-26 02:41:07][index.php][UserName: inctu]
+[2017-03-26 02:41:07][index.php][Message: a]
+[2017-03-26 02:41:07][index.php][msg_today]a
+[2017-03-26 02:41:07][index.php][<xml>
+<Encrypt><![CDATA[EPDK7L2tpAqCyE+8slSchxT3iDgAq7VPqM79hkIzTKtzaqet3bS1KkQXDqklh0q6JO/hpns98PX1nxoqUNgK46CThmz8pfO/rCwzSzJhBVnYqCEwDSNWdMImkJR3CnetnrAxuL33tnTkTOAFFa74JNxyNWyly+MwfVf4PbvclPR6RJ94lybZ0aMHiw00Q9R+djcgig9M9Y6M6qCZaTNtl1KgxohIUtE6YbES7leORs9/+ZE7qmkF+Z8o+kvh2wNmd9mBjtMPb7HfLxBGyc1wxogv8r5b5zJOFb5c9H4n/xsaLXAv869U6ne7NmK1FKb49RyrzsyH4g2fk+VNVCEOYSkVsSkCQfxlPUsTdm1MrsXh1EIyzjMBPyBRXwQfnRpgQ6Ng2km/2i5FK/SkTnt5WQh8k/BEJWFpsBrrKn4KaNRUrD1ZsuJ+1va+VuKoVTfKz0eHWcu0cXTSakl1KjSfZlm+TvTIXNGpnWjTGleBhsWpFJTWmWcfX9IrCMvBLkuBZS7AIrNRF88vVRhBikWJKn1wewfRXDiTzlVFUL2lhFE=]]></Encrypt>
+<MsgSignature><![CDATA[c17eb905eb2c5e450152d47079cb35494fbb054b]]></MsgSignature>
+<TimeStamp>1490467267</TimeStamp>
+<Nonce><![CDATA[1367845062]]></Nonce>
+</xml>]
+[2017-03-26 02:42:14][index.php][UserName: inctu]
+[2017-03-26 02:42:14][index.php][Message: a]
+[2017-03-26 02:42:14][index.php][msg_today]a
+[2017-03-26 02:42:14][index.php][<xml>
+<Encrypt><![CDATA[q3OgIv824O+wIAVvBeLey/xoy3YWE5sgZ8GWdw3M/9dQUEsnLOI1EZ43KCugpl90xBFTK6ND4+bAp5ARq4wAg2/jNo2YZdcD/d2uYQmMb+xF5jBDjyWJDGGaOUtdqUEtlv8HvNkfGG4pTC0soZRdYef7c+DUDMImrz5BzDy5vbrxiGhxKeq3w2n5yvq9i4+7cTdm3dJy4IZ9170+cpgYB6nYzcWAdEA+yNdJT+8ULERz5KvFZ8mgiUeVGKdiwSaUAJx1t5sk+tHWLxJuinPDSfBR+v3Y5Pf8/Cq4Djo5COhWXNYPAZzzdxf7hzE5A44Nb3foV0M2NUpsYApEKWUjjqf2/Gs8MCvxWGPCBUL//5osApeAqS9Y55kJHo2UP2k2X8FyeOJP9sL4TVPzs0lw11VQNw0E49hIo+fpqCN7U1tD2kEyqDvM4yboM0IhA+JunENWvORRqiCFIayNGSzLi21zRLPp0ss8LDRbVFhvydvghE1mKymsfIhwuqTCmG8lMw26nyhD48gg1jkm0uTou+R5thQ2TCqK3tzXR1cZKhc=]]></Encrypt>
+<MsgSignature><![CDATA[49037d742bade0b868879110f657f09d15de2bbb]]></MsgSignature>
+<TimeStamp>1490467334</TimeStamp>
+<Nonce><![CDATA[1662284153]]></Nonce>
+</xml>]
+[2017-03-26 02:42:47][index.php][UserName: inctu]
+[2017-03-26 02:42:47][index.php][Message: s]
+[2017-03-26 02:42:47][index.php][msg_today]s
+[2017-03-26 02:42:47][index.php][<xml>
+<Encrypt><![CDATA[RqYtqotjm2jnpQhqu1p1LeEzqlW2TF/wTn55QSInh8gY46kyzh6xdRZAkz97MvP56Yz3feOlNWY0MdFpNAYoDHeRrOQZbQJ67BNLTP9wmUurRRVaX4MMjv+e9y2NDw9/2za9qI+9LhBrMX1KakNi3Eb9F8A953daoDMENZ98bAgH3tNoL0QjZZa2iOE5VBPil4WBZ12o2R6vGQRbrqVHJ34dOLW1s65bAm1e1ff3t5nSeO9j9zt224S2ogM6aARJhpGu3I3s6sVy5AjeRX3Pd/krEOl6FPQX5BHz50h3f7e3cq8Zg+Gyxeu3SWWbktpXwU+pxrV+ExsBKAIOhYLOh4Q5c1xTPiFuG6eO4Ps2nF10uZzHMEUjdVMkvh73mCkjFzmpxUT13Zqv5sQEe8T3QAP5MTQafOL/0LFURxDxdYEPPdN7R4Y/NMnjipt8bpo/W3HKJLt1WOZfs/yktr77anByAWpDTt95vAgmrvEhnO8uPu4s/FuMPZDgtAWbV1x/mz9lYX+RvBQuKAgkG6vRhwYRX0lOdlEi8uht2CLvGOA=]]></Encrypt>
+<MsgSignature><![CDATA[44863407dfc96f8c0ae0f8b5493a4110a7c11ef8]]></MsgSignature>
+<TimeStamp>1490467366</TimeStamp>
+<Nonce><![CDATA[127198346]]></Nonce>
+</xml>]
+[2017-03-26 02:42:49][index.php][UserName: inctu]
+[2017-03-26 02:42:49][index.php][Message: a]
+[2017-03-26 02:42:49][index.php][msg_today]a
+[2017-03-26 02:42:49][index.php][<xml>
+<Encrypt><![CDATA[l3R0aVPwH3QId3oOvTcfSMIYIDtkHh46Uc1CEzkb6Y3R1xSERyUK1ZIN9A1t2Fuf9IYaA5I5F+JuEleKSas6HJDRdxAl8rf/gtdLB7FlF6PthWdT+mhTLBYOG/1BM+/xIhXtBn4QOAD8fCy8uXHS64+dQB/SxEHZTaFVRickzmM1ggRe718a5z/U+Uid8jWHw1KYSBMlFh+/wYdA2Os0Jt72K12ZZaDq+Atxvfg4Y0G0aYTOm5EMyEUdgX7Viu6vzOZlAj5OdFp5RkCaG+ZtvvzllvBNnDze9Gnb032sQ07BlE/GbdE754hTyJbplnYwDMMs8xMUlxCGtRtTQT2DV0c3jWBiLs1s58C71TVDsPfPtjX8ILhUSbHTsdCQKdL+0J/LZCvEqPYzjdwxlB7AM4Z+Mi5NmmFeu93G/RdtJoLXAU3VV3PFjJr6EAzT3XvjZmAAQKh6kiz6BCcsu261nM4DzkuohADlUwlgTplQ5vZ0Cc8/otjXFJTOVJJ4uon5wc9n/J1i09GtZJps25sChJ1LLuFXBsuL509DxO2g4/w=]]></Encrypt>
+<MsgSignature><![CDATA[d302c4347e1ed365280e53fafaa0916b87ea0a63]]></MsgSignature>
+<TimeStamp>1490467369</TimeStamp>
+<Nonce><![CDATA[392146481]]></Nonce>
+</xml>]
+[2017-03-26 02:42:56][index.php][UserName: inctu]
+[2017-03-26 02:42:56][index.php][Message: a]
+[2017-03-26 02:42:56][index.php][msg_today]a
+[2017-03-26 02:42:56][index.php][<xml>
+<Encrypt><![CDATA[9Xs0676d2FOlDXcLDmIBF98LtAEPCixu8YzfLqUlRZ06+VXBpdgy0Aox5dAKINDyW+QAlY76QEuLnj3gguCRdipdaFPHhCJEPTvAqnzptQs6AJlXHCTlMVfqWP+Pa6ZSbjvmQUGzwIL09oarCucHbmeTfU4AUXdbnTfYFZ3mUztdcdeG61EINEo6KOK8zVXcPvagqByPUBqa2iChWa3fieRXaMoB1UPtaAuc0/PWa+1lCrKdRzjg3SgECLFYybFG9KwRTzIB7XHYIQsmZh6K5rmiB6gaLJn6fkWC5CJb4PHdjleBqc8JTmOY7wLXszR6nfUuUZrlcnTyPK3GvXXi2KIXxPV3NI7uDJd2d6StloOXltLHBopeN14gJV4syKixVUxT92rYbl9R3/fHoH8sBJ+DBXo09MqNZkjmDszqGpB0DDcm20SGzJLTDItpj2o8T+Bi/jvWMvsj6Ac2ZBaSvcN7c1aVH9U1scyzuD7yxVMlHl2k6VDwbfFqUKzz/H3ljL/sn7+UDrGBqpSAuD+SwYhDjGriq2M+uZ0ZzKyxMfk=]]></Encrypt>
+<MsgSignature><![CDATA[01f63000ff7a74e99b9138a62564dec77d40c79a]]></MsgSignature>
+<TimeStamp>1490467376</TimeStamp>
+<Nonce><![CDATA[1076874786]]></Nonce>
+</xml>]
+[2017-03-26 02:45:01][index.php][UserName: inctu]
+[2017-03-26 02:45:01][index.php][Message: a]
+[2017-03-26 02:45:01][index.php][msg_today]a
+[2017-03-26 02:45:01][index.php][<xml>
+<Encrypt><![CDATA[1M3nNnFMtUdESU23LR604rgz002zbQ57FSd65DQmQGyxhh84TLAIT7PU5cUvCELI9UYKsMu9tvIcbfCwyUHaChB64G4nJrxjXStS9ADSp+Gaee8Y+1S11hgHI2sOGpanQ/u1dXzohFAR5/Uh4EY+HGX6xECI8zsFxxbcufDCQyNBhj/vgefN7AHO1KrZ7SmSmWsuVhLmsw/6RCwvQYL8qi6FRBkbXpuhwaUaE0g800L6q5fAkVt505n52CnQoqlid8VSvX5if7JTyYsBkIhJlV+HNeSF3i5z/DHsZiPygJ+Bg8SZVbrKgPrA+J0wYX8YrtYg7Ba2boTOkIMVn9ERFl1+9dun8O+Fi7xtt8fWvSp5p+Fy4d5SWfUkUGPyyycTqQqTaKAZysIBEFtM6EewVXIK4ltiKIaa4O1VAi0pz/KpfsQM5Q+FQsS4ztTOqT0i77A6zANWsUQ84Cb5nZLIsA7jivnxPo1f1JV4rzO9qAw3RhpurhEkiMYxwVSv3vbB]]></Encrypt>
+<MsgSignature><![CDATA[03339b16edc8719bea3930d768a1286ab26b3cbd]]></MsgSignature>
+<TimeStamp>1490467501</TimeStamp>
+<Nonce><![CDATA[1416070866]]></Nonce>
+</xml>]
+[2017-03-26 02:57:01][index.php][UserName: inctu]
+[2017-03-26 02:57:01][index.php][Message: a]
+[2017-03-26 02:57:01][index.php][<xml>
+<Encrypt><![CDATA[0M3BU3NDoEFwmHkKOp6A8YfX0f3s85l20z4NpclrAG6XHKSwceg6jYhR3TBqErjqvxzMkF37MDQmvzEu4l/VUzQVXPoGV8DhWQQRnRNg+pN/8onyGwj1zKzebjVzFwyelgRx5GSIXVm3BX5Nx/Cc00dNguVrXqYzXO4/Xln4paSIBCjwrK2gHTDuL/q9ubVaJ2A+UAx4TYn5W7Ez3iqj39yK29JbIybaf6sBePP9Z8cKTDZKAg6zzSwVg0NHT9wRADLpieUQZfFJYwgHKg/P3cSduFDW8kSzLPJCYnFe89FmONglnylGSUCyXeW4lCt3Zu1xjMyK6+tqGB8WgYTLNxbRHL4bxioWx3UGasjWvhdYDM8rFGcyureuU3dXHA85U0sxAgfrVa2hQASAjmYXcWgIyM5cChJLOuk1YSZV9CfsDqlxaQh8RxTU+qoObc2eeupGxjnd1OnLtj6AARHMeQgf3RLq87cD5jOhwHHz+E9gu7MCpGbU/fBG/D9HX1sJ2Y0ZHtqfApwxboXUd9/TcXCivq9N/aDgvbRTo9VrVghe28LTm/gvLGVP4ceTKK1FaplC8htSWO8XkxhDeJYzEg==]]></Encrypt>
+<MsgSignature><![CDATA[69dd2e7381410295647456340fc292d971ee4b40]]></MsgSignature>
+<TimeStamp>1490468221</TimeStamp>
+<Nonce><![CDATA[78117944]]></Nonce>
+</xml>]
+[2017-03-26 02:57:28][index.php][UserName: inctu]
+[2017-03-26 02:57:28][index.php][Message: a]
+[2017-03-26 02:57:28][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[g5FBJQvlZkQ8idd+zH5uL993GX2UG3qTwchfLphqdqW974wPFKq5VlyFxpEjVG9wlE1mlL+Z5sM4lVux8ojh40QUfWw07OJVFAFFnduWBKCyCTMnbXZOK4f+0P2l0b45qHX3/Rr2BC3yiHXSqhxZiap9OUrGIjIV+sPCAOYqaaWFYVqWk8qt9ghm76kvu+77pwRbRmzftx7SLn0Ytuv7d+jrSV2vOxFlX097RhcKlJpC1RZHbVGPJvULRqUpkUnVjrY8L5n61J4nfbxGFGnalkFHLi1GbPvT8mfQS+RCFNEcxNAU3fYV4uU/Uia/XQ3N7dHiG2o6upecHZwAXS+iSPkEI7ztiud4CecWdFot7dEgEAiL/U2OIOBb621ahHSLSq6HPSWk22FbLec54gugP9ogYm0nweWzxbHpamnRxhMUc7pgV1on36BftRNOXSEHHvpan/dsTrR7Jkwf5BcvAjmhQKmYyxzYx9UjMUDqIEOS7+mU4N3VyGiDL/p9o456B50hPctKCXiJHw4VW1A/irzBB1X1ojBVjyYAPAeXzmY4z+cp41UVfLMLG8f7B0rOBZzzSAYzMfpfDCDx1MQz4w==]]></Encrypt>
+<MsgSignature><![CDATA[0358685a3469644bd27593243788aa27c843252c]]></MsgSignature>
+<TimeStamp>1490468248</TimeStamp>
+<Nonce><![CDATA[947742390]]></Nonce>
+</xml>
+[2017-03-26 02:58:06][index.php][UserName: inctu]
+[2017-03-26 02:58:06][index.php][Message: a]
+[2017-03-26 02:58:07][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[OdPvtYrT2l15Jt8bOY8uMzCOz+soddmNn3bfRbvJ4nlCDpa+UjQDAdP1ieNZ8afhCIEdzzHzk07MjnyF2ovlSbrvDDVVhmAQ8Y8iIkcNpKPJao6P+VtVFofanKnwqrRQkY4wQUsMGkmdtQT2GYR7vfuX+IKJdfdASnutOEr7RP0YUCh4q69FVSOfwZKKwN7wOhZk9+vFPTCKkudnyn++orIPwcA5NvhKspEg0brOrKpPeUnEQtIh38XWASazi4Md/Ou9DH3HQ10CSLlm0OEFNg/EXUxLkmetHMlj/jVhFyQ3+qMfbbR1Wrrf2LorVQW5/E/63gsxpCqZTk3u1qgakoMIfyBXnKIaw4XLUhvjbKT6UUYMpfMfhSJfG0RCXIBs48sKKo4XRcxUACHq+ODBDPhntwcH/002dvt6WgAVG5k5zzi4WK5fCD+B8bCMfFpYn4IbQ1pzhF4zYqKZohWKY2vq5NFLYIjI8afMOTPnc7udNpTl6rPEdDtTLzxEP6oSJkrfR8WhH6+Uxd+JfakWfyLXRAnWmvdZGuJriicCzFUqNyBdU9jS9eafxhazliMIjULg+FiYEUbS2K28phHZjg==]]></Encrypt>
+<MsgSignature><![CDATA[98979f9abdf0ca8ef98ee146b4563f4b897d3ea7]]></MsgSignature>
+<TimeStamp>1490468286</TimeStamp>
+<Nonce><![CDATA[1833599413]]></Nonce>
+</xml>
+[2017-03-26 02:58:08][index.php][UserName: inctu]
+[2017-03-26 02:58:08][index.php][Message: a]
+[2017-03-26 02:58:08][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[yJhHkdnnZ0RVy0lJjoAnR04/wt/jj2nUgE8CGvC4rS2JgmKnuikX7IrrID4car24uoM2Q2FQCCU50q7AQyzrIHt4l+wxu0LTwaUVLxgtDg5cTsSOKnxo94fMnhhaazONtD14mkyC5R+bvTpqTqAGq7/p++2GYi6qr9eWzL7d7BH7jlzf2tKEZiK6o+CLpm3zplX7dX1cE0WjCY6b73IeEt15EWjrPtXNPtNR5BaknQ8pxP02cIKRG6rY5b2+hMmwUqMJhvLR+ZmrSJNoAD9keG7Vjk20cX9RzR4kvmmV8+GGwLfF+d0DoCZjrRNmu+OTL3Q10iiO5pBoZM7xuXufmmwUvAjWiyxmX4jZiVpyfL/U0SlDQGEzqdxNaGtAUAdGz2U/sl1KWuN9FtNcsUBn8AYglp+H3LapqBi2wzAXPCNnuDazSifzLaci6EY4tmHxKyN05NyxhopLBdmNFyjZiraeF8vfW/mmvRzmVWRwczmyLfR/w67Q9TEAlzjmlDiedBE/ljkWdcTtZ9esdMSHu/PMDVdpvbegcchv6JJ1Z3ju2szJ8n90A5mTBjGUKmzPTKIvtiYbCDNNNq+FvD89RA==]]></Encrypt>
+<MsgSignature><![CDATA[07031062f4c9bcc05fdb04aed68ec178e840134b]]></MsgSignature>
+<TimeStamp>1490468288</TimeStamp>
+<Nonce><![CDATA[1765400746]]></Nonce>
+</xml>
+[2017-03-26 02:58:27][index.php][UserName: inctu]
+[2017-03-26 02:58:27][index.php][Message: a]
+[2017-03-26 02:58:27][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[KN629ObBSk17HKZkw/07yi1XdHcVQPqjJGhsxJ8OvdYLFMNbbXzaYR4H8+W4dByVeMGeXsT1GYEGiT9ewpteqajRG5QQtEJe2NYeqUcyOk7pIl4vkQSu7/8P7TWQlnAZ7UEVuoQ5ii5Eq7fEB/XI6iEP65KJKH8UVDpQ3s91UmtjN1i7Pcpdo145ndw7yJ1U3AJ+Fn/ydvKsP6HYBBJ+9cWapLGt/y4zipIt0izhLXqj2pLonEcUasCLCnNvKqfbES7VHba4hA9XVLvdTnrk4uTXvBLpPGey/DxL8Y3ZEcBVGTCYPWiVSC87XP5lhhQDY/kUpe5qTv1Ox90m9oxfn0Qs4ZH8N9gVT/WtyySU6kFkjsvnojsJWF6gAwmFlbT3UN6DRkm8ox6Uv9uw/aLLOAxEBhuLcCmX4AzgTP2nZisRqo1l5ttJy5Ic/N2YpODRvmtRnWOyXYZOJU3QXxZBprRzSbLKkRqZQ1Hs9JIHhlKqrdINmphXYVLFYjiB3jFOwEh8A3V5YWwIIu1kQQhioeAugGwKcqmiULivcbmaidXD8nG/7wzxk8MJUf/zkMvMparKbNZCMSdvxoNvzczXfA==]]></Encrypt>
+<MsgSignature><![CDATA[ad338e160011b98a861a8d07031e3e600da1a777]]></MsgSignature>
+<TimeStamp>1490468307</TimeStamp>
+<Nonce><![CDATA[1505810306]]></Nonce>
+</xml>
+[2017-03-26 02:58:29][index.php][UserName: inctu]
+[2017-03-26 02:58:29][index.php][Message: y]
+[2017-03-26 02:58:29][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[+JfQ6NXBF0Q0os3iHdUdKYyYmY+ZsM1LNSwpZ9GzzgJpepUo4nNvzX1NoJpOBCVxvZIv2dGkpGWXxICFBXA3HQuV2h+hhL074qiTqiDHZsmOenks1e+I6U6WbV5fw0SNWwskMbX3FP5Ge2zw7Ew5HdG0ZE0zOp3wqIa1GKbjX08bW3dNBpvbNho7lAUuQhKxPBdCFU8Z4sDS4Ow2P00PgZ3dvbJqxhX1aQGSd9O7/5swF2MSlkIW1Puvu2yDFW+308XOXeFBn/uoizhQn0Xyb0tp1fFzB3Y3CvKTpaQdKh4mjNeEtMjcpa423MX3vLT7szJJr04LOjNs9XtsSHZtTUwouQvS5yKaVLAg30CWT6Qr3C8OxH2F7BGh7r2gHeF658dyJwxb1e6fY/MOr3qf746P48d6YpuWSu3vOqmY23xR74kQyDRUWptR27mJsGJN3iIJOS+pxmP10P4Kut96OyYxBiKlDiGlnZsukxyk3GjymIYKykmrqUlyMRWMABTF]]></Encrypt>
+<MsgSignature><![CDATA[2922cfc0af5bb9cc7556269bfeac7aa6f59bd5a1]]></MsgSignature>
+<TimeStamp>1490468309</TimeStamp>
+<Nonce><![CDATA[1970185100]]></Nonce>
+</xml>
+[2017-03-26 02:58:58][index.php][UserName: inctu]
+[2017-03-26 02:58:58][index.php][Message: a]
+[2017-03-26 02:58:58][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[mImyEWd/X1y3M7Y4GqQDWx41MTQG2cGVRNYFFifampijikwoBB7N9eFgmDzTJtLR9/CEl2SmCazho7nuupuCRFacO4IxUedBghIQM4BavlOwWvnVmFv4dhb6O2g/Ywwyvv6hmREJ3Yvtbu+6Bts1YhvmeGj3s+Y+vSpMHHNQA82o4nHgXl4pObX6pTYKZNJHdwjxX+j+tR7T4VsG2ntg2YQmNowjVufDzwHwF5PwGIc1SHsMhE4wd9iqcZhbDpnP4tJaceHwW54bnbStNXuNOnfvsVwIQP1+wvln9zRbIlKd5MrpXSHZBiz8OWfcr/E+ou0LdEZ+Db2GiBR2yWaxnDRC+T5jb3aOhrEfWn+y8jrKSA5CHP/8/owD21ojh77Ww26ccniIFh3vWy6vn/7gzrEaqHH5B8R3xcIM7WM/2TDRKbPvM67DTb0o0pTcHajEafOhbAVkdnNDUR98rjAv8w==]]></Encrypt>
+<MsgSignature><![CDATA[95af61c0811a7c0f409d922019f996a71f21faf2]]></MsgSignature>
+<TimeStamp>1490468338</TimeStamp>
+<Nonce><![CDATA[648852573]]></Nonce>
+</xml>
+[2017-03-26 02:59:01][index.php][UserName: inctu]
+[2017-03-26 02:59:01][index.php][Message: g]
+[2017-03-26 02:59:01][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[RJo3k1osowV7c83ArtQs+Wy12GOJzyvfRaXmjJEQrA5Ly1P9awl4MDeCWgZTmKvrgHzXFzqxmcwIS85SaO9d2A2r4IfakMoIqX583V7MJUGIzXnw7p0GU/RsRbHIH0XrKJYwPRKUJ8+0slmfxXBlSJ2q956poB+iFwwWfG7tua6NWFKeBUQ+3pvAvpdPQPl7NelyK6aa0mrjjdkgGozg2srEGEs6LanbhMSwjiTGt9VSoSqJWLewQkE1KTYdxAmr3jl9SBV9RobE4ExDctC9EtCpEUU1mtNy8gki9PulSGXiNWOED9nRYyzjGQnr5qRpKIackPqsyh+0BT70VMRblBm+YrBpraYwTLaWAkKKGfFp8GHudU20FNmEzwvjDttHjkWhEp+QdhIU8lfVOUBFyAr4B7QIaGbOHZRsQFQ+g27Be4+JK2oMU/+VR7jgyT8Zwtr7bqALmgC1OGZZhAlqMg==]]></Encrypt>
+<MsgSignature><![CDATA[74f65cd62b08ae5449bb16b5c5d0a5433408cdd5]]></MsgSignature>
+<TimeStamp>1490468341</TimeStamp>
+<Nonce><![CDATA[1755710977]]></Nonce>
+</xml>
+[2017-03-26 02:59:04][index.php][UserName: inctu]
+[2017-03-26 02:59:04][index.php][Message: ddd]
+[2017-03-26 02:59:04][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[MJwWJA4IvBfUuHaBIZbepwL97VQ1PvvQLWh5vshrwykLQlTzSve5vncTOJc5HS/mS/ZVMdcZQjtm8f2J/YzVUDAzShBXpkbVSxvY+fXgluYz7gm+Xs70GDre0N+9h1yD+7dloPDavkyuNpZ4aqVx4KIcJFpb+QA/gNhfZew2ywHF8WGc+IBgjDrqGt72mcWGfWJ/EQQpxwHmdkp2wzkmJJe9y0Nx3kJEUdg0rZBNCeWmUB8gqXndIVsF1dkF3rP6B+XLCEQRiYNG5msGr/6EyYIwcPMTZmz8H1P5GFjoN8IhM7jholzKhA8MUGp4ix9GK9paOZVrd22lgiOg8S+R1cweZoJInV1MYLrLsuRqCM/s1hHiluuyLiFOS+KRfxOUDZjAMEVPTgkq74TFyk/mCmJFQ//Z+IAyy7QTZvWRVbM=]]></Encrypt>
+<MsgSignature><![CDATA[ef176b365360386049eb523f38292a54efb9a698]]></MsgSignature>
+<TimeStamp>1490468344</TimeStamp>
+<Nonce><![CDATA[1464658911]]></Nonce>
+</xml>
+[2017-03-26 02:59:06][index.php][UserName: inctu]
+[2017-03-26 02:59:06][index.php][Message: d]
+[2017-03-26 02:59:06][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[VBLttu3TE0ZFVMzfuLv5aUqBlcKtf+gLBqDYbxI4ohBrw2fyoANEZgFvkRLZFkM2TUc/dGp0d+/gc5ssyp/pOXsBQbY4AFyOzOhDVi6dcztgL/NltPQLRo3/vP+Z7uYGTSyQ5l1Lpy9JI7kYLpTXwTu8STfJ3wyvXLbSrdtB7ERcdXeS7jIHThmWgu8bZOf0BSXapENR3291VWUxf6l2bCeWf/rbF162U0c6jUKL+zxiLVVx2kgQprdkWnvPnFPjxiSN7J8y8k+GinRowGi7pach003WbnXIKo1hwf7vv0mK7zntLpxKOD5YgG1a4P1ZIoqRX3NcpE2cDK9bE43kd05uva4oOxKIQ9zqE4DzwVR5/h699p8h7hHKo961Mxgup4XDRa5rHU7Yj9fpnv1dzxdqWQbNC9Py2Am3v2jUjy+DyaQE8iijmZoxx+r67Ti4XkIF0GpiOY8rbfbYq4UU1Q==]]></Encrypt>
+<MsgSignature><![CDATA[44adeaefb1e83c8b86ac3ae282be68a0f03eaf4c]]></MsgSignature>
+<TimeStamp>1490468346</TimeStamp>
+<Nonce><![CDATA[1552081162]]></Nonce>
+</xml>
+[2017-03-26 08:15:30][index.php][UserName: straydoggie]
+[2017-03-26 08:15:30][index.php][Message: A]
+[2017-03-26 08:15:30][index.php][$sEncryptMsg]<xml>
+<Encrypt><![CDATA[TKu4yPUXZ74aHA9WquilvBXk/PrHEeuwRonGHSjLiZfR+83QehqqwnnqqBtCsq2xMKr3gxBnwOMJYC1hLTIOeNVZY6lJcui59QkBi8/ySEndF2wdZJlPIy+3UpVW6X6M/SvL5kjivt/CEfU4LFyMHwKeCFOk4JoFFK4k4/bTfuxdwrjiBVp9MJcF18ctC14XztETc5FXRheS/IQQzDA80JR8S9Knws0HCBmb4eBQpUnxxUD9Rb6eqBzs6kXZ1zrEMzivjVK4WFDV8h4BgxAgDL/ZvrTZxSWtZIEJLFpwmhN/dzU/rFnd05KLkfhu0lG8akLy4A192H0cHKMOGLMU/n26Lz19hum/Qw7UZUcmgx6BOxWTijPGp8rvx308wG9ITrUEGAqtA+V7PWIWijpAODiy6llL83toQU5YPdF6k0+pY6W9eVLzGyc6CvFzzjo1cZYazoj6mJ3ZHrJQywvksbYgenSEOcWyq4MnFCZFCxyN7/mA9qHmqcI86h63HLGQ]]></Encrypt>
+<MsgSignature><![CDATA[b3a9a7902bf0a69de75c8265dbef95877cb54d30]]></MsgSignature>
+<TimeStamp>1490487330</TimeStamp>
+<Nonce><![CDATA[1638368771]]></Nonce>
+</xml>
+[2017-03-28 12:24:12][index.php][UserNameinctu]
+[2017-03-28 12:24:12][index.php][Messagea]
+[2017-03-28 12:24:12][index.php][Reply]
+[2017-03-28 12:25:20][index.php][UserNameinctu]
+[2017-03-28 12:25:20][index.php][Messagea]
+[2017-03-28 12:25:20][index.php][Reply]
+[2017-03-28 12:26:14][index.php][UserNameinctu]
+[2017-03-28 12:26:14][index.php][Messagea]
+[2017-03-28 12:26:14][index.php][Reply]
+[2017-03-28 12:31:29][index.php][UserNameinctu]
+[2017-03-28 12:31:29][index.php][Messagea]
+[2017-03-28 12:31:29][index.php][Reply]
+[2017-03-28 12:32:26][index.php][UserName]inctu
+[2017-03-28 12:32:26][index.php][Message]b
+[2017-03-28 12:32:26][index.php][Reply]
+[2017-03-28 12:34:38][index.php][UserName]inctu
+[2017-03-28 12:34:38][index.php][Message]c
+[2017-03-28 12:34:38][index.php][Reply]
+[2017-03-28 12:35:45][index.php][UserName]inctu
+[2017-03-28 12:35:45][index.php][Message]d
+[2017-03-28 12:35:45][index.php][Reply]
+[2017-03-28 12:37:23][index.php][UserName]inctu
+[2017-03-28 12:37:23][index.php][Message]a
+[2017-03-28 12:37:23][index.php][Reply]
+[2017-03-28 12:45:54][index.php][UserName]inctu
+[2017-03-28 12:45:54][index.php][Message]a
+[2017-03-28 12:45:54][index.php][Reply]
+[2017-03-28 12:47:33][message.php][type]text
+[2017-03-28 12:47:33][message.php][event]
+[2017-03-28 12:47:33][message.php][key]
+[2017-03-28 12:47:33][message.php][text]a
+[2017-03-28 12:47:33][message.php][search_busy]2017-03-28 & a
+[2017-03-28 12:48:00][message.php][type]text
+[2017-03-28 12:48:01][message.php][event]
+[2017-03-28 12:48:01][message.php][key]
+[2017-03-28 12:48:01][message.php][text]a
+[2017-03-28 12:48:01][message.php][search_busy]2017-03-28 & a
+[2017-03-28 12:48:01][index.php][UserName]inctu
+[2017-03-28 12:48:01][index.php][Message]a
+[2017-03-28 12:48:01][index.php][Reply]查找到03月28日上a的人员：
+宋源
+王振翮
+王铁良?
+蔡成果
+廉宇澄
+郭霖
+[2017-03-28 12:49:15][message.php][type]text
+[2017-03-28 12:49:15][message.php][event]
+[2017-03-28 12:49:15][message.php][key]
+[2017-03-28 12:49:15][message.php][text]a
+[2017-03-28 12:49:15][message.php][search_busy]2017-03-28 & A
+[2017-03-28 12:49:15][index.php][UserName]inctu
+[2017-03-28 12:49:15][index.php][Message]a
+[2017-03-28 12:49:15][index.php][Reply]查找到03月28日上A的人员：
+宋源
+王振翮
+王铁良?
+蔡成果
+廉宇澄
+郭霖
+[2017-03-28 12:50:38][message.php][type]text
+[2017-03-28 12:50:38][message.php][event]
+[2017-03-28 12:50:38][message.php][key]
+[2017-03-28 12:50:38][message.php][text]a
+[2017-03-28 12:50:38][message.php][search_busy]2017-03-28 & A
+[2017-03-28 12:50:38][index.php][UserName]inctu
+[2017-03-28 12:50:38][index.php][Message]a
+[2017-03-28 12:50:38][index.php][Reply]查找到3月28日上A的人员：
+宋源
+王振翮
+王铁良?
+蔡成果
+廉宇澄
+郭霖
+[2017-03-28 12:51:56][message.php][type]text
+[2017-03-28 12:51:56][message.php][event]
+[2017-03-28 12:51:56][message.php][key]
+[2017-03-28 12:51:56][message.php][text]a
+[2017-03-28 12:51:56][message.php][search_busy]2017-03-28 & A
+[2017-03-28 12:51:56][index.php][UserName]inctu
+[2017-03-28 12:51:56][index.php][Message]a
+[2017-03-28 12:51:56][index.php][Reply]查找到3月28日上A的人员：
+宋源
+王振翮
+王铁良?
+蔡成果
+廉宇澄
+郭霖
+[2017-03-28 13:27:39][message.php][type]text
+[2017-03-28 13:27:39][message.php][event]
+[2017-03-28 13:27:39][message.php][key]
+[2017-03-28 13:27:39][message.php][text]休
+[2017-03-28 13:27:39][message.php][search_busy]休-- & 休
+[2017-03-28 13:27:39][index.php][UserName]inctu
+[2017-03-28 13:27:39][index.php][Message]休
+[2017-03-28 13:27:39][index.php][Reply]什么也没有找到~~~
+[2017-03-28 13:29:58][message.php][type]event
+[2017-03-28 13:29:58][message.php][event]click
+[2017-03-28 13:29:58][message.php][key]fulltable
+[2017-03-28 13:29:58][message.php][text]
+[2017-03-28 13:29:58][index.php][UserName]inctu
+[2017-03-28 13:29:58][index.php][Message]
+[2017-03-28 13:29:58][index.php][Reply]
+[2017-03-28 13:30:00][message.php][type]text
+[2017-03-28 13:30:00][message.php][event]
+[2017-03-28 13:30:00][message.php][key]
+[2017-03-28 13:30:00][message.php][text]休
+[2017-03-28 13:30:01][index.php][Message]休
+[2017-03-28 13:30:01][index.php][Reply]查找到3月28日上休的人员：
+苟翔
+郑皓天
+陈华宽
+邹子君
+周杨
+熊谭龙
+张霁炜
+钟华超
+高曼宇
+钱坤
+楚捷骢
+蒲滔
+邹凯
+何飞
+吴量
+李阳
+李富海
+贾子峰
+刘锐
+张添伦
+陈欣然
+吴昊
+陈航
+吴继柯
+薛宏伟
+许湛
+张丽丹
+王子龙
+刘振宇
+周游
+蒋毅
+骆彦铭
+茆以乐
+王绍楠
+胡超
+周行远
+刘丹
+杨涛
+袁福栋
+蒲翔宇
+王涛
+许扬
+蒋垄
+袁柯
+王铁良
+周佳凝
+[2017-03-28 13:36:25][message.php][type]text
+[2017-03-28 13:36:25][message.php][event]
+[2017-03-28 13:36:25][message.php][key]
+[2017-03-28 13:36:25][message.php][text]休
+[2017-03-28 13:36:25][index.php][UserName]inctu
+[2017-03-28 13:36:25][index.php][Message]休
+[2017-03-28 13:36:25][index.php][Reply]查找到3月28日不参加值班的人员：
+苟翔
+郑皓天
+陈华宽
+邹子君
+周杨
+熊谭龙
+张霁炜
+钟华超
+高曼宇
+钱坤
+楚捷骢
+蒲滔
+邹凯
+何飞
+吴量
+李阳
+李富海
+贾子峰
+刘锐
+张添伦
+陈欣然
+吴昊
+陈航
+吴继柯
+薛宏伟
+许湛
+张丽丹
+王子龙
+刘振宇
+周游
+蒋毅
+骆彦铭
+茆以乐
+王绍楠
+胡超
+周行远
+刘丹
+杨涛
+袁福栋
+蒲翔宇
+王涛
+许扬
+蒋垄
+袁柯
+王铁良
+周佳凝
+[2017-03-28 13:37:11][message.php][type]text
+[2017-03-28 13:37:11][message.php][event]
+[2017-03-28 13:37:11][message.php][key]
+[2017-03-28 13:37:11][message.php][text]20170329休
+[2017-03-28 13:37:11][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:37:11][index.php][UserName]inctu
+[2017-03-28 13:37:11][index.php][Message]20170329休
+[2017-03-28 13:37:11][index.php][Reply]
+[2017-03-28 13:37:59][message.php][type]text
+[2017-03-28 13:37:59][message.php][event]
+[2017-03-28 13:37:59][message.php][key]
+[2017-03-28 13:37:59][message.php][text]20170329q
+[2017-03-28 13:37:59][message.php][search_busy]2017-03-28 & 20170329Q
+[2017-03-28 13:37:59][message.php][search_busy]2017-03-29 & 20170329q
+[2017-03-28 13:37:59][index.php][UserName]inctu
+[2017-03-28 13:37:59][index.php][Message]20170329q
+[2017-03-28 13:37:59][index.php][Reply]什么也没有找到~~~
+[2017-03-28 13:38:07][message.php][type]text
+[2017-03-28 13:38:07][message.php][event]
+[2017-03-28 13:38:07][message.php][key]
+[2017-03-28 13:38:07][message.php][text]20170329休
+[2017-03-28 13:38:07][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:38:07][index.php][UserName]inctu
+[2017-03-28 13:38:07][index.php][Message]20170329休
+[2017-03-28 13:38:07][index.php][Reply]
+[2017-03-28 13:38:28][message.php][type]text
+[2017-03-28 13:38:28][message.php][event]
+[2017-03-28 13:38:28][message.php][key]
+[2017-03-28 13:38:28][message.php][text]20170319a
+[2017-03-28 13:38:28][message.php][search_busy]2017-03-28 & 20170319A
+[2017-03-28 13:38:28][message.php][search_busy]2017-03-19 & 20170319a
+[2017-03-28 13:38:28][index.php][UserName]inctu
+[2017-03-28 13:38:28][index.php][Message]20170319a
+[2017-03-28 13:38:28][index.php][Reply]什么也没有找到~~~
+[2017-03-28 13:38:36][message.php][type]text
+[2017-03-28 13:38:36][message.php][event]
+[2017-03-28 13:38:36][message.php][key]
+[2017-03-28 13:38:36][message.php][text]20170329a
+[2017-03-28 13:38:36][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:38:36][message.php][search_busy]2017-03-29 & 20170329a
+[2017-03-28 13:38:37][index.php][UserName]inctu
+[2017-03-28 13:38:37][index.php][Message]20170329a
+[2017-03-28 13:38:37][index.php][Reply]什么也没有找到~~~
+[2017-03-28 13:39:55][message.php][type]text
+[2017-03-28 13:39:55][message.php][event]
+[2017-03-28 13:39:55][message.php][key]
+[2017-03-28 13:39:55][message.php][text]20170329a
+[2017-03-28 13:39:55][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:39:55][message.php][search_busy]2017-03-29 & 20170329a
+[2017-03-28 13:39:55][index.php][UserName]inctu
+[2017-03-28 13:39:55][index.php][Message]20170329a
+[2017-03-28 13:39:56][index.php][Reply]什么也没有找到~~~
+[2017-03-28 13:41:05][message.php][type]text
+[2017-03-28 13:41:05][message.php][event]
+[2017-03-28 13:41:05][message.php][key]
+[2017-03-28 13:41:05][message.php][text]20170329a
+[2017-03-28 13:41:05][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:41:05][index.php][UserName]inctu
+[2017-03-28 13:41:05][index.php][Message]20170329a
+[2017-03-28 13:41:05][index.php][Reply]
+[2017-03-28 13:41:48][message.php][type]text
+[2017-03-28 13:41:48][message.php][event]
+[2017-03-28 13:41:48][message.php][key]
+[2017-03-28 13:41:48][message.php][text]20170329a
+[2017-03-28 13:41:48][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:41:48][index.php][UserName]inctu
+[2017-03-28 13:41:48][index.php][Message]20170329a
+[2017-03-28 13:41:48][index.php][Reply]
+[2017-03-28 13:44:16][message.php][type]text
+[2017-03-28 13:44:17][message.php][event]
+[2017-03-28 13:44:17][message.php][key]
+[2017-03-28 13:44:17][message.php][text]20170329A
+[2017-03-28 13:44:17][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:44:50][message.php][type]text
+[2017-03-28 13:44:50][message.php][event]
+[2017-03-28 13:44:50][message.php][key]
+[2017-03-28 13:44:50][message.php][text]20170329A
+[2017-03-28 13:44:50][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:44:53][message.php][type]text
+[2017-03-28 13:44:53][message.php][event]
+[2017-03-28 13:44:53][message.php][key]
+[2017-03-28 13:44:53][message.php][text]20170329A
+[2017-03-28 13:44:53][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:45:33][message.php][type]text
+[2017-03-28 13:45:33][message.php][event]
+[2017-03-28 13:45:33][message.php][key]
+[2017-03-28 13:45:33][message.php][text]20170329A
+[2017-03-28 13:45:33][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:45:33][message.php][search_anyday]20170329A
+[2017-03-28 13:46:03][message.php][type]text
+[2017-03-28 13:46:03][message.php][event]
+[2017-03-28 13:46:03][message.php][key]
+[2017-03-28 13:46:03][message.php][text]20170329A
+[2017-03-28 13:46:03][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:46:03][message.php][search_anyday]20170329A
+[2017-03-28 13:46:33][message.php][type]text
+[2017-03-28 13:46:33][message.php][event]
+[2017-03-28 13:46:33][message.php][key]
+[2017-03-28 13:46:33][message.php][text]20170329A
+[2017-03-28 13:46:33][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:46:33][message.php][search_anyday]20170329A
+[2017-03-28 13:46:33][message.php][search_busy]2017-03-29 & 20170329A
+[2017-03-28 13:46:51][message.php][type]text
+[2017-03-28 13:46:51][message.php][event]
+[2017-03-28 13:46:51][message.php][key]
+[2017-03-28 13:46:51][message.php][text]20170329A
+[2017-03-28 13:46:51][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:46:51][message.php][search_anyday]20170329A
+[2017-03-28 13:46:51][message.php][search_busy]2017-03-29 & A
+[2017-03-28 13:47:45][message.php][type]text
+[2017-03-28 13:47:45][message.php][event]
+[2017-03-28 13:47:45][message.php][key]
+[2017-03-28 13:47:45][message.php][text]20170329A
+[2017-03-28 13:47:45][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:47:45][message.php][search_anyday]20170329A
+[2017-03-28 13:47:45][message.php][search_busy]2017-03-29 & A
+[2017-03-28 13:48:14][message.php][type]text
+[2017-03-28 13:48:14][message.php][event]
+[2017-03-28 13:48:14][message.php][key]
+[2017-03-28 13:48:14][message.php][text]20170329A
+[2017-03-28 13:48:14][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:48:14][message.php][search_anyday]20170329A
+[2017-03-28 13:48:14][message.php][search_busy]2017-03-29 & A
+[2017-03-28 13:49:42][message.php][type]text
+[2017-03-28 13:49:42][message.php][event]
+[2017-03-28 13:49:42][message.php][key]
+[2017-03-28 13:49:42][message.php][text]20170329休
+[2017-03-28 13:49:42][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:49:42][message.php][search_anyday]20170329休
+[2017-03-28 13:50:04][message.php][type]text
+[2017-03-28 13:50:04][message.php][event]
+[2017-03-28 13:50:04][message.php][key]
+[2017-03-28 13:50:04][message.php][text]20170329休
+[2017-03-28 13:50:04][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:50:04][message.php][search_anyday]20170329休
+[2017-03-28 13:50:37][message.php][type]text
+[2017-03-28 13:50:37][message.php][event]
+[2017-03-28 13:50:37][message.php][key]
+[2017-03-28 13:50:37][message.php][text]20170329a
+[2017-03-28 13:50:37][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 13:50:37][message.php][search_anyday]20170329a
+[2017-03-28 13:50:37][message.php][search_busy]2017-03-29 & A
+[2017-03-28 13:50:37][index.php][UserName]inctu
+[2017-03-28 13:50:37][index.php][Message]20170329a
+[2017-03-28 13:50:37][index.php][Reply]查找到3月29日上A的人员：
+姚昕
+殷茂鑫
+林桦
+田原
+刘超
+林彦州
+[2017-03-28 13:50:49][message.php][type]text
+[2017-03-28 13:50:49][message.php][event]
+[2017-03-28 13:50:49][message.php][key]
+[2017-03-28 13:50:49][message.php][text]20170329休
+[2017-03-28 13:50:49][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:50:49][message.php][search_anyday]20170329休
+[2017-03-28 13:50:49][index.php][UserName]inctu
+[2017-03-28 13:50:49][index.php][Message]20170329休
+[2017-03-28 13:50:49][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊
+李睿杰
+肖芳静
+黄中
+费涛
+苟翔
+胡鹏
+郑皓天
+邝从举
+郭爱华
+吕腾
+宋源
+陈华宽
+邹子君
+周杨
+熊谭龙
+张霁炜
+赖鹏
+杨乐
+周海伦
+徐文
+钟华超
+高曼宇
+钱坤
+楚捷骢
+蒲滔
+邹凯
+何飞
+王振翮
+蔡成果
+廉宇澄
+郭霖
+贺茂硕
+李竞博
+靳荆
+王怡然
+李卓然
+刘锐
+吴继柯
+张丽丹
+蒋毅
+刘丹
+袁柯
+王铁良
+周佳凝
+[2017-03-28 13:56:36][message.php][type]text
+[2017-03-28 13:56:36][message.php][event]
+[2017-03-28 13:56:36][message.php][key]
+[2017-03-28 13:56:36][message.php][text]20170329休
+[2017-03-28 13:56:36][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:56:36][message.php][search_anyday]20170329休
+[2017-03-28 13:56:36][index.php][UserName]inctu
+[2017-03-28 13:56:36][index.php][Message]20170329休
+[2017-03-28 13:56:36][index.php][Reply]查找到3月29日不上班的人员：
+
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+[2017-03-28 13:56:54][message.php][type]text
+[2017-03-28 13:56:54][message.php][event]
+[2017-03-28 13:56:54][message.php][key]
+[2017-03-28 13:56:54][message.php][text]20170329休
+[2017-03-28 13:56:54][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:56:54][message.php][search_anyday]20170329休
+[2017-03-28 13:56:54][index.php][UserName]inctu
+[2017-03-28 13:56:54][index.php][Message]20170329休
+[2017-03-28 13:56:54][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊
+李睿杰,肖芳静,黄中
+费涛,苟翔,胡鹏
+郑皓天,邝从举,郭爱华
+吕腾,宋源,陈华宽
+邹子君,周杨,熊谭龙
+张霁炜,赖鹏,杨乐
+周海伦,徐文,钟华超
+高曼宇,钱坤,楚捷骢
+蒲滔,邹凯,何飞
+王振翮,蔡成果,廉宇澄
+郭霖,贺茂硕,李竞博
+靳荆,王怡然,李卓然
+刘锐,吴继柯,张丽丹
+蒋毅,刘丹,袁柯
+王铁良,周佳凝
+[2017-03-28 13:57:28][message.php][type]text
+[2017-03-28 13:57:28][message.php][event]
+[2017-03-28 13:57:28][message.php][key]
+[2017-03-28 13:57:28][message.php][text]20170329休
+[2017-03-28 13:57:28][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:57:28][message.php][search_anyday]20170329休
+[2017-03-28 13:57:28][index.php][UserName]inctu
+[2017-03-28 13:57:28][index.php][Message]20170329休
+[2017-03-28 13:57:28][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊 李睿杰 肖芳静
+黄中 费涛 苟翔
+胡鹏 郑皓天 邝从举
+郭爱华 吕腾 宋源
+陈华宽 邹子君 周杨
+熊谭龙 张霁炜 赖鹏
+杨乐 周海伦 徐文
+钟华超 高曼宇 钱坤
+楚捷骢 蒲滔 邹凯
+何飞 王振翮 蔡成果
+廉宇澄 郭霖 贺茂硕
+李竞博 靳荆 王怡然
+李卓然 刘锐 吴继柯
+张丽丹 蒋毅 刘丹
+袁柯 王铁良 周佳凝
+[2017-03-28 13:57:47][message.php][type]text
+[2017-03-28 13:57:47][message.php][event]
+[2017-03-28 13:57:47][message.php][key]
+[2017-03-28 13:57:47][message.php][text]20170329休
+[2017-03-28 13:57:47][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:57:47][message.php][search_anyday]20170329休
+[2017-03-28 13:57:47][index.php][UserName]inctu
+[2017-03-28 13:57:47][index.php][Message]20170329休
+[2017-03-28 13:57:47][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊	李睿杰	肖芳静
+黄中	费涛	苟翔
+胡鹏	郑皓天	邝从举
+郭爱华	吕腾	宋源
+陈华宽	邹子君	周杨
+熊谭龙	张霁炜	赖鹏
+杨乐	周海伦	徐文
+钟华超	高曼宇	钱坤
+楚捷骢	蒲滔	邹凯
+何飞	王振翮	蔡成果
+廉宇澄	郭霖	贺茂硕
+李竞博	靳荆	王怡然
+李卓然	刘锐	吴继柯
+张丽丹	蒋毅	刘丹
+袁柯	王铁良	周佳凝
+[2017-03-28 13:58:00][message.php][type]text
+[2017-03-28 13:58:00][message.php][event]
+[2017-03-28 13:58:00][message.php][key]
+[2017-03-28 13:58:00][message.php][text]20170329休
+[2017-03-28 13:58:00][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 13:58:00][message.php][search_anyday]20170329休
+[2017-03-28 13:58:00][index.php][UserName]inctu
+[2017-03-28 13:58:00][index.php][Message]20170329休
+[2017-03-28 13:58:00][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝
+[2017-03-28 14:01:39][message.php][type]text
+[2017-03-28 14:01:39][message.php][event]
+[2017-03-28 14:01:39][message.php][key]
+[2017-03-28 14:01:39][message.php][text]20170329休
+[2017-03-28 14:01:39][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 14:01:39][message.php][search_anyday]20170329休
+[2017-03-28 14:01:39][index.php][UserName]inctu
+[2017-03-28 14:01:39][index.php][Message]20170329休
+[2017-03-28 14:01:39][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝以上结果仅供参考，如果与OA或排版群发布结果有出入，请以OA或排版群发布为准；
+以上数据由排班表生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:01:55][message.php][type]text
+[2017-03-28 14:01:55][message.php][event]
+[2017-03-28 14:01:55][message.php][key]
+[2017-03-28 14:01:55][message.php][text]20170329休
+[2017-03-28 14:01:55][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 14:01:55][message.php][search_anyday]20170329休
+[2017-03-28 14:01:55][index.php][UserName]inctu
+[2017-03-28 14:01:55][index.php][Message]20170329休
+[2017-03-28 14:01:55][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝
+
+以上结果仅供参考，如果与OA或排版群发布结果有出入，请以OA或排版群发布为准；
+以上数据由排班表生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:02:22][message.php][type]text
+[2017-03-28 14:02:22][message.php][event]
+[2017-03-28 14:02:22][message.php][key]
+[2017-03-28 14:02:22][message.php][text]20170329休
+[2017-03-28 14:02:22][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 14:02:22][message.php][search_anyday]20170329休
+[2017-03-28 14:02:22][index.php][UserName]inctu
+[2017-03-28 14:02:22][index.php][Message]20170329休
+[2017-03-28 14:02:22][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝
+
+*检索结果仅供参考，如果与OA或排版群发布结果有出入，请以OA或排版群发布为准；
+*数据由排班表生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:04:04][message.php][type]text
+[2017-03-28 14:04:04][message.php][event]
+[2017-03-28 14:04:04][message.php][key]
+[2017-03-28 14:04:04][message.php][text]20170329休
+[2017-03-28 14:04:04][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 14:04:04][message.php][search_anyday]20170329休
+[2017-03-28 14:04:04][index.php][UserName]inctu
+[2017-03-28 14:04:04][index.php][Message]20170329休
+[2017-03-28 14:04:04][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝
+
+*检索结果仅供参考，如果与OA或排版群发布结果有出入，请以OA或排版群发布为准；
+
+*数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:04:26][message.php][type]text
+[2017-03-28 14:04:26][message.php][event]
+[2017-03-28 14:04:26][message.php][key]
+[2017-03-28 14:04:26][message.php][text]20170329a
+[2017-03-28 14:04:26][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 14:04:26][message.php][search_anyday]20170329a
+[2017-03-28 14:04:26][message.php][search_busy]2017-03-29 & A
+[2017-03-28 14:04:26][index.php][UserName]inctu
+[2017-03-28 14:04:26][index.php][Message]20170329a
+[2017-03-28 14:04:26][index.php][Reply]查找到3月29日上A的人员：
+姚昕
+殷茂鑫
+林桦
+田原
+刘超
+林彦州
+
+*检索结果仅供参考，如果与OA或排版群发布结果有出入，请以OA或排版群发布为准；
+
+*数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:04:51][message.php][type]text
+[2017-03-28 14:04:51][message.php][event]
+[2017-03-28 14:04:51][message.php][key]
+[2017-03-28 14:04:51][message.php][text]20170329a
+[2017-03-28 14:04:51][message.php][search_busy]2017-03-28 & 20170329A
+[2017-03-28 14:04:51][message.php][search_anyday]20170329a
+[2017-03-28 14:04:51][message.php][search_busy]2017-03-29 & A
+[2017-03-28 14:04:51][index.php][UserName]inctu
+[2017-03-28 14:04:51][index.php][Message]20170329a
+[2017-03-28 14:04:51][index.php][Reply]查找到3月29日上A的人员：
+姚昕
+殷茂鑫
+林桦
+田原
+刘超
+林彦州
+
+*检索结果仅供参考，请以OA或排版群发布为准；
+
+*数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:05:21][message.php][type]text
+[2017-03-28 14:05:21][message.php][event]
+[2017-03-28 14:05:21][message.php][key]
+[2017-03-28 14:05:21][message.php][text]20170329休
+[2017-03-28 14:05:21][message.php][search_busy]2017-03-28 & 20170329休
+[2017-03-28 14:05:21][message.php][search_anyday]20170329休
+[2017-03-28 14:05:21][index.php][UserName]inctu
+[2017-03-28 14:05:21][index.php][Message]20170329休
+[2017-03-28 14:05:21][index.php][Reply]查找到3月29日不上班的人员：
+周阳俊  李睿杰  肖芳静
+黄中  费涛  苟翔
+胡鹏  郑皓天  邝从举
+郭爱华  吕腾  宋源
+陈华宽  邹子君  周杨
+熊谭龙  张霁炜  赖鹏
+杨乐  周海伦  徐文
+钟华超  高曼宇  钱坤
+楚捷骢  蒲滔  邹凯
+何飞  王振翮  蔡成果
+廉宇澄  郭霖  贺茂硕
+李竞博  靳荆  王怡然
+李卓然  刘锐  吴继柯
+张丽丹  蒋毅  刘丹
+袁柯  王铁良  周佳凝
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:05:27][message.php][type]text
+[2017-03-28 14:05:27][message.php][event]
+[2017-03-28 14:05:27][message.php][key]
+[2017-03-28 14:05:27][message.php][text]20170329c
+[2017-03-28 14:05:27][message.php][search_busy]2017-03-28 & 20170329C
+[2017-03-28 14:05:27][message.php][search_anyday]20170329c
+[2017-03-28 14:05:27][message.php][search_busy]2017-03-29 & C
+[2017-03-28 14:05:27][index.php][UserName]inctu
+[2017-03-28 14:05:27][index.php][Message]20170329c
+[2017-03-28 14:05:27][index.php][Reply]查找到3月29日上C的人员：
+骆彦铭
+茆以乐
+王绍楠
+胡超
+周行远
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:14:34][index.php][UserName]inctu
+[2017-03-28 14:14:34][index.php][Message]
+[2017-03-28 14:14:34][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段（A～G）或“休”（例如20160101A），可查询2016年1月1日执A时段的人员。
+[2017-03-28 14:17:03][index.php][UserName]inctu
+[2017-03-28 14:17:03][index.php][Message]
+[2017-03-28 14:17:03][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员（例如，输入“20160101A”，可查询2016年1月1日执A时段的人员；输入“20170301”可查询当日不上班的人员）。
+[2017-03-28 14:17:21][index.php][UserName]inctu
+[2017-03-28 14:17:21][index.php][Message]
+[2017-03-28 14:17:21][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员（例如：输入“20160101A”，可查询2016年1月1日执A时段的人员；输入“20170301”可查询当日不上班的人员）。
+[2017-03-28 14:17:51][message.php][search_busy]2017-03-28 & A
+[2017-03-28 14:17:51][index.php][UserName]inctu
+[2017-03-28 14:17:51][index.php][Message]a
+[2017-03-28 14:17:51][index.php][Reply]查找到3月28日上A的人员：
+宋源
+王振翮
+王铁良?
+蔡成果
+廉宇澄
+郭霖
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 14:24:02][index.php][UserName]inctu
+[2017-03-28 14:24:02][index.php][Message]
+[2017-03-28 14:24:02][index.php][Reply]
+[2017-03-28 14:26:56][index.php][UserName]inctu
+[2017-03-28 14:26:56][index.php][Message]
+[2017-03-28 14:26:56][index.php][Reply]
+[2017-03-28 14:27:25][index.php][UserName]inctu
+[2017-03-28 14:27:25][index.php][Message]
+[2017-03-28 14:27:25][index.php][Reply]没有找到有效期内的排班表~~
+[2017-03-28 14:27:27][index.php][UserName]inctu
+[2017-03-28 14:27:27][index.php][Message]
+[2017-03-28 14:27:27][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员（例如：输入“20160101A”，可查询2016年1月1日执A时段的人员；输入“20170301”可查询当日不上班的人员）。
+[2017-03-28 14:31:46][index.php][UserName]inctu
+[2017-03-28 14:31:46][index.php][Message]
+[2017-03-28 14:31:46][index.php][Reply]生效中的排班表：
+
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+
+[2017-03-28 14:32:20][index.php][UserName]inctu
+[2017-03-28 14:32:20][index.php][Message]
+[2017-03-28 14:32:20][index.php][Reply]生效中的排班表：
+
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 14:32:32][index.php][UserName]inctu
+[2017-03-28 14:32:32][index.php][Message]
+[2017-03-28 14:32:32][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 15:04:34][index.php][UserName]straydoggie
+[2017-03-28 15:04:34][index.php][Message]
+[2017-03-28 15:04:34][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 21:40:04][message.php][search_busy]2017-03-28 & 王涛
+[2017-03-28 21:40:04][message.php][search_busy]王�-��- & 
+[2017-03-28 21:40:04][index.php][UserName]straydoggie
+[2017-03-28 21:40:04][index.php][Message]王涛
+[2017-03-28 21:40:04][index.php][Reply]查找到王涛近期的排班：
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备1
+4月13日 备2
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 21:40:50][message.php][search_busy]2017-03-28 & 王涛
+[2017-03-28 21:40:50][message.php][search_busy]王�-��- & 
+[2017-03-28 21:40:50][index.php][UserName]straydoggie
+[2017-03-28 21:40:50][index.php][Message]王涛
+[2017-03-28 21:40:50][index.php][Reply]查找到王涛近期的排班：
+
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备1
+4月13日 备2
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 21:42:27][index.php][UserName]straydoggie
+[2017-03-28 21:42:27][index.php][Message]
+[2017-03-28 21:42:27][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 21:42:40][index.php][UserName]straydoggie
+[2017-03-28 21:42:40][index.php][Message]休
+[2017-03-28 21:42:40][index.php][Reply]查找到3月28日不上班的人员：
+苟翔  郑皓天  陈华宽
+邹子君  周杨  熊谭龙
+张霁炜  钟华超  高曼宇
+钱坤  楚捷骢  蒲滔
+邹凯  何飞  吴量
+李阳  李富海  贾子峰
+刘锐  张添伦  陈欣然
+吴昊  陈航  吴继柯
+薛宏伟  许湛  张丽丹
+王子龙  刘振宇  周游
+蒋毅  骆彦铭  茆以乐
+王绍楠  胡超  周行远
+刘丹  杨涛  袁福栋
+蒲翔宇  王涛  许扬
+蒋垄  袁柯  王铁良
+周佳凝  
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:43:22][index.php][UserName]straydoggie
+[2017-03-28 21:43:22][index.php][Message]休
+[2017-03-28 21:43:22][index.php][Reply]查找到3月28日不上班的人员：
+
+苟翔  郑皓天  陈华宽
+邹子君  周杨  熊谭龙
+张霁炜  钟华超  高曼宇
+钱坤  楚捷骢  蒲滔
+邹凯  何飞  吴量
+李阳  李富海  贾子峰
+刘锐  张添伦  陈欣然
+吴昊  陈航  吴继柯
+薛宏伟  许湛  张丽丹
+王子龙  刘振宇  周游
+蒋毅  骆彦铭  茆以乐
+王绍楠  胡超  周行远
+刘丹  杨涛  袁福栋
+蒲翔宇  王涛  许扬
+蒋垄  袁柯  王铁良
+周佳凝  
+
+检索结果仅供参考，请以OA或排版群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:44:26][message.php][search_busy]2017-03-28 & 王涛
+[2017-03-28 21:44:26][message.php][search_busy]王�-��- & 
+[2017-03-28 21:44:26][index.php][UserName]straydoggie
+[2017-03-28 21:44:26][index.php][Message]王涛
+[2017-03-28 21:44:26][index.php][Reply]查找到王涛近期的排班：
+
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备1
+4月13日 备2
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:47:18][index.php][UserName]straydoggie
+[2017-03-28 21:47:18][index.php][Message]
+[2017-03-28 21:47:18][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 21:47:20][message.php][search_busy]2017-03-28 & 刘畅
+[2017-03-28 21:47:20][message.php][search_busy]刘�-��- & 
+[2017-03-28 21:47:20][index.php][UserName]liuchang
+[2017-03-28 21:47:20][index.php][Message]刘畅
+[2017-03-28 21:47:20][index.php][Reply]查找到刘畅近期的排班：
+
+3月28日 E2
+3月29日 B2
+4月2日 G3
+4月3日 G3
+4月5日 D2
+4月6日 A2
+4月9日 备1
+4月9日 备2
+4月10日 F2
+4月11日 F2
+4月14日 D2
+4月15日 A2
+4月18日 E2
+4月19日 B2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:47:29][index.php][UserName]xuzhan
+[2017-03-28 21:47:29][index.php][Message]
+[2017-03-28 21:47:29][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 21:47:38][message.php][search_busy]2017-03-28 & 张丽丹
+[2017-03-28 21:47:38][message.php][search_busy]张�-��-� & �
+[2017-03-28 21:47:38][index.php][UserName]zhanglidan
+[2017-03-28 21:47:38][index.php][Message]张丽丹
+[2017-03-28 21:47:38][index.php][Reply]查找到张丽丹近期的排班：
+
+4月4日 D1
+4月5日 A1
+4月8日 C1
+4月9日 C1
+4月11日 E1
+4月12日 B1
+4月16日 G1
+4月17日 G1
+4月19日 D1
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:47:40][message.php][search_busy]2017-03-28 & 胡超
+[2017-03-28 21:47:40][message.php][search_busy]胡�-��- & 
+[2017-03-28 21:47:40][index.php][UserName]huchao
+[2017-03-28 21:47:40][index.php][Message]胡超
+[2017-03-28 21:47:40][index.php][Reply]查找到胡超近期的排班：
+
+3月29日 C3
+3月30日 C3
+4月1日 E3
+4月2日 B3
+4月6日 G3
+4月7日 G3
+4月9日 D3
+4月10日 A3
+4月14日 D3
+4月15日 A3
+4月18日 D3
+4月19日 A3
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:47:45][message.php][search_busy]2017-03-28 & 刘锐
+[2017-03-28 21:47:45][message.php][search_busy]刘�-��- & 
+[2017-03-28 21:47:45][index.php][UserName]liurui
+[2017-03-28 21:47:45][index.php][Message]刘锐
+[2017-03-28 21:47:45][index.php][Reply]查找到刘锐近期的排班：
+
+4月1日 DS
+4月2日 AS
+4月6日 FS
+4月7日 FS
+4月10日 DS
+4月11日 AS
+4月14日 ES
+4月15日 BS
+4月18日 CM
+4月19日 CM
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:47:45][index.php][UserName]luohaoyu
+[2017-03-28 21:47:45][index.php][Message]
+[2017-03-28 21:47:45][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 21:48:04][message.php][search_busy]2017-03-28 & 张霁伟
+[2017-03-28 21:48:04][message.php][search_busy]张�-��-� & �
+[2017-03-28 21:48:04][index.php][UserName]liurui
+[2017-03-28 21:48:04][index.php][Message]张霁伟
+[2017-03-28 21:48:04][index.php][Reply]什么也没有找到~~~
+[2017-03-28 21:48:22][message.php][search_busy]2017-03-28 & 张霁炜
+[2017-03-28 21:48:22][message.php][search_busy]张�-��-� & �
+[2017-03-28 21:48:22][index.php][UserName]liurui
+[2017-03-28 21:48:22][index.php][Message]张霁炜
+[2017-03-28 21:48:22][index.php][Reply]查找到张霁炜近期的排班：
+
+3月31日 DS
+4月1日 AS
+4月4日 CM
+4月5日 CM
+4月7日 ES
+4月8日 BS
+4月12日 DM
+4月13日 AM
+4月15日 DS
+4月16日 AS
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:48:54][message.php][search_busy]2017-03-28 & 彭涛
+[2017-03-28 21:48:54][message.php][search_busy]彭�-��- & 
+[2017-03-28 21:48:54][index.php][UserName]pengtao
+[2017-03-28 21:48:54][index.php][Message]彭涛
+[2017-03-28 21:48:54][index.php][Reply]查找到彭涛近期的排班：
+
+3月28日 ES
+3月29日 BS
+4月2日 G1
+4月3日 G1
+4月5日 DS
+4月6日 AS
+4月10日 FS
+4月11日 FS
+4月14日 DS
+4月15日 AS
+4月18日 ES
+4月19日 BS
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:49:38][index.php][UserName]wangzilong
+[2017-03-28 21:49:38][index.php][Message]
+[2017-03-28 21:49:38][index.php][Reply]生效中的排班表：
+<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>
+[2017-03-28 21:49:45][index.php][UserName]zhanglidan
+[2017-03-28 21:49:45][index.php][Message]
+[2017-03-28 21:49:45][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 21:49:47][index.php][UserName]wangzilong
+[2017-03-28 21:49:47][index.php][Message]
+[2017-03-28 21:49:47][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 21:50:08][message.php][search_busy]2017-03-28 & 王子龙
+[2017-03-28 21:50:08][message.php][search_busy]王�-��-� & �
+[2017-03-28 21:50:08][index.php][UserName]wangzilong
+[2017-03-28 21:50:08][index.php][Message]王子龙
+[2017-03-28 21:50:08][index.php][Reply]查找到王子龙近期的排班：
+
+3月29日 E2
+3月30日 B2
+4月2日 C2
+4月3日 C2
+4月5日 E2
+4月6日 B2
+4月10日 G2
+4月11日 G2
+4月13日 D2
+4月14日 A2
+4月16日 备1
+4月16日 备2
+4月18日 F2
+4月19日 F2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:50:08][message.php][search_busy]2017-03-28 & 杨涛
+[2017-03-28 21:50:08][message.php][search_busy]杨�-��- & 
+[2017-03-28 21:50:08][index.php][UserName]yangtao
+[2017-03-28 21:50:08][index.php][Message]杨涛
+[2017-03-28 21:50:08][index.php][Reply]查找到杨涛近期的排班：
+
+3月29日 DS
+3月30日 AS
+4月2日 ES
+4月3日 BS
+4月6日 CM
+4月7日 CM
+4月9日 ES
+4月10日 BS
+4月14日 G1
+4月15日 G1
+4月17日 DS
+4月18日 AS
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:51:16][message.php][search_busy]2017-03-28 & 20170329
+[2017-03-28 21:51:17][message.php][search_busy]2017-03-29 & 
+[2017-03-28 21:51:17][index.php][UserName]wangzilong
+[2017-03-28 21:51:17][index.php][Message]20170329
+[2017-03-28 21:51:17][index.php][Reply]查找到3月29日上的人员：
+
+姚昕
+殷茂鑫
+林桦
+田原
+刘超
+林彦州
+彭涛
+李剑
+刘畅
+刘子可
+赵英男
+骆彦铭
+茆以乐
+王绍楠
+胡超
+周行远
+杨涛
+袁福栋
+蒲翔宇
+王涛
+许扬
+蒋垄
+薛宏伟
+许湛
+王子龙
+刘振宇
+周游
+吴量
+李智楠
+李阳
+李富海
+贾子峰
+张添伦
+陈欣然
+吴昊
+陈航
+黄建明
+黄建明
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:52:07][index.php][UserName]wangzilong
+[2017-03-28 21:52:07][index.php][Message]休
+[2017-03-28 21:52:07][index.php][Reply]查找到3月28日不上班的人员：
+
+苟翔  郑皓天  陈华宽
+邹子君  周杨  熊谭龙
+张霁炜  钟华超  高曼宇
+钱坤  楚捷骢  蒲滔
+邹凯  何飞  吴量
+李阳  李富海  贾子峰
+刘锐  张添伦  陈欣然
+吴昊  陈航  吴继柯
+薛宏伟  许湛  张丽丹
+王子龙  刘振宇  周游
+蒋毅  骆彦铭  茆以乐
+王绍楠  胡超  周行远
+刘丹  杨涛  袁福栋
+蒲翔宇  王涛  许扬
+蒋垄  袁柯  王铁良
+周佳凝  
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:52:18][message.php][search_busy]2017-03-28 & 20170329
+[2017-03-28 21:52:18][message.php][search_busy]2017-03-29 & 
+[2017-03-28 21:52:18][index.php][UserName]straydoggie
+[2017-03-28 21:52:18][index.php][Message]20170329
+[2017-03-28 21:52:18][index.php][Reply]查找到3月29日上的人员：
+
+姚昕
+殷茂鑫
+林桦
+田原
+刘超
+林彦州
+彭涛
+李剑
+刘畅
+刘子可
+赵英男
+骆彦铭
+茆以乐
+王绍楠
+胡超
+周行远
+杨涛
+袁福栋
+蒲翔宇
+王涛
+许扬
+蒋垄
+薛宏伟
+许湛
+王子龙
+刘振宇
+周游
+吴量
+李智楠
+李阳
+李富海
+贾子峰
+张添伦
+陈欣然
+吴昊
+陈航
+黄建明
+黄建明
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:52:36][message.php][search_busy]2017-03-28 & 赵英男
+[2017-03-28 21:52:36][message.php][search_busy]赵�-��-� & �
+[2017-03-28 21:52:36][index.php][UserName]zhaoyingnan
+[2017-03-28 21:52:36][index.php][Message]赵英男
+[2017-03-28 21:52:36][index.php][Reply]查找到赵英男近期的排班：
+
+3月28日 E4
+3月29日 B4
+4月2日 G4
+4月3日 G4
+4月5日 D3
+4月6日 A3
+4月10日 F4
+4月11日 F4
+4月14日 D4
+4月15日 A4
+4月18日 E4
+4月19日 B4
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:53:11][index.php][UserName]zhaoyingnan
+[2017-03-28 21:53:11][index.php][Message]
+[2017-03-28 21:53:11][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 21:54:40][message.php][search_busy]2017-03-28 & 陈虹宇
+[2017-03-28 21:54:40][message.php][search_busy]陈�-��-� & �
+[2017-03-28 21:54:40][index.php][UserName]chenhongyu
+[2017-03-28 21:54:40][index.php][Message]陈虹宇
+[2017-03-28 21:54:40][index.php][Reply]什么也没有找到~~~
+[2017-03-28 21:54:43][message.php][search_busy]2017-03-28 & 20170329
+[2017-03-28 21:54:43][index.php][UserName]straydoggie
+[2017-03-28 21:54:43][index.php][Message]20170329
+[2017-03-28 21:54:43][index.php][Reply]什么也没有找到~~~
+[2017-03-28 21:54:43][index.php][UserName]chenhongyu
+[2017-03-28 21:54:43][index.php][Message]
+[2017-03-28 21:54:43][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 21:54:56][message.php][search_busy]2017-03-28 & 袁福栋
+[2017-03-28 21:54:56][message.php][search_busy]袁�-��-� & �
+[2017-03-28 21:54:56][index.php][UserName]yuanfudong
+[2017-03-28 21:54:56][index.php][Message]袁福栋
+[2017-03-28 21:54:56][index.php][Reply]查找到袁福栋近期的排班：
+
+3月29日 DM
+3月30日 AM
+4月1日 DM
+4月2日 AM
+4月6日 C1
+4月7日 C1
+4月9日 E1
+4月10日 B1
+4月14日 F3
+4月15日 F3
+4月17日 DM
+4月18日 AM
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:57:01][message.php][search_busy]2017-03-28 & 20170329
+[2017-03-28 21:57:01][index.php][UserName]straydoggie
+[2017-03-28 21:57:01][index.php][Message]20170329
+[2017-03-28 21:57:01][index.php][Reply]什么也没有找到~~~
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 21:59:02][message.php][search_busy]2017-03-28 & $NOTE1
+[2017-03-28 21:59:02][index.php][UserName]straydoggie
+[2017-03-28 21:59:02][index.php][Message]$note1
+[2017-03-28 21:59:02][index.php][Reply]什么也没有找到~~~
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果。
+[2017-03-28 22:18:21][index.php][UserName]wangshaonan
+[2017-03-28 22:18:21][index.php][Message]王绍楠
+[2017-03-28 22:18:21][index.php][Reply]查找到王绍楠近期的排班：
+
+3月29日 C2
+3月30日 C2
+4月1日 E2
+4月2日 B2
+4月6日 F2
+4月7日 F2
+4月9日 D2
+4月10日 A2
+4月12日 备2
+4月12日 备1
+4月14日 F1
+4月15日 F1
+4月18日 D1
+4月19日 A1
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 22:34:46][index.php][UserName]guoaihua
+[2017-03-28 22:34:46][index.php][Message]
+[2017-03-28 22:34:46][index.php][Reply]【使用说明】
+
+1、输入姓名，可查询今日及以后的值班安排；
+
+2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；
+
+3、输入八位日期+时段，可查询指定日期上班的人员；
+
+例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。
+[2017-03-28 22:34:52][index.php][UserName]guoaihua
+[2017-03-28 22:34:52][index.php][Message]郭爱华
+[2017-03-28 22:34:53][index.php][Reply]查找到郭爱华近期的排班：
+
+3月28日 F3
+3月31日 E3
+4月1日 B3
+4月4日 D3
+4月5日 A3
+4月8日 C3
+4月9日 C3
+4月11日 E3
+4月12日 B3
+4月16日 G3
+4月17日 G3
+4月19日 D3
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 22:34:56][index.php][UserName]xuzhan
+[2017-03-28 22:34:56][index.php][Message]许湛
+[2017-03-28 22:34:56][index.php][Reply]查找到许湛近期的排班：
+
+3月29日 E1
+3月30日 B1
+4月2日 C1
+4月3日 C1
+4月5日 E1
+4月6日 B1
+4月8日 备2
+4月8日 备1
+4月10日 F1
+4月11日 F1
+4月13日 DM
+4月14日 AM
+4月18日 F1
+4月19日 F1
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:11:34][index.php][UserName]zhanglidan
+[2017-03-28 23:11:34][index.php][Message]A
+[2017-03-28 23:11:34][index.php][Reply]查找到3月28日上A的人员：
+
+宋源
+王振翮
+王铁良
+蔡成果
+廉宇澄
+郭霖
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:12:04][index.php][UserName]yinmaoxin
+[2017-03-28 23:12:04][index.php][Message]殷茂鑫
+[2017-03-28 23:12:04][index.php][Reply]查找到殷茂鑫近期的排班：
+
+3月28日 DM
+3月29日 AM
+4月2日 DM
+4月3日 AM
+4月6日 DM
+4月7日 AM
+4月10日 C1
+4月11日 C1
+4月13日 E1
+4月14日 B1
+4月18日 G2
+4月19日 G2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:42:05][index.php][UserName]liuchao
+[2017-03-28 23:42:05][index.php][Message]刘超
+[2017-03-28 23:42:05][index.php][Reply]查找到刘超近期的排班：
+
+3月28日 D3
+3月29日 A3
+4月1日 备2
+4月1日 备1
+4月2日 F3
+4月3日 F3
+4月10日 E3
+4月11日 B3
+4月14日 C3
+4月15日 C3
+4月17日 E3
+4月18日 B3
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:53:56][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：
+
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备2
+4月13日 备1
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:56:58][index.php][pbcx]User:	straydoggie
+Receive:	王涛
+Reply:	查找到王涛近期的排班：
+
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备2
+4月13日 备1
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-28 23:57:38][index.php][pbcx]User:	straydoggie
+Receive:	杨涛
+Reply:	查找到杨涛近期的排班：
+
+3月29日 DS
+3月30日 AS
+4月2日 ES
+4月3日 BS
+4月6日 CM
+4月7日 CM
+4月9日 ES
+4月10日 BS
+4月14日 G1
+4月15日 G1
+4月17日 DS
+4月18日 AS
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:01:40][index.php][pbcx]User: straydoggie
+Receive: 王涛
+[2017-03-29 00:01:40][index.php][pbcx]查找到王涛近期的排班：
+
+3月29日 D2
+3月30日 A2
+4月2日 E2
+4月3日 B2
+4月6日 C3
+4月7日 C3
+4月9日 E2
+4月10日 B2
+4月13日 备2
+4月13日 备1
+4月14日 F4
+4月15日 F4
+4月17日 D2
+4月18日 A2
+
+检索结果仅供参考，请以OA或排班群发布为准；
+
+数据由排班表自动生成，排班表中的错别字会影响到检索结果；
+
+现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:03:34][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：; ; 3月29日 D2; 3月30日 A2; 4月2日 E2; 4月3日 B2; 4月6日 C3; 4月7日 C3; 4月9日 E2; 4月10日 B2; 4月13日 备2; 4月13日 备1; 4月14日 F4; 4月15日 F4; 4月17日 D2; 4月18日 A2; ; 检索结果仅供参考，请以OA或排班群发布为准；; ; 数据由排班表自动生成，排班表中的错别字会影响到检索结果；; ; 现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:04:03][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：  3月29日 D2 3月30日 A2 4月2日 E2 4月3日 B2 4月6日 C3 4月7日 C3 4月9日 E2 4月10日 B2 4月13日 备2 4月13日 备1 4月14日 F4 4月15日 F4 4月17日 D2 4月18日 A2  检索结果仅供参考，请以OA或排班群发布为准；  数据由排班表自动生成，排班表中的错别字会影响到检索结果；  现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:05:38][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：; 3月29日 D2; 3月30日 A2; 4月2日 E2; 4月3日 B2; 4月6日 C3; 4月7日 C3; 4月9日 E2; 4月10日 B2; 4月13日 备2; 4月13日 备1; 4月14日 F4; 4月15日 F4; 4月17日 D2; 4月18日 A2; 检索结果仅供参考，请以OA或排班群发布为准；; 数据由排班表自动生成，排班表中的错别字会影响到检索结果；; 现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:06:43][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：<br>3月29日 D2<br>3月30日 A2<br>4月2日 E2<br>4月3日 B2<br>4月6日 C3<br>4月7日 C3<br>4月9日 E2<br>4月10日 B2<br>4月13日 备2<br>4月13日 备1<br>4月14日 F4<br>4月15日 F4<br>4月17日 D2<br>4月18日 A2<br>检索结果仅供参考，请以OA或排班群发布为准；<br>数据由排班表自动生成，排班表中的错别字会影响到检索结果；<br>现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:07:15][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：<br><br>3月29日 D2<br>3月30日 A2<br>4月2日 E2<br>4月3日 B2<br>4月6日 C3<br>4月7日 C3<br>4月9日 E2<br>4月10日 B2<br>4月13日 备2<br>4月13日 备1<br>4月14日 F4<br>4月15日 F4<br>4月17日 D2<br>4月18日 A2<br><br>检索结果仅供参考，请以OA或排班群发布为准；<br><br>数据由排班表自动生成，排班表中的错别字会影响到检索结果；<br><br>现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:07:45][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：  3月29日 D2 3月30日 A2 4月2日 E2 4月3日 B2 4月6日 C3 4月7日 C3 4月9日 E2 4月10日 B2 4月13日 备2 4月13日 备1 4月14日 F4 4月15日 F4 4月17日 D2 4月18日 A2  检索结果仅供参考，请以OA或排班群发布为准；  数据由排班表自动生成，排班表中的错别字会影响到检索结果；  现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:08:09][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：<><>3月29日 D2<>3月30日 A2<>4月2日 E2<>4月3日 B2<>4月6日 C3<>4月7日 C3<>4月9日 E2<>4月10日 B2<>4月13日 备2<>4月13日 备1<>4月14日 F4<>4月15日 F4<>4月17日 D2<>4月18日 A2<><>检索结果仅供参考，请以OA或排班群发布为准；<><>数据由排班表自动生成，排班表中的错别字会影响到检索结果；<><>现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:08:58][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：<>3月29日 D2<>3月30日 A2<>4月2日 E2<>4月3日 B2<>4月6日 C3<>4月7日 C3<>4月9日 E2<>4月10日 B2<>4月13日 备2<>4月13日 备1<>4月14日 F4<>4月15日 F4<>4月17日 D2<>4月18日 A2<>检索结果仅供参考，请以OA或排班群发布为准；<>数据由排班表自动生成，排班表中的错别字会影响到检索结果；<>现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:09:35][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：\3月29日 D2\3月30日 A2\4月2日 E2\4月3日 B2\4月6日 C3\4月7日 C3\4月9日 E2\4月10日 B2\4月13日 备2\4月13日 备1\4月14日 F4\4月15日 F4\4月17日 D2\4月18日 A2\检索结果仅供参考，请以OA或排班群发布为准；\数据由排班表自动生成，排班表中的错别字会影响到检索结果；\现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:09:50][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：**3月29日 D2**3月30日 A2**4月2日 E2**4月3日 B2**4月6日 C3**4月7日 C3**4月9日 E2**4月10日 B2**4月13日 备2**4月13日 备1**4月14日 F4**4月15日 F4**4月17日 D2**4月18日 A2**检索结果仅供参考，请以OA或排班群发布为准；**数据由排班表自动生成，排班表中的错别字会影响到检索结果；**现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:10:16][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：    3月29日 D2    3月30日 A2    4月2日 E2    4月3日 B2    4月6日 C3    4月7日 C3    4月9日 E2    4月10日 B2    4月13日 备2    4月13日 备1    4月14日 F4    4月15日 F4    4月17日 D2    4月18日 A2    检索结果仅供参考，请以OA或排班群发布为准；    数据由排班表自动生成，排班表中的错别字会影响到检索结果；    现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:10:33][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：<>3月29日 D2<>3月30日 A2<>4月2日 E2<>4月3日 B2<>4月6日 C3<>4月7日 C3<>4月9日 E2<>4月10日 B2<>4月13日 备2<>4月13日 备1<>4月14日 F4<>4月15日 F4<>4月17日 D2<>4月18日 A2<>检索结果仅供参考，请以OA或排班群发布为准；<>数据由排班表自动生成，排班表中的错别字会影响到检索结果；<>现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:10:58][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: 查找到王涛近期的排班：><3月29日 D2><3月30日 A2><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。
+[2017-03-29 00:11:21][index.php][pbcx]User: straydoggie
+Receive: 王涛
+Reply: <查找到王涛近期的排班：><3月29日 D2><3月30日 A2><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-29 00:11:57][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><3月29日 D2><3月30日 A2><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-29 00:58:33][index.php][pbcx]User: <xuzhan>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-03-29 11:37:41][index.php][pbcx]User: <wujike>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-03-29 14:51:09][index.php][pbcx]User: <liurui>
+Receive: <刘锐>
+Reply: <查找到刘锐近期的排班：><4月1日 DS><4月2日 AS><4月6日 FS><4月7日 FS><4月10日 DS><4月11日 AS><4月14日 ES><4月15日 BS><4月18日 CM><4月19日 CM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-30 09:53:09][index.php][pbcx]User: <xuyang>
+Receive: <许扬>
+Reply: <查找到许扬近期的排班：><3月30日 A3><4月2日 E3><4月3日 B3><4月6日 D4><4月7日 A4><4月9日 E3><4月10日 B3><4月14日 G3><4月15日 G3><4月17日 D3><4月18日 A3><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-30 20:18:54][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-03-30 20:19:00][index.php][pbcx]User: <straydoggie>
+Receive: <李阳>
+Reply: <查找到李阳近期的排班：><3月30日 F2><4月2日 D2><4月3日 A2><4月6日 E2><4月7日 B2><4月10日 C3><4月11日 C3><4月13日 E3><4月14日 B3><4月18日 F3><4月19日 F3><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-30 21:02:43][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><3月30日 A2><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-30 21:05:13][index.php][pbcx]User: <straydoggie>
+Receive: <备>
+Reply: <查找到3月30日上备的人员：><钱坤><钱坤><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-30 21:05:47][index.php][pbcx]User: <straydoggie>
+Receive: <20170239备>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-03-30 21:06:00][index.php][pbcx]User: <straydoggie>
+Receive: <20170329备>
+Reply: <查找到3月29日上备的人员：><黄建明><黄建明><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-31 17:14:45][index.php][pbcx]User: <zhanglidan>
+Receive: <A>
+Reply: <查找到3月31日上A的人员：><周阳俊><郑皓天><李睿杰><肖芳静><黄中><费涛><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-31 20:22:15][index.php][pbcx]User: <straydoggie>
+Receive: <20170401休>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-03-31 20:22:28][index.php][pbcx]User: <straydoggie>
+Receive: <20170401a>
+Reply: <查找到4月1日上A的人员：><张霁炜><宋源><赖鹏><杨乐><周海伦><徐文><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-03-31 20:22:41][index.php][pbcx]User: <straydoggie>
+Receive: <20170401>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-03-31 20:22:49][index.php][pbcx]User: <straydoggie>
+Receive: <20170401休>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-03-31 23:12:41][index.php][pbcx]User: <huchao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-01 13:48:15][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-04-01 13:48:25][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月1日上A的人员：><张霁炜><宋源><赖鹏><杨乐><周海伦><徐文><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:48:26][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月1日上B的人员：><胡鹏><王铁良><黄建明><郭爱华><吕腾><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:51:06][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><黄中  费涛  苟翔><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><靳荆  王怡然  李卓然><吴量  殷茂鑫  李智楠><李阳  李富海  贾子峰><彭涛  李剑  刘畅><刘子可  赵英男  吴继柯><薛宏伟  许湛  张丽丹><王子龙  刘振宇  周游><蒋毅  刘丹  杨涛><蒲翔宇  王涛  许扬><蒋垄  姚昕  袁柯><林桦  田原  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:51:51][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静  黄中  费涛  苟翔  郑皓天  邝从举  钟华超  高曼宇  贺茂硕  李竞博  靳荆  王怡然  李卓然  吴量  殷茂鑫  李智楠  李阳  李富海  贾子峰  彭涛  李剑  刘畅  刘子可  赵英男  吴继柯  薛宏伟  许湛  张丽丹  王子龙  刘振宇  周游  蒋毅  刘丹  杨涛  蒲翔宇  王涛  许扬  蒋垄  姚昕  袁柯  林桦  田原  林彦州  周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:52:16][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊　李睿杰　肖芳静　黄中　费涛　苟翔　郑皓天　邝从举　钟华超　高曼宇　贺茂硕　李竞博　靳荆　王怡然　李卓然　吴量　殷茂鑫　李智楠　李阳　李富海　贾子峰　彭涛　李剑　刘畅　刘子可　赵英男　吴继柯　薛宏伟　许湛　张丽丹　王子龙　刘振宇　周游　蒋毅　刘丹　杨涛　蒲翔宇　王涛　许扬　蒋垄　姚昕　袁柯　林桦　田原　林彦州　周佳凝　><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:56:38][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><黄中  费涛  苟翔><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><靳荆  王怡然  李卓然><吴量  殷茂鑫  李智楠><李阳  李富海  贾子峰><彭涛  李剑  刘畅><刘子可  赵英男  吴继柯><薛宏伟  许湛  张丽丹><王子龙  刘振宇  周游><蒋毅  刘丹  杨涛><蒲翔宇  王涛  许扬><蒋垄  姚昕  袁柯><林桦  田原  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:57:16][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><黄中  费涛  苟翔><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><靳荆  王怡然  李卓然><吴量  殷茂鑫  李智楠><李阳  李富海  贾子峰><彭涛  李剑  刘畅><刘子可  赵英男  吴继柯><薛宏伟  许湛  张丽丹><王子龙  刘振宇  周游><蒋毅  刘丹  杨涛><蒲翔宇  王涛  许扬><蒋垄  姚昕  袁柯><林桦  田原  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:57:32][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><黄中  费涛  苟翔><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><靳荆  王怡然  李卓然><吴量  殷茂鑫  李智楠><李阳  李富海  贾子峰><彭涛  李剑  刘畅><刘子可  赵英男  吴继柯><薛宏伟  许湛  张丽丹><王子龙  刘振宇  周游><蒋毅  刘丹  杨涛><蒲翔宇  王涛  许扬><蒋垄  姚昕  袁柯><林桦  田原  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:58:02][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  9李睿杰  9肖芳静><黄中  6费涛  6苟翔><郑皓天  9邝从举  9钟华超><高曼宇  9贺茂硕  9李竞博><靳荆  6王怡然  9李卓然><吴量  6殷茂鑫  9李智楠><李阳  6李富海  9贾子峰><彭涛  6李剑  6刘畅><刘子可  9赵英男  9吴继柯><薛宏伟  9许湛  6张丽丹><王子龙  9刘振宇  9周游><蒋毅  6刘丹  6杨涛><蒲翔宇  9王涛  6许扬><蒋垄  6姚昕  6袁柯><林桦  6田原  6林彦州><周佳凝  9><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:58:22][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><�　�  �　�  �　�><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><�　�  王怡然  李卓然><�　�  殷茂鑫  李智楠><�　�  李富海  贾子峰><�　�  �　�  �　�><刘子可  赵英男  吴继柯><薛宏伟  �　�  张丽丹><王子龙  刘振宇  �　�><�　�  �　�  �　�><蒲翔宇  �　�  �　�><�　�  �　�  �　�><�　�  �　�  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:59:07][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊  李睿杰  肖芳静><黄　中  费　涛  苟　翔><郑皓天  邝从举  钟华超><高曼宇  贺茂硕  李竞博><靳　荆  王怡然  李卓然><吴　量  殷茂鑫  李智楠><李　阳  李富海  贾子峰><彭　涛  李　剑  刘　畅><刘子可  赵英男  吴继柯><薛宏伟  许　湛  张丽丹><王子龙  刘振宇  周　游><蒋　毅  刘　丹  杨　涛><蒲翔宇  王　涛  许　扬><蒋　垄  姚　昕  袁　柯><林　桦  田　原  林彦州><周佳凝  ><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 13:59:24][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊、李睿杰、肖芳静><黄　中、费　涛、苟　翔><郑皓天、邝从举、钟华超><高曼宇、贺茂硕、李竞博><靳　荆、王怡然、李卓然><吴　量、殷茂鑫、李智楠><李　阳、李富海、贾子峰><彭　涛、李　剑、刘　畅><刘子可、赵英男、吴继柯><薛宏伟、许　湛、张丽丹><王子龙、刘振宇、周　游><蒋　毅、刘　丹、杨　涛><蒲翔宇、王　涛、许　扬><蒋　垄、姚　昕、袁　柯><林　桦、田　原、林彦州><周佳凝、><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 15:18:51][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月1日不上班的人员：><周阳俊、李睿杰、肖芳静><黄　中、费　涛、苟　翔><郑皓天、邝从举、钟华超><高曼宇、贺茂硕、李竞博><靳　荆、王怡然、李卓然><吴　量、殷茂鑫、李智楠><李　阳、李富海、贾子峰><彭　涛、李　剑、刘　畅><刘子可、赵英男、吴继柯><薛宏伟、许　湛、张丽丹><王子龙、刘振宇、周　游><蒋　毅、刘　丹、杨　涛><蒲翔宇、王　涛、许　扬><蒋　垄、姚　昕、袁　柯><林　桦、田　原、林彦州><周佳凝><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 15:19:05][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月1日上A的人员：><张霁炜><宋　源><赖　鹏><杨　乐><周海伦><徐　文><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 22:49:19][index.php][pbcx]User: <straydoggie>
+Receive: <备>
+Reply: <查找到4月1日上备的人员：><刘　超><刘　超><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-01 23:11:41][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 11:40:19][index.php][pbcx]User: <straydoggie>
+Receive: <吴量>
+Reply: <查找到吴量近期的排班：><4月2日 DS><4月3日 AS><4月6日 ES><4月7日 BS><4月10日 CM><4月11日 CM><4月13日 ES><4月14日 BS><4月18日 G1><4月19日 G1><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 11:50:05][index.php][pbcx]User: <straydoggie>
+Receive: <d>
+Reply: <查找到4月2日上D的人员：><吴　量><殷茂鑫><李智楠><李　阳><李富海><贾子峰><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 11:50:06][index.php][pbcx]User: <straydoggie>
+Receive: <e>
+Reply: <查找到4月2日上E的人员：><杨　涛><蒲翔宇><王　涛><许　扬><蒋　垄><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 14:14:07][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <>
+[2017-04-02 14:14:22][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-02 14:14:58][index.php][pbcx]User: <straydoggie>
+Receive: <蒲滔>
+Reply: <查找到蒲滔近期的排班：><4月4日 E3><4月5日 B3><4月8日 D3><4月9日 A3><4月12日 C3><4月13日 C3><4月15日 E3><4月16日 B3><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 14:15:00][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-02 14:15:08][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-02 14:18:18][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-02 14:37:36][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <>
+[2017-04-02 14:44:03][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-02 14:44:08][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-02 14:44:15][index.php][pbcx]User: <xuehongwei>
+Receive: <薛宏伟>
+Reply: <查找到薛宏伟近期的排班：><4月2日 CM><4月3日 CM><4月5日 ES><4月6日 BS><4月10日 G1><4月11日 G1><4月13日 DS><4月14日 AS><4月18日 FS><4月19日 FS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-02 16:48:08][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月2日 E2><4月3日 B2><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 07:28:33][index.php][pbcx]User: <straydoggie>
+Receive: <袁柯>
+Reply: <查找到袁柯近期的排班：><4月3日 FS><4月6日 DS><4月7日 AS><4月10日 ES><4月11日 BS><4月14日 CM><4月15日 CM><4月17日 ES><4月18日 BS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 08:25:50][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月3日上B的人员：><杨　涛><蒲翔宇><王　涛><许　扬><蒋　垄><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 08:26:00][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月3日上A的人员：><吴　量><殷茂鑫><李智楠><李　阳><李富海><贾子峰><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 17:43:03][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月3日上B的人员：><杨　涛><蒲翔宇><王　涛><许　扬><蒋　垄><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 17:43:41][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月3日上A的人员：><吴　量><殷茂鑫><李智楠><李　阳><李富海><贾子峰><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 20:38:47][index.php][pbcx]User: <straydoggie>
+Receive: <黄中>
+Reply: <查找到黄中近期的排班：><4月4日 F3><4月5日 F3><4月8日 E3><4月9日 B3><4月12日 D3><4月13日 A3><4月16日 C3><4月17日 C3><4月19日 E1><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 20:38:57][index.php][pbcx]User: <straydoggie>
+Receive: <陈欣然>
+Reply: <查找到陈欣然近期的排班：><4月5日 D1><4月6日 A1><4月10日 D2><4月11日 A2><4月14日 E2><4月15日 B2><4月18日 C2><4月19日 C2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 20:40:01][index.php][pbcx]User: <straydoggie>
+Receive: <陈航>
+Reply: <查找到陈航近期的排班：><4月6日 F4><4月7日 F4><4月10日 D4><4月11日 A4><4月14日 E4><4月15日 B4><4月18日 C4><4月19日 C4><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-03 21:02:19][index.php][pbcx]User: <zhanglidan>
+Receive: <张丽丹>
+Reply: <查找到张丽丹近期的排班：><4月4日 D1><4月5日 A1><4月8日 C1><4月9日 C1><4月11日 E1><4月12日 B1><4月16日 G1><4月17日 G1><4月19日 D1><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 01:22:12][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-04 01:22:25][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-04 01:22:32][index.php][pbcx]User: <xuehongwei>
+Receive: <A>
+Reply: <查找到4月4日上A的人员：><宋　源><郑皓天><陈华宽><邹子君><周　杨><熊谭龙><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 01:22:43][index.php][pbcx]User: <xuehongwei>
+Receive: <C>
+Reply: <查找到4月4日上C的人员：><张霁炜><赖　鹏><杨　乐><周海伦><徐　文><周佳凝><周佳凝><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 01:23:15][index.php][pbcx]User: <xuehongwei>
+Receive: <薛宏伟>
+Reply: <查找到薛宏伟近期的排班：><4月5日 ES><4月6日 BS><4月10日 G1><4月11日 G1><4月13日 DS><4月14日 AS><4月18日 FS><4月19日 FS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 01:24:18][index.php][pbcx]User: <xuehongwei>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-04 11:52:15][index.php][pbcx]User: <xuehongwei>
+Receive: <A>
+Reply: <查找到4月4日上A的人员：><宋　源><郑皓天><陈华宽><邹子君><周　杨><熊谭龙><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 11:52:24][index.php][pbcx]User: <xuehongwei>
+Receive: <B>
+Reply: <查找到4月4日上B的人员：><何　飞><王振翮><蔡成果><廉宇澄><郭　霖><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 11:52:31][index.php][pbcx]User: <xuehongwei>
+Receive: <C>
+Reply: <查找到4月4日上C的人员：><张霁炜><赖　鹏><杨　乐><周海伦><徐　文><周佳凝><周佳凝><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 11:52:38][index.php][pbcx]User: <xuehongwei>
+Receive: <D>
+Reply: <查找到4月4日上D的人员：><陈虹宇><贺茂硕><张丽丹><黄建明><郭爱华><吕　腾><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-04 13:01:38][index.php][pbcx]User: <yanxiao>
+Receive: <>
+Reply: <>
+[2017-04-04 13:08:11][index.php][pbcx]User: <yanxiao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-04 21:19:40][index.php][pbcx]User: <yanxiao2>
+Receive: <>
+Reply: <>
+[2017-04-04 21:21:45][index.php][pbcx]User: <yanxiao2>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-04 22:12:19][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月6日 C3><4月7日 C3><4月9日 E2><4月10日 B2><4月13日 备2><4月13日 备1><4月14日 F4><4月15日 F4><4月17日 D2><4月18日 A2><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-06 17:02:47][index.php][pbcx]User: <yuanfudong>
+Receive: <袁福栋>
+Reply: <查找到袁福栋近期的排班：><4月6日 C1><4月7日 C1><4月9日 E1><4月10日 B1><4月14日 F3><4月15日 F3><4月17日 DM><4月18日 AM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-06 17:06:22][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>>
+[2017-04-06 19:12:05][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-06 19:46:38][index.php][pbcx]User: <straydoggie>
+Receive: <s>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-04-06 19:46:41][index.php][pbcx]User: <straydoggie>
+Receive: <m>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-04-06 19:46:44][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月6日上A的人员：><彭　涛><李　剑><陈欣然><刘　畅><赵英男><蒋　垄><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-08 10:20:11][index.php][pbcx]User: <liurui>
+Receive: <周阳俊>
+Reply: <查找到周阳俊近期的排班：><4月8日 ES><4月9日 BS><4月12日 DS><4月13日 AS><4月16日 CM><4月17日 CM><4月19日 ES><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-08 11:54:59][index.php][pbcx]User: <liurui>
+Receive: <何飞>
+Reply: <查找到何飞近期的排班：><4月8日 DM><4月9日 AM><4月11日 DS><4月12日 AS><4月16日 FS><4月17日 FS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-08 11:55:13][index.php][pbcx]User: <liurui>
+Receive: <胡鹏>
+Reply: <查找到胡鹏近期的排班：><4月8日 DS><4月9日 AS><4月12日 CM><4月13日 CM><4月16日 DM><4月17日 AM><4月19日 DS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:16:29][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月10日 B（B）><4月13日 B（B）><4月13日 B（B）><4月14日 F（F）><4月15日 F（F）><4月17日 D（D）><4月18日 A（A）><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:18:24][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月10日 B><4月13日 B><4月13日 B（1800-起早）><4月14日 F><4月15日 F><4月17日 D><4月18日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:18:32][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月10日上B的人员：><宋　源><宋　源><袁福栋><王　涛><许　扬><蒋　垄><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:20:20][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月10日 B><4月13日 B><4月13日 B（1800-起早）><4月14日 F><4月15日 F><4月17日 D><4月18日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:20:24][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月10日上B的人员：><宋　源 BS><宋　源 BS><袁福栋 B><王　涛 B><许　扬 B><蒋　垄 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:21:10][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月10日上B的人员：><宋　源	BS><宋　源	BS><袁福栋	B><王　涛	B><许　扬	B><蒋　垄	B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:21:57][index.php][pbcx]User: <straydoggie>
+Receive: <值班>
+Reply: <查找到4月10日上值班的人员：><何　伟 值班><何　伟 值班><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:22:10][index.php][pbcx]User: <straydoggie>
+Receive: <b>
+Reply: <查找到4月10日上B的人员：><宋　源 BS><宋　源 BS><袁福栋 B><王　涛 B><许　扬 B><蒋　垄 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:24:08][index.php][pbcx]User: <straydoggie>
+Receive: <20170413b>
+Reply: <查找到4月13日上B的人员：><宋　源 BS><邹子君 B><周　杨 B><熊谭龙 B><王　涛 B><王　涛 B（1800-起早）><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:51:24][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-10 13:52:18][index.php][pbcx]User: <straydoggie>
+Receive: <a>
+Reply: <查找到4月10日上A的人员：><骆彦铭 AS><茆以乐 AM><蒲翔宇 A><王绍楠 A><胡　超 A><周行远 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:19][index.php][pbcx]User: <guoaihua>
+Receive: <郭爱华>
+Reply: <查找到郭爱华近期的排班：><4月11日 E><4月12日 B><4月16日 G><4月17日 G><4月19日 D><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:21][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <查找到王涛近期的排班：><4月10日 B><4月13日 B><4月13日 B（1800-起早）><4月14日 F><4月15日 F><4月17日 D><4月18日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:25][index.php][pbcx]User: <zhanglidan>
+Receive: <张丽丹>
+Reply: <查找到张丽丹近期的排班：><4月11日 E><4月12日 B><4月16日 G><4月17日 G><4月19日 D><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:38][index.php][pbcx]User: <straydoggie>
+Receive: <休>
+Reply: <查找到4月10日不上班的人员：><周阳俊、李睿杰、肖芳静><黄　中、费　涛、苟　翔><胡　鹏、郑皓天、邝从举><黄建明、郭爱华、吕　腾><陈华宽、周　杨、熊谭龙><张霁炜、赖　鹏、杨　乐><周海伦、徐　文、钟华超><高曼宇、楚捷骢、蒲　滔><邹　凯、何　飞、王振翮><蔡成果、廉宇澄、郭　霖><贺茂硕、李竞博、靳　荆><王怡然、李卓然、刘子可><吴继柯、薛宏伟、张丽丹><蒋　毅、刘　丹、杨　涛><姚　昕、王铁良、周佳凝><陈虹宇><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:43][index.php][pbcx]User: <yuanfudong>
+Receive: <袁福栋>
+Reply: <查找到袁福栋近期的排班：><4月10日 B><4月14日 F><4月15日 F><4月17日 DM><4月18日 AM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:52:59][index.php][pbcx]User: <zhaoyingnan>
+Receive: <赵英男>
+Reply: <查找到赵英男近期的排班：><4月10日 F><4月11日 F><4月14日 D><4月15日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 13:53:00][index.php][pbcx]User: <zhanglidan>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-10 13:53:01][index.php][pbcx]User: <zhanglidan>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-10 14:01:34][index.php][pbcx]User: <xuzhan>
+Receive: <许湛>
+Reply: <查找到许湛近期的排班：><4月10日 F><4月11日 F><4月13日 DM><4月14日 AM><4月18日 F><4月19日 F><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 14:06:15][index.php][pbcx]User: <xuyang>
+Receive: <许扬>
+Reply: <查找到许扬近期的排班：><4月10日 B><4月14日 G><4月15日 G><4月17日 D><4月18日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 14:13:03][index.php][pbcx]User: <liuchang>
+Receive: <刘畅>
+Reply: <查找到刘畅近期的排班：><4月10日 F><4月11日 F><4月14日 D><4月15日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 14:51:04][index.php][pbcx]User: <wujike>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-10 15:01:52][index.php][pbcx]User: <pengtao>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-10 15:02:01][index.php][pbcx]User: <pengtao>
+Receive: <彭涛>
+Reply: <查找到彭涛近期的排班：><4月10日 FS><4月11日 FS><4月14日 DS><4月15日 AS><4月18日 ES><4月19日 BS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 15:08:17][index.php][pbcx]User: <yinmaoxin>
+Receive: <殷茂鑫>
+Reply: <查找到殷茂鑫近期的排班：><4月10日 C><4月11日 C><4月13日 E><4月14日 B><4月18日 G><4月19日 G><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 15:23:19][index.php][pbcx]User: <xuehongwei>
+Receive: <A>
+Reply: <查找到4月10日上A的人员：><骆彦铭 AS><茆以乐 AM><蒲翔宇 A><王绍楠 A><胡　超 A><周行远 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 15:23:30][index.php][pbcx]User: <xuehongwei>
+Receive: <B>
+Reply: <查找到4月10日上B的人员：><宋　源 BS><宋　源 BS><袁福栋 B><王　涛 B><许　扬 B><蒋　垄 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 15:36:09][index.php][pbcx]User: <lifuhai>
+Receive: <李富海>
+Reply: <查找到李富海近期的排班：><4月10日 F><4月11日 F><4月14日 B><4月17日 备2><4月17日 备1><4月18日 F><4月19日 F><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 15:50:35][index.php][pbcx]User: <xuehongwei>
+Receive: <李剑>
+Reply: <查找到李剑近期的排班：><4月10日 DM><4月11日 AM><4月14日 D><4月15日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 17:51:32][index.php][pbcx]User: <straydoggie>
+Receive: <B>
+Reply: <查找到4月10日上B的人员：><宋　源 BS><宋　源 BS><袁福栋 B><王　涛 B><许　扬 B><蒋　垄 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 19:52:16][index.php][pbcx]User: <yanxiao2>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-10 19:55:29][index.php][pbcx]User: <zhaoyingnan>
+Receive: <刘振宇>
+Reply: <查找到刘振宇近期的排班：><4月10日 G><4月11日 G><4月13日 D><4月14日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 19:55:39][index.php][pbcx]User: <zhaoyingnan>
+Receive: <周游>
+Reply: <查找到周游近期的排班：><4月10日 G><4月11日 G><4月13日 D><4月14日 A><4月18日 D><4月19日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-10 21:37:38][index.php][pbcx]User: <luoyanming>
+Receive: <骆彦铭>
+Reply: <查找到骆彦铭近期的排班：><4月10日 AS><4月14日 FS><4月15日 FS><4月18日 DS><4月19日 AS><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-11 11:47:09][index.php][pbcx]User: <xuehongwei>
+Receive: <袁福栋>
+Reply: <查找到袁福栋近期的排班：><4月14日 F><4月15日 F><4月17日 DM><4月18日 AM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-11 11:47:22][index.php][pbcx]User: <xuehongwei>
+Receive: <李剑>
+Reply: <查找到李剑近期的排班：><4月11日 AM><4月14日 D><4月15日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 09:51:26][index.php][pbcx]User: <xuehongwei>
+Receive: <刘畅>
+Reply: <查找到刘畅近期的排班：><4月14日 D><4月15日 A><4月18日 E><4月19日 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 09:55:52][index.php][pbcx]User: <xuehongwei>
+Receive: <刘锐>
+Reply: <查找到刘锐近期的排班：><4月14日 ES><4月15日 BS><4月18日 CM><4月19日 CM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 09:56:11][index.php][pbcx]User: <xuehongwei>
+Receive: <杨涛>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-04-12 09:56:26][index.php][pbcx]User: <xuehongwei>
+Receive: <张霁炜>
+Reply: <查找到张霁炜近期的排班：><4月12日 DS><4月13日 AS><4月16日 CM（许卫东）><4月17日 CM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 11:09:34][index.php][pbcx]User: <liurui>
+Receive: <刘锐>
+Reply: <查找到刘锐近期的排班：><4月14日 ES><4月15日 BS><4月18日 CM><4月19日 CM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 11:09:58][index.php][pbcx]User: <liurui>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-12 11:10:31][index.php][pbcx]User: <liurui>
+Receive: <20170415>
+Reply: <什么也没有找到~~~><数据由排班表自动生成，排班表中的错别字会影响到检索结果。>
+[2017-04-12 11:10:37][index.php][pbcx]User: <liurui>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-12 11:58:39][index.php][pbcx]User: <xuyang>
+Receive: <郭霖>
+Reply: <查找到郭霖近期的排班：><4月12日 A><4月16日 F><4月17日 F><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 11:59:01][index.php][pbcx]User: <xuyang>
+Receive: <陈华宽>
+Reply: <查找到陈华宽近期的排班：><4月12日 DM><4月13日 AM><4月16日 D><4月17日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-12 12:27:18][index.php][pbcx]User: <zhangtianlun>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-12 22:55:55][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-13 00:35:33][index.php][pbcx]User: <xuzhan>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-13 16:15:09][index.php][pbcx]User: <liurui>
+Receive: <刘锐>
+Reply: <查找到刘锐近期的排班：><4月14日 ES><4月15日 BS><4月18日 CM><4月19日 CM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-14 09:36:48][index.php][pbcx]User: <yuanfudong>
+Receive: <周游>
+Reply: <查找到周游近期的排班：><4月14日 A><4月18日 D><4月19日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-14 12:54:26][index.php][pbcx]User: <xuyang>
+Receive: <许扬>
+Reply: <查找到许扬近期的排班：><4月14日 G><4月15日 G><4月17日 D><4月18日 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-17 10:08:51][index.php][pbcx]User: <yuanfudong>
+Receive: <袁福栋>
+Reply: <查找到袁福栋近期的排班：><4月17日 DM><4月18日 AM><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-18 00:33:52][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-18 19:18:24][index.php][pbcx]User: <xuehongwei>
+Receive: <A>
+Reply: <查找到4月18日上A的人员：><吴　量 AS><袁福栋 AM><蒲翔宇 A><王　涛 A><许　扬 A><蒋　垄 A><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-18 19:18:33][index.php][pbcx]User: <xuehongwei>
+Receive: <B>
+Reply: <查找到4月18日上B的人员：><袁　柯 BS><林　桦 B><田　原 B><刘　超 B><林彦州 B><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-18 19:27:35][index.php][pbcx]User: <xuehongwei>
+Receive: <G>
+Reply: <查找到4月18日上G的人员：><熊谭龙 G><殷茂鑫 G><李智楠 G><贾子峰 G><熊谭龙 G><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-19 16:49:42][index.php][pbcx]User: <putao>
+Receive: <>
+Reply: <生效中的排班表：><<a href="http://pan.baidu.com/s/1pLCtMVh">20170323-20170419排班终端发布表（20170322）</a>><<a href="http://pan.baidu.com/s/1claEq6">20170323-20170419排班终端发布表（20170409）</a>>
+[2017-04-19 17:01:59][index.php][pbcx]User: <xuehongwei>
+Receive: <张添伦>
+Reply: <查找到张添伦近期的排班：><4月19日 C><检索结果仅供参考，请以OA或排班群发布为准；><数据由排班表自动生成，排班表中的错别字会影响到检索结果；><现已可以查询每日休息人员，方法见使用说明。>
+[2017-04-20 18:41:12][index.php][pbcx]User: <zhanglidan>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-04-20 18:41:23][index.php][pbcx]User: <zhanglidan>
+Receive: <A>
+Reply: <数据已过期>
+[2017-04-21 12:30:32][index.php][pbcx]User: <wufeng>
+Receive: <e>
+Reply: <数据已过期>
+[2017-04-21 12:30:49][index.php][pbcx]User: <wufeng>
+Receive: <E>
+Reply: <数据已过期>
+[2017-04-21 12:30:57][index.php][pbcx]User: <wufeng>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-04-21 12:30:58][index.php][pbcx]User: <wufeng>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-04-23 21:05:05][index.php][pbcx]User: <zhanglidan>
+Receive: <张丽丹>
+Reply: <数据已过期>
+[2017-04-26 17:22:55][index.php][pbcx]User: <wufeng>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-04-28 23:13:21][index.php][pbcx]User: <wangbo>
+Receive: <>
+Reply: <>
+[2017-04-29 23:40:37][index.php][pbcx]User: <wangbo1>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-04-29 23:40:54][index.php][pbcx]User: <wangbo1>
+Receive: <王博>
+Reply: <数据已过期>
+[2017-05-28 00:27:02][index.php][pbcx]User: <wohao>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-05-28 00:27:03][index.php][pbcx]User: <wohao>
+Receive: <吴昊>
+Reply: <数据已过期>
+[2017-06-30 21:35:02][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <数据已过期>
+[2017-07-06 01:55:45][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <>
+[2017-07-06 11:22:12][index.php][pbcx]User: <yuanfudong>
+Receive: <袁福栋>
+Reply: <数据已过期>
+[2017-07-17 12:21:53][index.php][pbcx]User: <chaomianbo>
+Receive: <>
+Reply: <>
+[2017-07-17 12:22:29][index.php][pbcx]User: <wufeng>
+Receive: <>
+Reply: <>
+[2017-07-17 12:25:41][index.php][pbcx]User: <LiNing>
+Receive: <>
+Reply: <>
+[2017-07-17 12:26:46][index.php][pbcx]User: <LiNing>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-07-17 12:26:51][index.php][pbcx]User: <LiNing>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-07-21 10:53:36][index.php][pbcx]User: <guoaihua>
+Receive: <郭爱华>
+Reply: <数据已过期>
+[2017-07-22 10:48:06][index.php][pbcx]User: <LiNing>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-07-22 10:48:24][index.php][pbcx]User: <LiNing>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-08-16 15:22:32][index.php][pbcx]User: <straydoggie>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-08-16 15:22:34][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <数据已过期>
+[2017-08-16 15:25:03][index.php][pbcx]User: <straydoggie>
+Receive: <王涛>
+Reply: <数据已过期>
+[2017-08-16 15:25:31][index.php][pbcx]User: <straydoggie>
+Receive: <阳台>
+Reply: <数据已过期>
+[2017-08-17 09:16:23][index.php][pbcx]User: <WangZhenHe>
+Receive: <>
+Reply: <>
+[2017-08-17 09:16:27][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <>
+[2017-08-17 09:16:30][index.php][pbcx]User: <HuangZhong>
+Receive: <>
+Reply: <>
+[2017-08-17 09:56:01][index.php][pbcx]User: <WangTieLiang>
+Receive: <>
+Reply: <>
+[2017-08-17 13:00:14][index.php][pbcx]User: <MaoYiLe>
+Receive: <>
+Reply: <>
+[2017-08-24 15:13:48][index.php][pbcx]User: <ZhouHaiLun>
+Receive: <>
+Reply: <>
+[2017-08-29 23:18:48][index.php][pbcx]User: <LiaoQian>
+Receive: <>
+Reply: <>
+[2017-08-31 16:09:23][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-08-31 16:09:30][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-09-01 20:53:36][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-09-01 21:20:30][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <>
+[2017-09-01 21:24:46][index.php][pbcx]User: <JinJing>
+Receive: <>
+Reply: <>
+[2017-09-06 21:20:13][index.php][pbcx]User: <inctu>
+Receive: <>
+Reply: <>
+[2017-09-15 15:57:30][index.php][pbcx]User: <ZouAiLin>
+Receive: <>
+Reply: <>
+[2017-09-15 15:58:30][index.php][pbcx]User: <zhuangzhuang>
+Receive: <>
+Reply: <>
+[2017-09-15 15:58:30][index.php][pbcx]User: <yanhong>
+Receive: <>
+Reply: <>
+[2017-09-15 15:58:38][index.php][pbcx]User: <shenlu>
+Receive: <>
+Reply: <>
+[2017-09-15 16:00:23][index.php][pbcx]User: <ZouAiLin>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-09-18 10:46:50][index.php][pbcx]User: <QianKun>
+Receive: <>
+Reply: <>
+[2017-10-03 23:31:21][index.php][pbcx]User: <zhuangzhuang>
+Receive: <>
+Reply: <没有找到有效期内的排班表~~>
+[2017-10-03 23:31:26][index.php][pbcx]User: <zhuangzhuang>
+Receive: <>
+Reply: <【使用说明】><1、输入姓名，可查询今日及以后的值班安排；><2、输入执勤时段（A～G）或“休”，可查询今日执该时段或不上班的人员；><3、输入八位日期+时段，可查询指定日期上班的人员；><例如：输入“20160101A”可查询2016年1月1日执A时段的人员，输入“20170301”可查询当日不上班的人员。>
+[2017-10-03 23:31:41][index.php][pbcx]User: <zhuangzhuang>
+Receive: <20171003>
+Reply: <数据已过期>

@@ -1,0 +1,7 @@
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx29136ddcd832c0b5&redirect_uri=cdapp.straydoggie.cn%2ffunctions%2fzztk%2fhtml%2fexercise_start.php&response_type=code&scope=snsapi_base#wechat_redirect
+
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx29136ddcd832c0b5&redirect_uri=cdapp.straydoggie.cn%2ffunctions%2fzztk%2fhtml%2fexercise_resume.php&response_type=code&scope=snsapi_base#wechat_redirect
+
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx29136ddcd832c0b5&redirect_uri=cdapp.straydoggie.cn%2ffunctions%2fzztk%2fhtml%2fexercise_review.php&response_type=code&scope=snsapi_base#wechat_redirect
+
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx29136ddcd832c0b5&redirect_uri=cdapp.straydoggie.cn%2ffunctions%2fzztk%2fhtml%2fexercise_fav.php&response_type=code&scope=snsapi_base#wechat_redirect
